@@ -428,8 +428,10 @@ def write_ics(events):
     for e in events:
         d = date.fromisoformat(e["date"])
         name = e.get("topic") or e["title"]
-        reg = "｜需報名" if "需報名" in e["tags"] else ""
-        summary = f"【{tag_label(e['tags'])}{reg}】{name}"
+        lab = tag_label(e["tags"])
+        if "需報名" in e["tags"]:
+            lab = "需報名" if lab == "未註明" else lab + "｜需報名"
+        summary = f"【{lab}】{name}"
         if e.get("speaker"):
             summary += f"｜{e['speaker'][:30]}"
         desc = [f"主辦：{'、'.join(e['units'])}"]
