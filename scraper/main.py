@@ -29,16 +29,33 @@ session.headers.update({"User-Agent": UA, "Accept-Language": "zh-TW,zh;q=0.9,en;
 
 # ---------- 抓網頁 ----------
 
-def fetch(url):
+DEBUG = {}
+FINAL_URL = {}
+
+
+def fetch(url, _depth=0):
     for attempt in range(2):
         try:
             r = session.get(url, timeout=25)
             if r.status_code != 200:
+                DEBUG.setdefault("http", {})[url] = r.status_code
                 return None
             if not r.encoding or r.encoding.lower() == "iso-8859-1":
                 r.encoding = r.apparent_encoding
-            return r.text
-        except requests.RequestException:
+            text = r.text
+            FINAL_URL[url] = r.url
+            # 首頁只有一行 meta refresh 或 location.href 轉址的，跟過去
+            m = re.search(r'http-equiv=["\']?refresh["\']?[^>]*url=([^"\'>\s]+)', text, re.I) or \
+                re.search(r'(?:window\.)?location(?:\.href)?\s*=\s*["\']([^"\']+)["\']', text)
+            if m and len(text) < 3000 and _depth < 2:
+                nxt = urljoin(r.url, html.unescape(m.group(1)))
+                got = fetch(nxt, _depth + 1)
+                if got:
+                    FINAL_URL[url] = FINAL_URL.get(nxt, nxt)
+                    return got
+            return text
+        except requests.RequestException as e:
+            DEBUG.setdefault("error", {})[url] = type(e).__name__
             time.sleep(2)
     return None
 
@@ -62,9 +79,20 @@ def find_list_pages(home_url, soup):
         if "/p/403-" in href or (LIST_WORDS.search(text) and len(text) <= 20):
             if href not in lists:
                 lists.append(href)
+    # RPage 首頁的公告區塊常用 JavaScript 載入，原始碼裡只留分類編號（Nbr=272 或公告網址的 ,r272）。
+    # 用編號組出列表頁 /p/403-<網站編號>-<分類編號>-1.php
+    raw = str(soup)
+    site = re.search(r"/p/\d{3}-(\d+)-", raw)
+    if site:
+        base = "{0.scheme}://{0.netloc}".format(urlparse(home_url))
+        nbrs = re.findall(r"Nbr=(\d+)", raw) + re.findall(r",r(\d+)\.php", raw)
+        for n in dict.fromkeys(nbrs):
+            u = f"{base}/p/403-{site.group(1)}-{n}-1.php?Lang=zh-tw"
+            if not any(f"-{site.group(1)}-{n}-" in x for x in lists):
+                lists.append(u)
     # 演講類列表優先
     lists.sort(key=lambda u: 0 if "/p/403-" in u else 1)
-    return lists[:8]
+    return lists[:14]
 
 
 def find_articles(page_url, soup):
@@ -91,7 +119,7 @@ TALK_TITLE = re.compile(
     r"seminar|colloquium|lecture|talk|forum|workshop|symposium|webinar",
     re.I,
 )
-NOT_TALK = re.compile(r"徵稿|徵件|徵才|招生|錄取|名單|榜單|獎學金|補助|成果|花絮|回顧|紀實|側記|報導")
+NOT_TALK = re.compile(r"餐敘|親師|徵稿|徵件|徵才|招生|錄取|名單|榜單|獎學金|補助|成果|花絮|回顧|紀實|側記|報導")
 
 LABELS = {
     "speaker": {"講者", "主講人", "主講者", "演講者", "主講", "講師", "主持人暨講者", "speaker", "speakers", "lecturer", "presenter"},
@@ -299,9 +327,11 @@ def crawl_unit(unit, home, seen):
     if not page:
         print(f"  ! 打不開 {unit} {home}")
         return []
+    home = FINAL_URL.get(home, home)
     soup = BeautifulSoup(page, "html.parser")
     candidates = find_articles(home, soup)
-    for lp in find_list_pages(home, soup):
+    list_pages = find_list_pages(home, soup)
+    for lp in list_pages:
         lpage = fetch(lp)
         if lpage:
             candidates += find_articles(lp, BeautifulSoup(lpage, "html.parser"))
@@ -318,6 +348,14 @@ def crawl_unit(unit, home, seen):
         if info is not None:
             seen[href] = info
         time.sleep(0.3)
+    if not uniq:
+        links = [urljoin(home, a["href"]) for a in soup.find_all("a", href=True)]
+        DEBUG.setdefault("zero", {})[unit] = {
+            "final_url": home, "html_len": len(page), "n_links": len(links),
+            "list_pages": list_pages, "sample_links": links[:40],
+            "scripts": [sc.get("src") for sc in soup.find_all("script", src=True)][:10],
+            "head": page[:600],
+        }
     print(f"  {unit}: {len(uniq)} 則公告，新讀 {len(new)} 則")
     return new
 
@@ -345,7 +383,7 @@ def norm(s):
 
 
 def build_events(seen):
-    events = {}
+    events, alias = {}, {}
     horizon = TODAY - timedelta(days=60)
     for info in seen.values():
         if not info.get("lecture"):
@@ -353,12 +391,25 @@ def build_events(seen):
         d = date.fromisoformat(info["date"])
         if d < horizon:
             continue
-        key = (info["date"], norm(info.get("topic") or info["title"])[:40])
-        if key in events:
-            if info["unit"] not in events[key]["units"]:
-                events[key]["units"].append(info["unit"])
+        keys = [("t", info["date"], norm(info.get("topic") or info["title"])[:40])]
+        if info.get("speaker"):
+            keys.append(("s", info["date"], norm(info["speaker"])[:12]))
+        hit = next((k for k in keys if k in alias), None)
+        if hit:
+            e = alias[hit]
+            if info["unit"] not in e["units"]:
+                e["units"].append(info["unit"])
+            # 保留資訊比較完整的那一筆
+            if (not e.get("start") and info.get("start")) or len(e["title"]) < 10 <= len(info["title"]):
+                units = e["units"]
+                e.clear(); e.update(info, units=units)
+            for k in keys:
+                alias.setdefault(k, e)
             continue
-        events[key] = dict(info, units=[info["unit"]])
+        e = dict(info, units=[info["unit"]])
+        events[id(e)] = e
+        for k in keys:
+            alias[k] = e
     return sorted(events.values(), key=lambda e: (e["date"], e["start"] or [0, 0]))
 
 
@@ -460,6 +511,7 @@ def main():
     seen = {k: v for k, v in seen.items() if not v.get("lecture") or v["date"] >= cutoff}
     SEEN_FILE.parent.mkdir(exist_ok=True)
     SEEN_FILE.write_text(json.dumps(seen, ensure_ascii=False, indent=0), encoding="utf-8")
+    (ROOT / "data" / "debug.json").write_text(json.dumps(DEBUG, ensure_ascii=False, indent=1), encoding="utf-8")
     events = build_events(seen)
     ICS_FILE.parent.mkdir(exist_ok=True)
     write_ics(events)
