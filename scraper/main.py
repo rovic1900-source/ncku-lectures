@@ -8,7 +8,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urlencode, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -460,47 +460,131 @@ def write_ics(events):
     ICS_FILE.write_text("\r\n".join(fold(x) for x in L) + "\r\n", encoding="utf-8")
 
 
+def gcal_link(e):
+    d = date.fromisoformat(e["date"])
+    if e.get("start"):
+        sdt = datetime(d.year, d.month, d.day, *e["start"], tzinfo=TZ)
+        edt = datetime(d.year, d.month, d.day, *e["end"], tzinfo=TZ) if e.get("end") else sdt + timedelta(hours=2)
+        if edt <= sdt:
+            edt = sdt + timedelta(hours=2)
+        f = lambda x: x.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+        dates = f"{f(sdt)}/{f(edt)}"
+    else:
+        dates = f"{d:%Y%m%d}/{d + timedelta(days=1):%Y%m%d}"
+    details = [f"主辦：{'、'.join(e['units'])}"]
+    if e.get("speaker"):
+        details.append(f"講者：{e['speaker']}")
+    details += e.get("notes", [])
+    details.append(e["url"])
+    q = {"action": "TEMPLATE", "text": e.get("topic") or e["title"], "dates": dates,
+         "details": "\n".join(details), "location": e.get("place") or "", "ctz": "Asia/Taipei"}
+    return "https://calendar.google.com/calendar/render?" + urlencode(q)
+
+
 def write_html(events):
     upcoming = [e for e in events if e["date"] >= TODAY.isoformat()]
-    rows = []
-    for e in upcoming:
-        t = f"{e['start'][0]:02d}:{e['start'][1]:02d}" if e.get("start") else ""
-        tags = " ".join(f'<span class="tag t-{x}">{x}</span>' for x in e["tags"])
-        new = '<span class="tag t-new">新</span>' if e.get("found", "") >= (TODAY - timedelta(days=2)).isoformat() else ""
-        rows.append(
-            f'<li data-tags="{" ".join(e["tags"])}"><div class="when">{e["date"][5:].replace("-", "/")} {t}</div>'
-            f'<div><a href="{html.escape(e["url"])}">{html.escape(e.get("topic") or e["title"])}</a> {new}{tags}'
-            f'<div class="meta">{html.escape("、".join(e["units"]))}'
-            f'{" · " + html.escape(e["speaker"][:40]) if e.get("speaker") else ""}'
-            f'{" · " + html.escape(e["place"][:40]) if e.get("place") else ""}</div></div></li>'
-        )
-    page = f"""<!doctype html><html lang="zh-Hant-TW"><head><meta charset="utf-8">
+    new_since = (TODAY - timedelta(days=2)).isoformat()
+    data = [{
+        "id": hashlib.md5(e["url"].encode()).hexdigest()[:12],
+        "date": e["date"],
+        "time": f"{e['start'][0]:02d}:{e['start'][1]:02d}" if e.get("start") else "",
+        "title": e.get("topic") or e["title"],
+        "units": "、".join(e["units"]),
+        "speaker": (e.get("speaker") or "")[:60],
+        "place": (e.get("place") or "")[:60],
+        "tags": e["tags"],
+        "new": e.get("found", "") >= new_since,
+        "url": e["url"],
+        "gcal": gcal_link(e),
+    } for e in upcoming]
+    payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+    page = PAGE_TEMPLATE.replace("__DATA__", payload).replace(
+        "__UPDATED__", f"{datetime.now(TZ):%m/%d %H:%M}").replace("__NUNITS__", str(len(UNITS)))
+    HTML_FILE.write_text(page, encoding="utf-8")
+
+
+PAGE_TEMPLATE = r"""<!doctype html><html lang="zh-Hant-TW"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>成大演講</title>
 <style>
-:root{{--bg:#fff;--fg:#1d1d1f;--mut:#6e6e73;--line:#e5e5ea;--acc:#b5121b}}
-@media (prefers-color-scheme:dark){{:root{{--bg:#111;--fg:#f2f2f7;--mut:#a1a1a6;--line:#2c2c2e;--acc:#ff6961}}}}
-body{{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,"PingFang TC","Noto Sans TC",sans-serif}}
-main{{max-width:760px;margin:0 auto;padding:20px 16px}} h1{{font-size:22px;margin:0 0 4px}}
-.sub{{color:var(--mut);font-size:14px}} .filters{{margin:14px 0;display:flex;gap:8px;flex-wrap:wrap}}
-.filters button{{border:1px solid var(--line);background:none;color:var(--fg);border-radius:99px;padding:4px 12px;font-size:14px}}
-.filters button.on{{background:var(--acc);color:#fff;border-color:var(--acc)}}
-ul{{list-style:none;padding:0;margin:0}} li{{display:flex;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}}
-.when{{flex:0 0 82px;color:var(--mut);font-size:14px}} a{{color:var(--fg);font-weight:600;text-decoration:none}}
-.meta{{color:var(--mut);font-size:13px}} .tag{{font-size:12px;padding:1px 6px;border-radius:4px;margin-left:4px;white-space:nowrap}}
-.t-開放{{background:#e3f6e8;color:#1b6b34}} .t-限定{{background:#fde8e8;color:#9b1c1c}}
-.t-需報名{{background:#fff4d6;color:#7a5a00}} .t-未註明{{background:#eee;color:#555}} .t-new{{background:var(--acc);color:#fff}}
-</style></head><body><main><h1>成大演講</h1>
-<div class="sub">彙整 {len(UNITS)} 個系所單位公告 · 更新於 {datetime.now(TZ):%Y/%m/%d %H:%M} · <a href="lectures.ics">日曆訂閱檔</a></div>
-<div class="filters"><button class="on" data-f="">全部</button><button data-f="開放">開放</button>
-<button data-f="未註明">未註明</button><button data-f="限定">限定</button><button data-f="需報名">需報名</button></div>
-<ul id="list">{''.join(rows) or '<li>目前沒有即將舉行的演講</li>'}</ul></main>
+:root{--bg:#fff;--fg:#1d1d1f;--mut:#6e6e73;--line:#e5e5ea;--card:#f5f5f7;--acc:#b5121b;--accfg:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#111;--fg:#f2f2f7;--mut:#a1a1a6;--line:#2c2c2e;--card:#1c1c1e;--acc:#ff6961;--accfg:#111}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,"PingFang TC","Noto Sans TC",sans-serif}
+main{max-width:720px;margin:0 auto;padding:16px 16px 60px}
+h1{font-size:22px;margin:0}.sub{color:var(--mut);font-size:13px;margin-bottom:10px}
+#q{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);font-size:16px}
+.chips{display:flex;gap:6px;overflow-x:auto;padding:10px 0;scrollbar-width:none}
+.chips button{flex:0 0 auto;border:1px solid var(--line);background:none;color:var(--fg);border-radius:99px;padding:5px 12px;font-size:14px}
+.chips button.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.day{font-weight:700;font-size:14px;color:var(--mut);margin:18px 0 6px}
+.item{background:var(--card);border-radius:12px;padding:12px;margin-bottom:8px}
+.item.added{outline:2px solid #34c759}
+.top{display:flex;gap:6px;align-items:baseline;flex-wrap:wrap}
+.time{font-weight:600;font-size:14px}
+.title{display:block;font-weight:600;color:var(--fg);text-decoration:none;margin:2px 0}
+.meta{color:var(--mut);font-size:13px}
+.tag{font-size:12px;padding:1px 7px;border-radius:5px;white-space:nowrap}
+.t-開放{background:#e3f6e8;color:#1b6b34}.t-限定{background:#fde8e8;color:#9b1c1c}
+.t-需報名{background:#fff4d6;color:#7a5a00}.t-未註明{background:#e9e9ee;color:#555}.t-新{background:var(--acc);color:var(--accfg)}
+.acts{display:flex;gap:8px;margin-top:10px}
+.acts a,.acts button{flex:1;text-align:center;padding:8px;border-radius:9px;font-size:14px;text-decoration:none;border:1px solid var(--line);background:var(--bg);color:var(--fg)}
+.acts a.cal{background:var(--acc);color:var(--accfg);border-color:var(--acc);font-weight:600}
+.empty{color:var(--mut);text-align:center;padding:40px 0}
+.foot{margin-top:20px;font-size:13px;color:var(--mut);text-align:center}
+.foot button{background:none;border:none;color:var(--acc);font-size:13px;text-decoration:underline}
+</style></head><body><main>
+<h1>成大演講</h1>
+<div class="sub">全校 __NUNITS__ 個單位 · 更新於 __UPDATED__ · 每天 6:00、14:00 自動更新</div>
+<input id="q" type="search" placeholder="搜尋講題、講者、系所…">
+<div class="chips" id="chips"></div>
+<div id="list"></div>
+<div class="foot" id="foot"></div>
+</main>
 <script>
-document.querySelectorAll('.filters button').forEach(b=>b.onclick=()=>{{
- document.querySelectorAll('.filters button').forEach(x=>x.classList.toggle('on',x===b));
- document.querySelectorAll('#list li[data-tags]').forEach(li=>li.style.display=!b.dataset.f||li.dataset.tags.includes(b.dataset.f)?'':'none');
-}});
+const DATA = __DATA__;
+const FILTERS = [["全部",null],["新公布","新"],["開放","開放"],["未註明","未註明"],["需報名","需報名"],["限定","限定"],["已加入","__added"]];
+const W = ["日","一","二","三","四","五","六"];
+function load(k){try{return new Set(JSON.parse(localStorage.getItem(k)||"[]"))}catch(e){return new Set()}}
+function save(k,s){try{localStorage.setItem(k,JSON.stringify([...s]))}catch(e){}}
+let hidden=load("hidden"), added=load("added"), filter=null, showHidden=false;
+const chips=document.getElementById("chips");
+FILTERS.forEach(([lab,f],i)=>{const b=document.createElement("button");b.textContent=lab;if(!i)b.className="on";
+ b.onclick=()=>{filter=f;[...chips.children].forEach(x=>x.classList.toggle("on",x===b));render()};chips.appendChild(b)});
+document.getElementById("q").oninput=render;
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function render(){
+ const q=document.getElementById("q").value.trim().toLowerCase();
+ let html="",last="",n=0;
+ for(const e of DATA){
+  const tags=e.new?["新",...e.tags]:e.tags;
+  if(!showHidden&&hidden.has(e.id))continue;
+  if(filter==="__added"){if(!added.has(e.id))continue}
+  else if(filter&&!tags.includes(filter))continue;
+  if(q&&!(e.title+e.units+e.speaker+e.place).toLowerCase().includes(q))continue;
+  if(e.date!==last){const d=new Date(e.date+"T00:00:00+08:00");
+   html+=`<div class="day">${d.getMonth()+1}/${d.getDate()}（${W[d.getDay()]}）</div>`;last=e.date}
+  n++;
+  const isH=hidden.has(e.id), isA=added.has(e.id);
+  html+=`<div class="item${isA?" added":""}" data-id="${e.id}"><div class="top"><span class="time">${e.time||"時間見公告"}</span>
+   ${tags.map(t=>`<span class="tag t-${t}">${t}</span>`).join("")}</div>
+   <a class="title" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>
+   <div class="meta">${esc(e.units)}${e.speaker?" · "+esc(e.speaker):""}${e.place?" · "+esc(e.place):""}</div>
+   <div class="acts"><a class="cal" href="${esc(e.gcal)}" target="_blank" rel="noopener" data-act="add">${isA?"✓ 已加入":"加到日曆"}</a>
+   <button data-act="hide">${isH?"取消隱藏":"隱藏"}</button></div></div>`;
+ }
+ document.getElementById("list").innerHTML=html||`<div class="empty">沒有符合的演講</div>`;
+ const hc=DATA.filter(e=>hidden.has(e.id)).length;
+ document.getElementById("foot").innerHTML=hc?`已隱藏 ${hc} 場 · <button id="sh">${showHidden?"收起":"顯示"}</button>`:"";
+ const sh=document.getElementById("sh"); if(sh)sh.onclick=()=>{showHidden=!showHidden;render()};
+}
+document.getElementById("list").addEventListener("click",ev=>{
+ const t=ev.target.closest("[data-act]"); if(!t)return;
+ const id=t.closest(".item").dataset.id;
+ if(t.dataset.act==="add"){added.add(id);save("added",added);setTimeout(render,300)}
+ else{hidden.has(id)?hidden.delete(id):hidden.add(id);save("hidden",hidden);render()}
+});
+render();
 </script></body></html>"""
-    HTML_FILE.write_text(page, encoding="utf-8")
 
 
 def main():
