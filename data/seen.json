@@ -23706,5 +23706,484 @@
 "https://ahs.ncku.edu.tw/p/406-1129-218848,r2310.php?Lang=zh-tw": {
 "lecture": false,
 "reason": "no date"
+},
+"https://eng.ncku.edu.tw/p/406-1014-169835,r2662.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://eng.ncku.edu.tw/p/403-1014-2918-1.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://eng.ncku.edu.tw/p/406-1014-305740,r1877.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "工學院",
+"url": "https://eng.ncku.edu.tw/p/406-1014-305740,r1877.php?Lang=zh-tw",
+"title": "【2026成大鳳凰講座】楊偉甫 董事長：「跨域歷練，享受不被定義的人生」(115.9.29 15:30-17:00)",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-09-29",
+"start": [
+15,
+30
+],
+"end": [
+17,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…會議廳 (國立成功大學成功校區) 【報名網址】https://activity.…"
+],
+"found": "2026-11-03"
+},
+"https://eng.ncku.edu.tw/p/406-1014-301721,r1877.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "工學院",
+"url": "https://eng.ncku.edu.tw/p/406-1014-301721,r1877.php?Lang=zh-tw",
+"title": "【活動訊息】郭正山 院士舉辦講座 :工程實踐經驗分享 (115.7.16 15:30-17:00)",
+"topic": "工程實踐經驗分享",
+"speaker": "中央研究院郭正山院士",
+"place": "俊銘講堂 (自強校區機械系1F)",
+"time_raw": "115年7月16日(星期四)15:30-17:00",
+"date": "2026-07-16",
+"start": [
+15,
+30
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-03"
+},
+"https://eng.ncku.edu.tw/p/406-1014-301570,r1877.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "工學院",
+"url": "https://eng.ncku.edu.tw/p/406-1014-301570,r1877.php?Lang=zh-tw",
+"title": "【活動訊息】王康隆 院士舉辦講座 : 漫談半導體及光電科研的經驗 (115.7.15 14:00 - 15:30)",
+"topic": "漫談半導體及光電科研的經驗",
+"speaker": null,
+"place": "理學大樓一樓36102",
+"time_raw": "7/15(三)14:00~15:30",
+"date": "2026-07-15",
+"start": [
+14,
+0
+],
+"end": [
+15,
+30
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…美國麻省理工學院 電機系助理教授 報名網頁…"
+],
+"found": "2026-11-03"
+},
+"https://eng.ncku.edu.tw/p/406-1014-291459,r3617.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://eng.ncku.edu.tw/p/406-1014-261286,r3617.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://eng.ncku.edu.tw/p/406-1014-229204,r3330.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://eng.ncku.edu.tw/p/406-1014-229205,r3330.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://eng.ncku.edu.tw/p/406-1014-229203,r3330.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://eng.ncku.edu.tw/p/406-1014-229206,r3330.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://eng.ncku.edu.tw/p/406-1014-231010,r3331.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://eng.ncku.edu.tw/p/406-1014-231011,r3331.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://eng.ncku.edu.tw/p/406-1014-231012,r3331.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://icid.ncku.edu.tw/info/visit": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/%e5%ad%b8%e7%a0%94%e6%88%90%e6%9e%9c/%e7%9b%b8%e9%97%9c%e6%b4%bb%e5%8b%95%e7%b4%80%e9%8c%84/%e7%a0%94%e8%a8%8e%e6%9c%83/icities/": {
+"lecture": false
+},
+"https://up.ncku.edu.tw/2015TCAC/": {
+"lecture": false
+},
+"https://up.ncku.edu.tw/2015ICPD/": {
+"lecture": false
+},
+"https://up.ncku.edu.tw/2015icities/": {
+"lecture": false
+},
+"https://up.ncku.edu.tw/2014upforum/": {
+"lecture": true,
+"unit": "都市計劃學系",
+"url": "https://up.ncku.edu.tw/2014upforum/",
+"title": "2014國土論壇",
+"topic": null,
+"speaker": null,
+"place": "70101 台南市大學路1號 都市計劃學系",
+"time_raw": null,
+"date": "2026-11-20",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-03"
+},
+"https://up.ncku.edu.tw/2014icities/": {
+"lecture": false
+},
+"https://up.ncku.edu.tw/2013icities/": {
+"lecture": false
+},
+"https://up.ncku.edu.tw/ifou2013_creative-renaissance/": {
+"lecture": false
+},
+"https://up.ncku.edu.tw/2012icities/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/%e5%ad%b8%e7%a0%94%e6%88%90%e6%9e%9c/%e7%9b%b8%e9%97%9c%e6%b4%bb%e5%8b%95%e7%b4%80%e9%8c%84/%e6%bc%94%e8%ac%9b/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/%e5%ad%b8%e7%a0%94%e6%88%90%e6%9e%9c/%e7%9b%b8%e9%97%9c%e6%b4%bb%e5%8b%95%e7%b4%80%e9%8c%84/%e6%bc%94%e8%ac%9b/?s=": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-04-11-01/": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-182689,r2310.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "健康照護科學研究所",
+"url": "https://ahs.ncku.edu.tw/p/406-1129-182689,r2310.php?Lang=zh-tw",
+"title": "台灣健康促進科技協會 健康促進科技教育課程系列- 【足部功能評估與快速客製化足矯具製作工作坊】",
+"topic": null,
+"speaker": null,
+"place": "中國醫藥大學物理治療系 物理治療實習教室",
+"time_raw": null,
+"date": "2026-08-25",
+"start": null,
+"end": null,
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…頁：tahpt.oemal.tw 【報名網址】 https://goo.gl/f…"
+],
+"found": "2026-11-03"
+},
+"https://www.up.ncku.edu.tw/%e5%ad%b8%e7%a0%94%e6%88%90%e6%9e%9c/%e7%9b%b8%e9%97%9c%e6%b4%bb%e5%8b%95%e7%b4%80%e9%8c%84/%e5%85%b6%e4%bb%96%e6%b4%bb%e5%8b%95/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/%e5%ad%b8%e7%a0%94%e6%88%90%e6%9e%9c/%e7%9b%b8%e9%97%9c%e6%b4%bb%e5%8b%95%e7%b4%80%e9%8c%84/%e5%85%b6%e4%bb%96%e6%b4%bb%e5%8b%95/?s=": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/2019%e5%9c%8b%e9%9a%9b%e5%b7%a5%e4%bd%9c%e5%9d%8a/": {
+"lecture": true,
+"unit": "都市計劃學系",
+"url": "https://www.up.ncku.edu.tw/2019%e5%9c%8b%e9%9a%9b%e5%b7%a5%e4%bd%9c%e5%9d%8a/",
+"title": "2019國際工作坊",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-09-29",
+"start": [
+21,
+8
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-03"
+},
+"https://www.up.ncku.edu.tw/2019expo/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-06-16-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-06-05-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-03-23-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-02-12-05/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-06-16-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-05-23-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/%e5%ad%b8%e7%94%9f%e5%b0%88%e5%8d%80/%e6%9c%80%e6%96%b0%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a/?s=": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-05-20-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-04-24-03/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-04-24-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-03-31-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-04-11-04/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-03-12-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/113-04-15-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/113-03-12-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/112-05-10-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/112-03-13-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/110-03-25-4/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/110-03-25-3/": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-305245,r2320.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "健康照護科學研究所",
+"url": "https://ahs.ncku.edu.tw/p/406-1129-305245,r2320.php?Lang=zh-tw",
+"title": "【演講】2026.12.18 健康照護跨域研究學者演講  Professional Lectures｜Multidisciplinary Research in Healthcare",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-12-18",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-03"
+},
+"https://ahs.ncku.edu.tw/p/406-1129-305140,r2320.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "健康照護科學研究所",
+"url": "https://ahs.ncku.edu.tw/p/406-1129-305140,r2320.php?Lang=zh-tw",
+"title": "【演講】2026.09.18 健康照護跨域研究學者演講 Professional Lectures｜Multidisciplinary Research in Healthcare",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-09-18",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-03"
+},
+"https://ahs.ncku.edu.tw/p/406-1129-304106,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-301784,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-301771,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-298612,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-298448,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-298441,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-297892,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-295566,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-293257,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-292538,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-291839,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-291847,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-291199,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-01-06-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-12-12-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/2025-07-25-01/": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-291161,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-291090,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/113-08-19-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/113-08-19-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/113-08-01-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-04-29-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-03-30-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-02-12-04/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-12-01-05/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-09-15-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-09-12-01/": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-284882,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-284254,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-281541,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-280554,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-277978,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-277154,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-274233,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-270538,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-269753,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-269752,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-268919,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-268531,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-262391,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-262163,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-261167,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-259814,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-256838,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-256233,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-255928,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-255927,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-255663,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-255629,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-255464,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-255406,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-255149,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-253334,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-250933,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-248393,r2320.php?Lang=zh-tw": {
+"lecture": false
 }
 }
