@@ -1,0 +1,1921 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncku-lectures//TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:成大演講
+X-WR-TIMEZONE:Asia/Taipei
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:6f54c52682852055f7679d076180993b@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:【限定】【工作坊】走進東京街區，把觀察變成
+ 提案——東京國際工作坊
+DESCRIPTION:主辦：都市計劃學系\n限定依據：…續精進語
+ 言能力的重要性。此次工作坊不僅帶領學生理解日本都
+ 市規劃經驗，也凸顯成大都計…\n公告：https://www.up.ncku
+ .edu.tw/115-09-05-02/
+URL:https://www.up.ncku.edu.tw/115-09-05-02/
+END:VEVENT
+BEGIN:VEVENT
+UID:6334311306ef2bd66f4c7ef1e4b41fb9@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260905T073000Z
+DTEND:20260905T083000Z
+SUMMARY:【未註明】更多演講與活動
+DESCRIPTION:主辦：統計與資料科學學系\n公告：https://stat.n
+ cku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=138&index=2
+URL:https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=showli
+ st&id=138&index=2
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ee7e0baf9fde5b018bc54926f6772f@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260909T061000Z
+DTEND:20260909T083000Z
+SUMMARY:【開放｜需報名】水海七十系列講座
+DESCRIPTION:主辦：水利及海洋工程學系\n報名：…證水海
+ 七十年的深厚基礎與持續創新。 報名表單：https://forms.
+ gle…\n公告：https://web.hyd.ncku.edu.tw/?page_id=14346
+URL:https://web.hyd.ncku.edu.tw/?page_id=14346
+END:VEVENT
+BEGIN:VEVENT
+UID:14ab6caa2aab87fb4b39a5c1f814e1a0@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:【未註明】Day One Introduction｜黃恩宇 主任（成大
+ 建築系主任）
+DESCRIPTION:主辦：建築學系\n講者：黃恩宇 主任（成大建
+ 築系主任）\n時間：2026-09-10\n公告：https://www.arch.ncku.edu
+ .tw/index.php?option=module&lang=cht&task=pageinfo&id=2079&index=2
+URL:https://www.arch.ncku.edu.tw/index.php?option=module&lang=cht&task=pa
+ geinfo&id=2079&index=2
+END:VEVENT
+BEGIN:VEVENT
+UID:3664a0b6312ef039a6662b1c71fe7df7@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260910T073000Z
+DTEND:20260910T083000Z
+SUMMARY:【未註明】Modeling curves and derivatives as predictors for 
+ traffic breakdown probabilities｜李百靈副教授
+DESCRIPTION:主辦：統計與資料科學學系\n講者：李百靈副
+ 教授\n公告：https://stat.ncku.edu.tw/index.php?option=module&lang=c
+ ht&task=pageinfo&id=1773&index=6
+URL:https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pagein
+ fo&id=1773&index=6
+LOCATION:統計與資料科學學系三樓視聽教室 (62331)
+END:VEVENT
+BEGIN:VEVENT
+UID:a70a85d66203930662ae1326d2a80131@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260914T030000Z
+DTEND:20260914T043000Z
+SUMMARY:【未註明｜需報名】>國立成功大學政治學系115學
+ 年度大學部新生座談會
+DESCRIPTION:主辦：政治學系\n時間：115年9月14日（星期一
+ ）11:00 am - 12:30 pm\n報名：…日(星期三)下午5點前至下列
+ 連結完成報名，以利餐點之準備。謝謝! 演講報名…\n
+ 公告：https://www.polsci.ncku.edu.tw/news_detail.asp?pid=2&nid=747
+URL:https://www.polsci.ncku.edu.tw/news_detail.asp?pid=2&nid=747
+LOCATION:政治學系階梯教室（社會科學院大樓北棟1樓）
+END:VEVENT
+BEGIN:VEVENT
+UID:da4795b7421f22a32b20e811a204a4f4@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:【未註明】博士候選人公開演講｜Zhen You Lin PhD can
+ didate (物理
+DESCRIPTION:主辦：物理學系\n講者：Zhen You Lin PhD candidate (
+ 物理學系)\n公告：https://www.phys.ncku.edu.tw/colloquia/33/
+URL:https://www.phys.ncku.edu.tw/colloquia/33/
+LOCATION:理學教學新大樓物理系 5F 36567會議室
+END:VEVENT
+BEGIN:VEVENT
+UID:c780f5468e67ce3644bf091c99c26534@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260915T050000Z
+DTEND:20260915T070000Z
+SUMMARY:【未註明】如何讓頂尖期刊看見你：創造傑出研
+ 究的四種運氣｜賴嘉鎮教授/成功大學 藥學系
+DESCRIPTION:主辦：精神學科\n講者：賴嘉鎮教授/成功大學 
+ 藥學系\n時間：2026年09月15日 13:00~15:00\n公告：https://psy-
+ med.ncku.edu.tw/p/406-1128-302903\,r1888.php?Lang=zh-tw
+URL:https://psy-med.ncku.edu.tw/p/406-1128-302903,r1888.php?Lang=zh-tw
+LOCATION:住院大樓12樓B區精神部會議室
+END:VEVENT
+BEGIN:VEVENT
+UID:5eca2790cd97218fbba616fb44df8970@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260917T070000Z
+DTEND:20260917T090000Z
+SUMMARY:【未註明】永續生物基泡棉開發與應用｜林詠凱 
+ 教授
+DESCRIPTION:主辦：食品安全衛生暨風險管理研究所\n講者
+ ：林詠凱 教授\n公告：https://dfsr.ncku.edu.tw/p/406-1228-305289
+ \,r11.php?Lang=zh-tw
+URL:https://dfsr.ncku.edu.tw/p/406-1228-305289,r11.php?Lang=zh-tw
+LOCATION:醫學院鳯杯講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:708f2cd51823f7b0d0d9916c1833edb2@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260917T073000Z
+DTEND:20260917T083000Z
+SUMMARY:【未註明】Transfer Learning for Complex Models and High-Dime
+ nsional Error-Prone Variables｜吳柔瑾助理教授
+DESCRIPTION:主辦：統計與資料科學學系\n講者：吳柔瑾助
+ 理教授\n公告：https://stat.ncku.edu.tw/index.php?option=module&lan
+ g=cht&task=pageinfo&id=1791&index=5
+URL:https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pagein
+ fo&id=1791&index=5
+LOCATION:統計與資料科學學系三樓視聽教室 (62331)
+END:VEVENT
+BEGIN:VEVENT
+UID:35031009e2dfc2596af418f12046fcd4@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:【未註明】115學年上學期碩博班專題討論(2026 Fall 
+ Colloquium)｜Prof. Jaw-Shen Tsai 蔡兆申 院士 / 講
+DESCRIPTION:主辦：物理學系\n講者：Prof. Jaw-Shen Tsai 蔡兆申
+  院士 / 講座教授 - (陽明交通大學電子物理系 Electrophysi
+ cs\, National Yang Ming Chiao Tung University)\n公告：https://www.phy
+ s.ncku.edu.tw/colloquia/45/
+URL:https://www.phys.ncku.edu.tw/colloquia/45/
+LOCATION:理學教學新大樓物理系1F 36102教室
+END:VEVENT
+BEGIN:VEVENT
+UID:f76e4bcbfee0f8a062ab7641e5c23232@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260918T110000Z
+DTEND:20260918T130000Z
+SUMMARY:【開放】【成大鳳凰講座】跨域歷練，享受不被
+ 定義的人生
+DESCRIPTION:主辦：工程管理碩士在職專班\n公告：https://emg
+ p.ncku.edu.tw/p/412-1164-21864.php?Lang=zh-tw
+URL:https://emgp.ncku.edu.tw/p/412-1164-21864.php?Lang=zh-tw
+LOCATION:系統系館一樓惠特講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:70ab3147af7dc14f5a7f21694a9ab067@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260922T031000Z
+DTEND:20260922T040000Z
+SUMMARY:【未註明】Regression modeling combined with unsupervised clu
+ stering｜Prof. Masao Ueki
+DESCRIPTION:主辦：統計與資料科學學系\n講者：Prof. Masao Ue
+ ki\n公告：https://stat.ncku.edu.tw/index.php?option=module&lang=cht&t
+ ask=pageinfo&id=1793&index=4
+URL:https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pagein
+ fo&id=1793&index=4
+LOCATION:統計與資料科學學系二樓教室 (62227)
+END:VEVENT
+BEGIN:VEVENT
+UID:b830b844666534f8676e89391f728097@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260922T060000Z
+DTEND:20260922T093000Z
+SUMMARY:【未註明｜需報名】2026 第二屆成機論壇｜智匯機
+ 械，創啟未來~活動日期:11月6日
+DESCRIPTION:主辦：機械工程學系\n時間：2026-09-22\n報名：
+ …國立成功大學機械系1樓俊銘講堂 立即報名｜https://fo
+ rms.gle…\n公告：https://me.ncku.edu.tw/news_detail.php?news_rkey=2T
+ B2PFT71T
+URL:https://me.ncku.edu.tw/news_detail.php?news_rkey=2TB2PFT71T
+END:VEVENT
+BEGIN:VEVENT
+UID:29c3c13ffe578b6668730322b656fb17@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:【未註明】[演講] 2026.9.23 李靜琪研究員 From Molecul
+ ar Targets to Therapeutic Discovery
+DESCRIPTION:主辦：醫學檢驗生物技術學系\n公告：https://mt.
+ ncku.edu.tw/p/406-1151-305845\,r11.php?Lang=zh-tw
+URL:https://mt.ncku.edu.tw/p/406-1151-305845,r11.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:e23986edaba08a88424abd7900113672@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260924T041000Z
+DTEND:20260924T061000Z
+SUMMARY:【未註明】【演講】3D WebGIS 對都市空間的應用
+DESCRIPTION:主辦：都市計劃學系\n公告：https://www.up.ncku.edu
+ .tw/115-09-23-01/
+URL:https://www.up.ncku.edu.tw/115-09-23-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbd518fa019b71eed3d69c991638e825@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:【未註明】[演講] 2026.9.29 趙巧瑄助理教授 Dengue NS
+ I as a Pathogenic Hub and Immunological Signature
+DESCRIPTION:主辦：醫學檢驗生物技術學系\n公告：https://mt.
+ ncku.edu.tw/p/406-1151-305846\,r11.php?Lang=zh-tw
+URL:https://mt.ncku.edu.tw/p/406-1151-305846,r11.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:d113ce2d072814685c301ed09bb80e60@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260929T080000Z
+DTEND:20260929T090000Z
+SUMMARY:【未註明】Transcranial Electrical Stimulation (tES): From Br
+ ain Modulation to Clinical Applications｜Assoc. Prof. Dr. Wanalee Klomj
+DESCRIPTION:主辦：心理學系\n講者：Assoc. Prof. Dr. Wanalee Klom
+ jai (Faculty of Physical Therapy\, Mahidol University\, Thailand)\n時
+ 間：2026年09月29日 (二) 16:00–17:00\n公告：https://psychology
+ .ncku.edu.tw/p/405-1235-305599\,c32496.php?Lang=zh-tw
+URL:https://psychology.ncku.edu.tw/p/405-1235-305599,c32496.php?Lang=zh-t
+ w
+LOCATION:國立成功大學成杏校區 護理學系三樓 85309階梯教
+ 室
+END:VEVENT
+BEGIN:VEVENT
+UID:a218ba267c89cfa98f03ec070d3c047c@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:【未註明】合作計畫 2026-09-30 合作計畫 NOSIGNER 創
+ 辦人立川英介造訪成功大學 ICID ：從氣候適應到人工智
+ 慧時代的演化式創意 2026 年 9 月，國立成功大學創意產
+ 業設計研究所（ ICID ）邀請日本設計師太刀川英輔（ Ei
+ suke Tachikawa ） 來訪。太刀川現任世界設計組織（ World D
+ esign Organization\, WDO ）理事，並為設計事務所 NOSIGNER 創
+ 辦人暨執行長，長期橫跨工業設計、平面設計、建築與
+ 社會創新等領域，以設計回應災害韌性、環境變遷與複
+ 雜社會議題。他所提出的 Evolutional Creativity （進化思考
+ ），則從生物演化中的「變異」與「選擇」重新理解創
+ 造力如何生成與發展。此次來訪，也讓這套源自設計實
+ 踐的方法進一步進入研究所層級的教學與學術交流場域
+ ，與氣候調適、城市系統、人工智慧及創造力未來等議
+ 題展開對話。系列活動首先以 「 ADAPTMENT: Climate Adaptive 
+ Design 」 展開。太刀川從自然界的適應機制出發，引導
+ 學生重新理解氣候調適：與其尋找單一且固定的解方，
+ 更重要的是思考城市與社會如何像生命系統一樣，在持
+ 續變動的環境中觀察、調整、學習並演化。透過不同尺
+ 度的案例與討論，學生也重新檢視氣候、城市、環境與
+ 日常生活之間相互牽動的關係。接續的兩日工作坊則聚
+ 焦於 Evolutional Creativity （進化思考）。參與者透過不同
+ 形式的 「變異（ Variation ）」 拓展可能性，再藉由 「
+ 選擇（ Selection ）」 進行觀察、比較、判斷與修正，在
+ 反覆迭代中逐步發展創意提案。課程亦加入 AI 協作實
+ 驗，讓學生實際測試進化思考如何與生成式人工智慧並
+ 行運作，並進一步思考一個當代設計教育與研究的重要
+ 問題：當 AI 能快速產生大量可能性時，人類的判斷、
+ 意圖、價值與選擇，究竟在哪些環節仍具有不可取代的
+ 重要性？本次工作坊亦延續前一週 Felix Kosok 所帶領的 C
+ ity Design Power 課程。學生先從台南的城市系統中辨識行
+ 動者、資源、關係與設計挑戰，再將這些問題帶入進化
+ 思考的過程中持續發展。兩週課程因此共同形成 「 From
+  Understanding the City to Reimagining the City｜ 從理解城市到重
+ 新想像城市」 的連續學習歷程，從理解既有城市系統
+ ，逐步走向可能回應與未來方向的生成。透過此次國際
+ 系列課程， ICID 邀請持續發展新方法、並實際回應當代
+ 與未來議題的國際設計實踐者進入課堂，與師生展開直
+ 接對話。課程不僅介紹方法與案例，更試圖打開設計實
+ 務與學術探究之間的界線，讓從實踐中發展出的知識與
+ 方法，能在大學環境中被應用、討論、檢視並進一步延
+ 伸。藉由將太刀川英輔的設計方法帶入成大創產所教學
+ ，並與台南的在地情境、學生觀察與不同領域的討論相
+ 互連結，此次交流也進一步開啟設計實踐、高等教育與
+ 研究之間持續合作的可能。對學生而言，這不只是接觸
+ 國際案例，而是在真實議題中練習從不同尺度與多元利
+ 害關係人的角度辨識問題、建立連結與發展回應；對方
+ 法本身而言，大學也成為一個能夠持續測試、討論與深
+ 化實踐知識的交流平台。從氣候調適、城市系統到 AI 
+ 與創造力，太刀川英輔此次來訪所帶來的不只是一套設
+ 計工具，更是一種理解變化的方法：設計不只是提出答
+ 案，而是在不確定的環境中持續觀察、生成可能、做出
+ 選擇，並透過實踐、教學與交流不斷演化。 更多
+DESCRIPTION:主辦：創意產業設計研究所\n公告：https://icid.n
+ cku.edu.tw/news/2026-nosigner-founder-visit-climate-change
+URL:https://icid.ncku.edu.tw/news/2026-nosigner-founder-visit-climate-cha
+ nge
+END:VEVENT
+BEGIN:VEVENT
+UID:30dc14fe01093cc880f57cbdadc825f6@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:【未註明】活動展覽 2026-09-30 活動展覽 從 WDC Frank
+ furt RheinMain 2026 到台南： Felix Kosok 教授與 ICID 共探城市
+ 設計力 2026 年 9 月，國立成功大學創意產業設計研究所
+ （ ICID ）邀請德國 German International University Berlin 傳達
+ 設計教授 Prof. Dr. Felix Kosok 來訪。 Kosok 同時擔任 2026 世
+ 界設計之都法蘭克福 — 萊茵美茵地區（ World Design Capit
+ al Frankfurt RheinMain 2026 ）設計論述總監（ Lead Design Discour
+ se ），長期關注設計、民主、公民參與與城市之間的關
+ 係。此次來訪透過公開講座、工作坊與教學交流，將 WD
+ C Frankfurt RheinMain 2026 的國際城市設計經驗帶入成大研究
+ 所課堂，並以台南為實際場域，共同探索「城市設計力
+ （ City Design Power ）」如何被理解、辨識與發展。系列
+ 活動以公開講座 「 World Design Capital Frankfurt RheinMain 2026 
+ – Empowering Citizens through Design 」 揭開序幕。 Kosok 從世
+ 界設計之都的實踐經驗出發，分享設計如何不只改變城
+ 市的物理環境，也能強化市民參與、協作與共同形塑城
+ 市的能力。相較於直接思考「台南還需要設計什麼」，
+ 本次課程更進一步提出一個核心問題：一座城市要如何
+ 建立將共同決策轉化為實際行動的能力？為期兩天的工
+ 作坊以創產所學生為主，也有來自都市計劃與老年學相
+ 關領域的學生共同參與。 Kosok 帶領學生運用城市資料
+ 、地圖與 ecosystem canvas （生態系畫布），將台南視為一
+ 個由不同人物、組織、資源、制度與關係共同構成的城
+ 市系統。學生從不同尺度盤點其中的重要行動者、資源
+ 、既有優勢，以及公民參與和跨領域協作中的缺口，並
+ 透過討論重新理解城市議題並非單一問題，而是彼此交
+ 織的關係網絡。這些觀察接著被帶回工作坊，進一步轉
+ 化為一系列重新界定的設計挑戰。過程中，學生不只是
+ 尋找立即的「解決方案」，而是練習辨識問題如何形成
+ 、哪些關係需要被看見，以及設計可以如何促進對話與
+ 集體行動。這也讓設計師的角色從提供答案的人，進一
+ 步轉向連結不同觀點、梳理複雜系統，並創造共同參與
+ 條件的促進者。 Kosok 的工作坊也是 ICID 國際課程 「 Fro
+ m Understanding the City to Reimagining the City｜ 從理解城市到
+ 重新想像城市」 的第一階段。在 City Design Power 工作坊
+ 中所辨識出的城市議題與設計挑戰，進一步延續至後續
+ 太刀川英輔所帶領的 Evolutional Creativity （進化思考） 
+ 課程，形成從理解城市既有系統與行動能力，到生成並
+ 迭代未來可能性的連續學習歷程。透過此次國際系列課
+ 程， ICID 邀請持續參與國際設計實踐、城市議題與前瞻
+ 討論的專家學者進入課堂，與師生展開直接交流。課程
+ 不僅將國際案例帶入台灣，也透過系統性的工具與引導
+ ，讓學生重新思考自己與城市、社會及不同利害關係人
+ 之間的關係，並練習從多重尺度辨識問題、建立連結與
+ 發展回應。將 Kosok 在 WDC Frankfurt RheinMain 2026 的實踐經
+ 驗帶入成大研究所教學，也進一步連結了 國際城市設
+ 計實務、高等教育與設計研究。台南在此不只是案例，
+ 而成為一個能夠共同閱讀、討論與測試設計方法的真實
+ 城市場域。透過這樣的交流， ICID 持續探索設計如何支
+ 持更具參與性、協作性與未來導向的城市發展，也為未
+ 來跨國教學、研究與設計實踐之間的持續合作建立新的
+ 連結。 更多
+DESCRIPTION:主辦：創意產業設計研究所\n公告：https://icid.n
+ cku.edu.tw/news/2026-city-design-power-felix-kosok
+URL:https://icid.ncku.edu.tw/news/2026-city-design-power-felix-kosok
+END:VEVENT
+BEGIN:VEVENT
+UID:8cd24c216052fe324df9eeb01579f527@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:【未註明】[演講] 2026.9.30 余冠儀研究員 Emerging Vir
+ al Infections: Research and Preparedness
+DESCRIPTION:主辦：醫學檢驗生物技術學系\n公告：https://mt.
+ ncku.edu.tw/p/406-1151-305847\,r11.php?Lang=zh-tw
+URL:https://mt.ncku.edu.tw/p/406-1151-305847,r11.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:31cef554af94a2132227101e0d90bc70@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20260930T064200Z
+DTEND:20260930T084200Z
+SUMMARY:【未註明】9/30演講公告
+DESCRIPTION:主辦：資訊工程學系\n公告：https://www.csie.ncku.e
+ du.tw/zh-hant/news/13589
+URL:https://www.csie.ncku.edu.tw/zh-hant/news/13589
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb693b793749d4274359f425886d59b@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261001T010000Z
+DTEND:20261001T020000Z
+SUMMARY:【未註明】Developing nanotechnologies for medical applicatio
+ ns: from cancer theranostics to infectious disease management
+DESCRIPTION:主辦：醫學檢驗生物技術學系\n時間：115年10月
+ 01日(四)9:00-10:00\n公告：https://mt.ncku.edu.tw/p/406-1151-305860\
+ ,r11.php?Lang=zh-tw
+URL:https://mt.ncku.edu.tw/p/406-1151-305860,r11.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:05690a3eccceed1ba2b3540ca452cf13@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261001T020000Z
+DTEND:20261001T040000Z
+SUMMARY:【未註明】【演講】國土計畫與鄉村地區整體規
+ 劃
+DESCRIPTION:主辦：都市計劃學系\n公告：https://www.up.ncku.edu
+ .tw/115-09-24-01/
+URL:https://www.up.ncku.edu.tw/115-09-24-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7bec04a95cb6c8a021852362b8b360e@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261001T053000Z
+DTEND:20261001T070000Z
+SUMMARY:【未註明】新興污染物之環境流佈與高級水處理
+ 技術邁向永續水系統｜賴威博 (清華大學分析與環境科
+ 學研究所 助理教授)
+DESCRIPTION:主辦：環境醫學研究所\n講者：賴威博 (清華大
+ 學分析與環境科學研究所 助理教授)\n時間：October 1\, 20
+ 26 13:30-15:00\n公告：https://deoh.ncku.edu.tw/p/406-1122-304916\,r23
+ 54.php?Lang=zh-tw
+URL:https://deoh.ncku.edu.tw/p/406-1122-304916,r2354.php?Lang=zh-tw
+LOCATION:602教室
+END:VEVENT
+BEGIN:VEVENT
+UID:e23e245f4a9c70c3f431de99e9313531@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261001T072000Z
+DTEND:20261001T090000Z
+SUMMARY:【未註明】可注射性組織粘合劑用於半月板修復
+ 與再生｜翁培鈞
+DESCRIPTION:主辦：材料科學及工程學系\n講者：翁培鈞\n時
+ 間：115年10月01日(四) 下午15:20~17:00\n公告：https://mse.ncku
+ .edu.tw/p/406-1234-305807\,r4151.php?Lang=zh-tw
+URL:https://mse.ncku.edu.tw/p/406-1234-305807,r4151.php?Lang=zh-tw
+LOCATION:成功大學成功校區三系館 鋼構區(3F)共同教室A1302
+ 演講廳
+END:VEVENT
+BEGIN:VEVENT
+UID:b7434d6a6ee2c5bddde1aab7662cba8c@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:【未註明】【講座】10月2日演講活動
+DESCRIPTION:主辦：臺灣文學系\n公告：https://twl.ncku.edu.tw/p/
+ 406-1143-305660\,r668.php?Lang=zh-tw
+URL:https://twl.ncku.edu.tw/p/406-1143-305660,r668.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b1eda26d7f595f3ed8510950e929f5@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:【未註明｜需報名】【演講】10/2教育部國家講座
+ ：公司理財實證研究\, 歡迎本校師生踴躍參加
+DESCRIPTION:主辦：會計學系暨財務金融研究所\n報名：…
+ 理學院地下一樓62X05演講廳 講座報名連結請點選報名網
+ 址 本活動備有午餐，敬請…\n公告：https://www.acc.ncku.edu
+ .tw/index.php?option=module&lang=cht&task=pageinfo&id=4099&index=7
+URL:https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pag
+ einfo&id=4099&index=7
+LOCATION:701台南市東區大學路1號 (光復校區會計學系)
+END:VEVENT
+BEGIN:VEVENT
+UID:3a50c62f47563ec6ccebbc8058cb417c@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261002T051000Z
+DTEND:20261002T070000Z
+SUMMARY:【未註明】【專討演講】科林研發演講暨贈書儀
+ 式｜曾尚勤研發總監、焦長泰營運副總經理
+DESCRIPTION:主辦：智慧半導體及永續製造學院\n講者：曾
+ 尚勤研發總監、焦長泰營運副總經理\n時間：10/2(五) 13:
+ 10-15:00\n公告：https://ais2m.ncku.edu.tw/?action=news&id=2530
+URL:https://ais2m.ncku.edu.tw/?action=news&id=2530
+LOCATION:自強校區電機系館B1迅慧講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:2d682e025b22ed8939f973dedbd2557f@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:【未註明】【研討講座】劉育辰 助理教授 ［講題
+ ：Foreign Exchange Intervention under Dominant-Currency Settlement: A N
+ ew-Monetarist Approach ］
+DESCRIPTION:主辦：經濟學系\n公告：https://www.econ.ncku.edu.tw/
+ ActNews.asp?newsid=932
+URL:https://www.econ.ncku.edu.tw/ActNews.asp?newsid=932
+END:VEVENT
+BEGIN:VEVENT
+UID:365b82e7948e2e79db1f0d00e4f01340@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261006T020000Z
+DTEND:20261006T040000Z
+SUMMARY:【未註明】【演講】土地開發實務
+DESCRIPTION:主辦：都市計劃學系\n公告：https://www.up.ncku.edu
+ .tw/115-10-05-01/
+URL:https://www.up.ncku.edu.tw/115-10-05-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:2910d9ab93574a003a61eba888dbf274@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:【開放】【學院研究日】10/8第1場重磅講座《AI設
+ 計 × 人類智慧：重塑創造力、判斷力與責任感》
+DESCRIPTION:主辦：規劃與設計學院\n公告：https://cpd.ncku.edu
+ .tw/p/405-1021-307423\,c28374.php?Lang=zh-tw
+URL:https://cpd.ncku.edu.tw/p/405-1021-307423,c28374.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:7655a88f2466c9ff8dd000b037d31344@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261008T040000Z
+DTEND:20261008T050000Z
+SUMMARY:【未註明｜需報名】學院研究日《設計未來·跨域
+ 創新》系列講座報名開始!
+DESCRIPTION:主辦：規劃與設計學院\n報名：…重塑判斷力
+ 、創造力與責任感』 🔥 報名連結：https://forms.gle…\n
+ 公告：https://cpd.ncku.edu.tw/p/405-1021-305707\,c28374.php?Lang=zh-t
+ w
+URL:https://cpd.ncku.edu.tw/p/405-1021-305707,c28374.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:0cae41fccb959e73e2f1872d8b59caf4@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261008T071000Z
+DTEND:20261008T080000Z
+SUMMARY:【開放】The future of HIV Prevention: PrEP\, Testing and Self
+ -Management
+DESCRIPTION:主辦：醫學院\n時間：115.10.08（四）\n公告：htt
+ ps://med.ncku.edu.tw/p/406-1015-305749\,r11.php?Lang=zh-tw
+URL:https://med.ncku.edu.tw/p/406-1015-305749,r11.php?Lang=zh-tw
+LOCATION:醫學院4F大會議室
+END:VEVENT
+BEGIN:VEVENT
+UID:96f294c74d248c89a18dba40653c8c4f@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261008T072000Z
+DTEND:20261008T091000Z
+SUMMARY:【未註明】Advanced Small-Scale Mechanical Testing for Materi
+ al Research｜李伯軒
+DESCRIPTION:主辦：材料科學及工程學系\n講者：李伯軒\n時
+ 間：115年10月08日(四) 下午15:20~17:10\n公告：https://mse.ncku
+ .edu.tw/p/406-1234-306173\,r4151.php?Lang=zh-tw
+URL:https://mse.ncku.edu.tw/p/406-1234-306173,r4151.php?Lang=zh-tw
+LOCATION:成功大學成功校區三系館 鋼構區(3F)共同教室A1302
+ 演講廳
+END:VEVENT
+BEGIN:VEVENT
+UID:9f8c73766a96e7d138ca7164ff85818b@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261008T073000Z
+DTEND:20261008T083000Z
+SUMMARY:【未註明】Regression Association and Its Measurement｜施
+ 嘉翰助理教授
+DESCRIPTION:主辦：統計與資料科學學系\n講者：施嘉翰助
+ 理教授\n公告：https://stat.ncku.edu.tw/index.php?option=module&lan
+ g=cht&task=pageinfo&id=1821&index=3
+URL:https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pagein
+ fo&id=1821&index=3
+LOCATION:統計與資料科學學系三樓視聽教室 (62331)
+END:VEVENT
+BEGIN:VEVENT
+UID:50f9bcc7316f2450c45e4b057b8cb6b7@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261012T053000Z
+DTEND:20261012T073000Z
+SUMMARY:【未註明】博士班王孝中演講公告
+DESCRIPTION:主辦：資源工程學系\n公告：https://mp.ncku.edu.tw/
+ %e5%8d%9a%e5%a3%ab%e7%8f%ad%e7%8e%8b%e5%ad%9d%e4%b8%ad%e6%bc%94%e8%ac%9b
+ %e5%85%ac%e5%91%8a/
+URL:https://mp.ncku.edu.tw/%e5%8d%9a%e5%a3%ab%e7%8f%ad%e7%8e%8b%e5%ad%9d%
+ e4%b8%ad%e6%bc%94%e8%ac%9b%e5%85%ac%e5%91%8a/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d35459f0208fa981f3b88589357cf71@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261012T060000Z
+DTEND:20261012T071000Z
+SUMMARY:【未註明】【演講】Agentic Approach for Architecture/Urba
+ n Design – Common Ground and Smart City
+DESCRIPTION:主辦：都市計劃學系\n公告：https://www.up.ncku.edu
+ .tw/115-10-07-01/
+URL:https://www.up.ncku.edu.tw/115-10-07-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:37dbf383903de8a634ee4684f506d46c@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:【開放｜需報名】【國際研討會】生態跨領域國
+ 際研討會International Symposium on Interdisciplinary Ecology
+DESCRIPTION:主辦：生物科學與科技學院\n報名：…Lunch provi
+ ded.（免費報名，提供午餐） ◆ 立即報名 Regi…\n公告
+ ：https://bb.ncku.edu.tw/p/406-1019-306540\,r11.php?Lang=zh-tw
+URL:https://bb.ncku.edu.tw/p/406-1019-306540,r11.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f58f699d4e72e4e3cb50b012600c736a@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261013T043000Z
+DTEND:20261013T053000Z
+SUMMARY:【開放】Beyond Dental Pulp Stem Cells: Exploring the Therapeu
+ tic Potential of Exosomes
+DESCRIPTION:主辦：醫學院\n時間：115.10.13（二）\n公告：htt
+ ps://med.ncku.edu.tw/p/406-1015-305926\,r11.php?Lang=zh-tw
+URL:https://med.ncku.edu.tw/p/406-1015-305926,r11.php?Lang=zh-tw
+LOCATION:醫學院4F大會議室
+END:VEVENT
+BEGIN:VEVENT
+UID:79a5500a9445b3a6261e50cd6d89e5c1@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261013T053000Z
+DTEND:20261013T070000Z
+SUMMARY:【未註明】【演講】中興大學劉雨庭特聘教授：Ir
+ on-modified biochar modulates greenhouse gas emissions and soil carbon f
+ ractions across contrasting paddy soils under alternate wetting and dryi
+ ng
+DESCRIPTION:主辦：熱帶植物與微生物科學研究所\n公告：ht
+ tps://itps.ncku.edu.tw/p/405-1148-305980\,c82.php?Lang=zh-tw
+URL:https://itps.ncku.edu.tw/p/405-1148-305980,c82.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1c94793326d2c67ad4e31b2aaa5677@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:【未註明】凝態物理seminar｜Dr. Shashikant - (-)
+DESCRIPTION:主辦：物理學系\n講者：Dr. Shashikant - (-)\n公告
+ ：https://www.phys.ncku.edu.tw/colloquia/13/
+URL:https://www.phys.ncku.edu.tw/colloquia/13/
+LOCATION:理學教學新大樓物理系 5F 多功能交誼廳
+END:VEVENT
+BEGIN:VEVENT
+UID:85d2b6ef86af47b639cc1e1190cc33e4@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261014T081500Z
+DTEND:20261014T101500Z
+SUMMARY:【未註明】凝態物理seminar Predicting edge-localized mono
+ vacancy defects in zigzag graphene nanoribbons from Floquet quasienergy 
+ spectrum 演講者 : Dr. Shashikant  -   (-) 演講地點 : 理學教學
+ 新大樓物理系 5F 多功能交誼廳 2026 / 10 / 14 16:15｜Dr. Shas
+ hikant - (-)
+DESCRIPTION:主辦：物理學系\n講者：Dr. Shashikant - (-)\n時間
+ ：2026 / 10 / 14\n公告：https://www.phys.ncku.edu.tw/colloquia-detai
+ l/953/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/953/
+LOCATION:理學教學新大樓物理系 5F 多功能交誼廳
+END:VEVENT
+BEGIN:VEVENT
+UID:df7786392bb97c033d7c353edc06fda2@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:【未註明】An Environmental Psychology Approach｜Ricardo Gar
+ cía Mira名譽教授（西班牙拉科魯
+DESCRIPTION:主辦：建築學系\n講者：Ricardo García Mira名譽教
+ 授（西班牙拉科魯尼亞大學）\n時間：2026-10-15\n公告：h
+ ttps://www.arch.ncku.edu.tw/index.php?option=module&lang=cht&task=pagein
+ fo&id=2089&index=1
+URL:https://www.arch.ncku.edu.tw/index.php?option=module&lang=cht&task=pa
+ geinfo&id=2089&index=1
+END:VEVENT
+BEGIN:VEVENT
+UID:8691ff2affd037f7a858a4e6489e6aba@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261015T010000Z
+DTEND:20261015T020000Z
+SUMMARY:【未註明】[演講] 2026.10.15(四) 邱馨平博士 Viruses v
+ s. Their Hosts: A Molecular Arms Race in Immune Evasion and Host Depende
+ ncy
+DESCRIPTION:主辦：醫學檢驗生物技術學系\n公告：https://mt.
+ ncku.edu.tw/p/406-1151-306236\,r11.php?Lang=zh-tw
+URL:https://mt.ncku.edu.tw/p/406-1151-306236,r11.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:df364115e56011838b33b29a804d82d2@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261015T043000Z
+DTEND:20261015T060000Z
+SUMMARY:【開放】Natural Products for Healthy Aging: From Lifespan Ext
+ ension to Molecular Mechanisms
+DESCRIPTION:主辦：醫學院\n時間：115.10.15（四）\n公告：htt
+ ps://med.ncku.edu.tw/p/406-1015-305930\,r11.php?Lang=zh-tw
+URL:https://med.ncku.edu.tw/p/406-1015-305930,r11.php?Lang=zh-tw
+LOCATION:醫學院第四講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:4981d66b6b34d4cd69e82bb5938f25db@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261015T072000Z
+DTEND:20261015T091000Z
+SUMMARY:【未註明】Atomic Structure Evolution of Nano-Precipitates in
+  7000 series aluminium alloys via Cs-STEM and 4D-STEM｜鍾采甫助理
+ 教授
+DESCRIPTION:主辦：材料科學及工程學系\n講者：鍾采甫助
+ 理教授\n時間：民國 115年 10月 15日(四)\n公告：https://mse
+ .ncku.edu.tw/p/406-1234-306427\,r4151.php?Lang=zh-tw
+URL:https://mse.ncku.edu.tw/p/406-1234-306427,r4151.php?Lang=zh-tw
+LOCATION:成功大學成功校區三系館鋼構區(3F)共同教室 A1302
+ 演講廳
+END:VEVENT
+BEGIN:VEVENT
+UID:d9ab5947c453e9c28b4c1402ac32a0af@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261015T073000Z
+DTEND:20261015T083000Z
+SUMMARY:【未註明】What Makes a Generalization Bound Useful for Learn
+ ing?｜吳宜珊 博士後研究員
+DESCRIPTION:主辦：統計與資料科學學系\n講者：吳宜珊 博
+ 士後研究員\n公告：https://stat.ncku.edu.tw/index.php?option=modu
+ le&lang=cht&task=pageinfo&id=1829&index=2
+URL:https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pagein
+ fo&id=1829&index=2
+LOCATION:統計與資料科學學系三樓視聽教室 (62331)
+END:VEVENT
+BEGIN:VEVENT
+UID:daf58c2f9fa123c348c9d92aa5fb635d@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:【限定｜需報名】The Romance of Research
+DESCRIPTION:主辦：外國語文學系\n限定依據：…. Registration
+  is limited to 16 participants\,…\n報名：…0月16日，國立中
+ 山大學文學院 · 報名截止日期：2026年9月18日 · 英美…
+ \n公告：https://flld.ncku.edu.tw/p/406-1165-302873\,r2588.php?Lang=zh
+ -tw
+URL:https://flld.ncku.edu.tw/p/406-1165-302873,r2588.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:e55cc43f1017caeeea74a62dcf55af1f@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261016T020000Z
+DTEND:20261016T040000Z
+SUMMARY:【未註明｜需報名】【專業講座】從防災視角透
+ 析國土計畫之整合機制
+DESCRIPTION:主辦：都市計劃學系\n報名：…理方式 實體會
+ 議與線上直播同步辦理 報名連結 https://forms.gle…\n公告
+ ：https://www.up.ncku.edu.tw/115-09-29-03/
+URL:https://www.up.ncku.edu.tw/115-09-29-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:702715791ec17f405c3c5996730a9a62@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261016T060000Z
+DTEND:20261016T080000Z
+SUMMARY:【未註明】Complex and Critical: AI Delegation in Supplier Se
+ lection
+DESCRIPTION:主辦：IMBA\n時間：2026年10月16日（星期五）14:00
+ –16:00\n公告：https://imba.ncku.edu.tw/index.php?option=module&lang
+ =cht&task=pageinfo&id=766&index=2
+URL:https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pagein
+ fo&id=766&index=2
+LOCATION:62201教室
+END:VEVENT
+BEGIN:VEVENT
+UID:56b3ccc227dd2e1b15c6471a501406fb@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261017T060000Z
+DTEND:20261017T080000Z
+SUMMARY:【未註明｜需報名】【工作坊】跨校國土辯論賽
+ 議程
+DESCRIPTION:主辦：都市計劃學系\n報名：…理方式 實體會
+ 議與線上直播同步辦理 報名連結 https://reurl.cc/…\n公告
+ ：https://www.up.ncku.edu.tw/115-09-29-04/
+URL:https://www.up.ncku.edu.tw/115-09-29-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c85a9746fb844927e85f7f277f5749@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261019T030000Z
+DTEND:20261019T040000Z
+SUMMARY:【未註明】Exploring the Molecular Basis of Disease: From Mos
+ quito Transmission to Mitochondrial Dysfunction
+DESCRIPTION:主辦：醫學檢驗生物技術學系\n時間：115年10月
+ 19日(一)11:00-12:00\n公告：https://mt.ncku.edu.tw/p/406-1151-306710
+ \,r11.php?Lang=zh-tw
+URL:https://mt.ncku.edu.tw/p/406-1151-306710,r11.php?Lang=zh-tw
+LOCATION:生醫卓群大樓8樓13830會議室
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb2050d8b297f75359061f3995e8e5a@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:【未註明｜需報名】【轉知】2026 tsmc IMC DAY「Agenti
+ c AI 論壇 × IMC 職涯神助攻」活動，敬邀同學們一起參
+ 加！
+DESCRIPTION:主辦：資訊工程學系\n報名：…s) \, 將可獲得IM
+ C 特製小禮 報名連結： (台南場) https://ca…\n公告：https
+ ://www.csie.ncku.edu.tw/zh-hant/news/13604
+URL:https://www.csie.ncku.edu.tw/zh-hant/news/13604
+END:VEVENT
+BEGIN:VEVENT
+UID:670aa2d56030f33df4212cc214f52887@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261020T021000Z
+DTEND:20261020T041000Z
+SUMMARY:【未註明】Varieties of the Romantic Sublime ，｜德國慕
+ 尼黑大學榮譽教授Christoph Bode
+DESCRIPTION:主辦：外國語文學系\n講者：德國慕尼黑大學
+ 榮譽教授Christoph Bode\n時間：115.10.20星期二上午10:10\n公
+ 告：https://flld.ncku.edu.tw/p/406-1165-306362\,r2587.php?Lang=zh-tw
+URL:https://flld.ncku.edu.tw/p/406-1165-306362,r2587.php?Lang=zh-tw
+LOCATION:修齊大樓四樓26425教室
+END:VEVENT
+BEGIN:VEVENT
+UID:c7cb3f5ecf0c3980d95858d10f279d1a@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261020T030000Z
+DTEND:20261020T050000Z
+SUMMARY:【未註明｜需報名】2026/10/20 (Tue) 11:00-13:00，NCKU x 
+ Fulbright「EMI教師工作坊」- Teacher Survival in the Era of AI: Cr
+ eating Unique Value in an AI-Infused Classroom. (Deadline 13:00 PM\, Oct
+ . 19\, 2026)
+DESCRIPTION:主辦：醫學院\n時間：2026/10/20(二) 11:00-13:00\n報
+ 名：…to meaning-maker. 報名網址：https://activity.…\n公告
+ ：https://med.ncku.edu.tw/p/406-1015-306343\,r11.php?Lang=zh-tw
+URL:https://med.ncku.edu.tw/p/406-1015-306343,r11.php?Lang=zh-tw
+LOCATION:成杏校區 生醫卓群大樓一樓 漢泰講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3316457804602414d75c8573c3a082@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261020T053000Z
+DTEND:20261020T070000Z
+SUMMARY:【未註明】【演講】中央大學葉靖輝教授：OsHsp101
+  與 OsHsp16.9A 在水稻種子萌發過程中的功能與調控角色
+DESCRIPTION:主辦：熱帶植物與微生物科學研究所\n公告：ht
+ tps://itps.ncku.edu.tw/p/405-1148-306593\,c82.php?Lang=zh-tw
+URL:https://itps.ncku.edu.tw/p/405-1148-306593,c82.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:74949f890da24a2af573d711f76e1ba0@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261020T062600Z
+DTEND:20261020T082600Z
+SUMMARY:【開放】Transparency of Ambient IoT Devices
+DESCRIPTION:主辦：資訊工程學系\n時間：115年10月20日\n公
+ 告：https://www.csie.ncku.edu.tw/zh-hant/news/13603
+URL:https://www.csie.ncku.edu.tw/zh-hant/news/13603
+LOCATION:資訊工程學系4264 教室
+END:VEVENT
+BEGIN:VEVENT
+UID:3f12e0fb3f1383eccdd439ded53c97c0@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261020T072000Z
+DTEND:20261020T091000Z
+SUMMARY:【未註明】歐盟對內分泌干擾化學物質的管制｜Zh
+ i-Chao Dang\, PhD (Senior Ris
+DESCRIPTION:主辦：環境醫學研究所\n講者：Zhi-Chao Dang\, PhD 
+ (Senior Risk Assessor\, Centre for Safety of Substances and Products\, N
+ ational Institute for Public Health and the Environment\, the Netherland
+ s)\n時間：October 20\, 2026 15:20-17:10\n公告：https://deoh.ncku.e
+ du.tw/p/406-1122-305690\,r2354.php?Lang=zh-tw
+URL:https://deoh.ncku.edu.tw/p/406-1122-305690,r2354.php?Lang=zh-tw
+LOCATION:醫學院 鳳杯講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:6fcca0d481c4f4543a747ecc097cfe43@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:【未註明】【研討講座】黃嘉基 副教授 ［講題：
+ Valuation of Military Expenditure and Welfares Costs of Threat from Nort
+ h Korea: Insights from an Intertemporal Consumer Demand System for Japan
+  and South Korea ］
+DESCRIPTION:主辦：經濟學系\n公告：https://www.econ.ncku.edu.tw/
+ ActNews.asp?newsid=933
+URL:https://www.econ.ncku.edu.tw/ActNews.asp?newsid=933
+END:VEVENT
+BEGIN:VEVENT
+UID:f2f4c51ade620f815bc17b808a5fa95b@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:【開放｜需報名】【教師工作坊】Teacher Survival in 
+ the Era of AI: Creating Unique Value in an AI-Infused Classroom
+DESCRIPTION:主辦：生物科學與科技學院\n報名：…(Room 891S1
+ ) 活動連結 Registration Link…\n公告：https://bb.ncku.edu.tw/p/4
+ 06-1019-306401\,r1497.php?Lang=zh-tw
+URL:https://bb.ncku.edu.tw/p/406-1019-306401,r1497.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:2e5188146492d102187eefd5a02879d6@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:【開放｜需報名】演講及其他活動
+DESCRIPTION:主辦：老年學研究所\n報名：…人工智慧在高
+ 教的角色及應用」論壇熱烈報名中👉林哲偉副教授 2024
+ -09-0…\n公告：https://iog.ncku.edu.tw/p/412-1169-22953.php?Lang=zh-
+ tw
+URL:https://iog.ncku.edu.tw/p/412-1169-22953.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:6373d5aea8ef08e24d41422c566bd502@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261021T010000Z
+DTEND:20261021T020000Z
+SUMMARY:【未註明】New Frontiers in Host-Microbe Interactions: Unrave
+ ling a Novel Immune Guard System Against Bacterial Infection and Beyond
+DESCRIPTION:主辦：醫學檢驗生物技術學系\n時間：115年10月
+ 21日(三) 9:00-10:00\n公告：https://mt.ncku.edu.tw/p/406-1151-306711
+ \,r11.php?Lang=zh-tw
+URL:https://mt.ncku.edu.tw/p/406-1151-306711,r11.php?Lang=zh-tw
+LOCATION:生醫卓群大樓8樓13830會議室
+END:VEVENT
+BEGIN:VEVENT
+UID:1ccf133f12e8639b7e8f8d3d3cb57615@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261021T081500Z
+DTEND:20261021T101500Z
+SUMMARY:【未註明】凝態物理seminar Introduction to Quantum Geomet
+ ry of Bloch States 演講者 : Prof. Christophe De Beule  -   (NCKU Phys
+ ics) 演講地點 : 理學教學新大樓物理系 5F 多功能交誼廳
+  2026 / 10 / 21 16:15｜Prof. Christophe De Beule - (N
+DESCRIPTION:主辦：物理學系\n講者：Prof. Christophe De Beule - (
+ NCKU Physics)\n時間：2026 / 10 / 21\n公告：https://www.phys.ncku.e
+ du.tw/colloquia-detail/955/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/955/
+LOCATION:理學教學新大樓物理系 5F 多功能交誼廳
+END:VEVENT
+BEGIN:VEVENT
+UID:16191f5fabe9dd4eed207ffee521b484@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261022T043000Z
+DTEND:20261022T060000Z
+SUMMARY:【開放】Organoids to model human disease in 3D and 2D
+DESCRIPTION:主辦：醫學院\n時間：115.10.22\n公告：https://med.
+ ncku.edu.tw/p/406-1015-305975\,r11.php?Lang=zh-tw
+URL:https://med.ncku.edu.tw/p/406-1015-305975,r11.php?Lang=zh-tw
+LOCATION:醫學院第四講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:627ee2f8e77d47dbe64790df717386cf@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261022T072000Z
+DTEND:20261022T091000Z
+SUMMARY:【未註明】Machine Learning Approaches for Advancing AFM-base
+ d Nanomechanical｜阮氏芳玲 助理教授
+DESCRIPTION:主辦：材料科學及工程學系\n講者：阮氏芳玲 
+ 助理教授\n時間：民國 115年 10月 22日(四)\n公告：https://
+ mse.ncku.edu.tw/p/406-1234-307318\,r4151.php?Lang=zh-tw
+URL:https://mse.ncku.edu.tw/p/406-1234-307318,r4151.php?Lang=zh-tw
+LOCATION:成功大學成功校區三系館鋼構區(3F)共同教室 A1302
+ 演講廳
+END:VEVENT
+BEGIN:VEVENT
+UID:6659cabc3f344304b6ebb464cc6172ab@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261022T072000Z
+DTEND:20261022T091000Z
+SUMMARY:【未註明】Low-Melting Alloy Design and Interfacial Reaction 
+ Control for Semiconductor Packaging Interconnects｜沈育安 副教授
+DESCRIPTION:主辦：材料科學及工程學系\n講者：沈育安 副
+ 教授\n時間：民國 115年 10月 22日(四)\n公告：https://mse.nc
+ ku.edu.tw/p/406-1234-306758\,r4151.php?Lang=zh-tw
+URL:https://mse.ncku.edu.tw/p/406-1234-306758,r4151.php?Lang=zh-tw
+LOCATION:成功大學成功校區三系館鋼構區(3F)共同教室 A1302
+ 演講廳
+END:VEVENT
+BEGIN:VEVENT
+UID:454f1d82c3350971e0d7b8b1acc466a1@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261022T073000Z
+DTEND:20261022T083000Z
+SUMMARY:【未註明】Finite-Sample Inference for Adaptive Testing: Conf
+ idence Sequences and No-Regret Item Selection｜楊昊紘 博士後研
+ 究員
+DESCRIPTION:主辦：統計與資料科學學系\n講者：楊昊紘 博
+ 士後研究員\n公告：https://stat.ncku.edu.tw/index.php?option=modu
+ le&lang=cht&task=pageinfo&id=1841&index=1
+URL:https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pagein
+ fo&id=1841&index=1
+LOCATION:統計與資料科學學系三樓視聽教室 (62331)
+END:VEVENT
+BEGIN:VEVENT
+UID:fb710827bfdf3a8e071f64bbe90f3a21@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261022T103400Z
+DTEND:20261022T123400Z
+SUMMARY:【未註明】115學年度第一學期 專題演講 (115.10.22
+ 更新)
+DESCRIPTION:主辦：水利及海洋工程學系\n公告：https://web.hy
+ d.ncku.edu.tw/?p=18260
+URL:https://web.hyd.ncku.edu.tw/?p=18260
+END:VEVENT
+BEGIN:VEVENT
+UID:826f354c82745c3afe5ce56207969d48@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261023T021000Z
+DTEND:20261023T041000Z
+SUMMARY:【未註明】Victorian Gothic Mobsters: Edward Lloyd and George
+  W. M. Reynolds｜英國羅漢普頓大學英國文學榮譽教授 Ian H
+ aywood
+DESCRIPTION:主辦：外國語文學系\n講者：英國羅漢普頓大
+ 學英國文學榮譽教授 Ian Haywood\n時間：115.10.23星期五上
+ 午10:10\n公告：https://flld.ncku.edu.tw/p/406-1165-306364\,r2587.php
+ ?Lang=zh-tw
+URL:https://flld.ncku.edu.tw/p/406-1165-306364,r2587.php?Lang=zh-tw
+LOCATION:修齊大樓四樓26402教室
+END:VEVENT
+BEGIN:VEVENT
+UID:240eef85eb77bff194637a3d1a612c97@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261023T040000Z
+DTEND:20261023T050000Z
+SUMMARY:【開放】教學創新，累死學生？還是累死老師？
+DESCRIPTION:主辦：醫學院\n時間：115.10.23\n公告：https://med.
+ ncku.edu.tw/p/406-1015-306069\,r11.php?Lang=zh-tw
+URL:https://med.ncku.edu.tw/p/406-1015-306069,r11.php?Lang=zh-tw
+LOCATION:醫學院4F大會議室
+END:VEVENT
+BEGIN:VEVENT
+UID:a4783eaac3908d3278d1de1b42c1a715@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261024T070000Z
+DTEND:20261024T090000Z
+SUMMARY:【未註明】【演講】From Hazard to Decisions: Using IN-COR
+ E to Support Community Resilience Planning
+DESCRIPTION:主辦：都市計劃學系\n公告：https://www.up.ncku.edu
+ .tw/115-10-21-01/
+URL:https://www.up.ncku.edu.tw/115-10-21-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:67ece6a6b3a7e476b44f8e3432ae8492@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:【未註明】【講座】10月26日塚原信行教授演講
+DESCRIPTION:主辦：臺灣文學系\n公告：https://twl.ncku.edu.tw/p/
+ 406-1143-305469\,r3545.php?Lang=zh-tw
+URL:https://twl.ncku.edu.tw/p/406-1143-305469,r3545.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:9930f2a387761485f2c2ac217136c86a@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261027T053000Z
+DTEND:20261027T070000Z
+SUMMARY:【未註明】【演講】中興大學洪福佑博士：The Unde
+ rexplored Epigenetic and Developmental Regulators of Plant Callus Format
+ ion and Regeneration
+DESCRIPTION:主辦：熱帶植物與微生物科學研究所\n公告：ht
+ tps://itps.ncku.edu.tw/p/405-1148-306618\,c82.php?Lang=zh-tw
+URL:https://itps.ncku.edu.tw/p/405-1148-306618,c82.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:386284ad6b58fdf8d307612b3cf62518@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:【未註明｜需報名】2026 International Symposium on Transf
+ ormative Bioelectronic Medicine 前瞻生物電子醫學國際研討會
+ ，歡迎踴躍報名參加！
+DESCRIPTION:主辦：醫學院\n報名：…內外師生、研究人員
+ 及相關領域專業人士報名參加，共同探索生物電子醫學
+ 與智慧健康…\n公告：https://med.ncku.edu.tw/p/406-1015-307284\,
+ r2837.php?Lang=zh-tw
+URL:https://med.ncku.edu.tw/p/406-1015-307284,r2837.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:949d1a2a6b930ddf4da46f9bb0531af7@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261028T010000Z
+DTEND:20261028T060000Z
+SUMMARY:【未註明｜需報名】【工作坊】2026 論文寫作與發
+ 表工作坊
+DESCRIPTION:主辦：都市計劃學系\n報名：…14:00｜午餐享用
+ 與期刊發表座談 報名方式 請掃描活動海報 QR Code 報…\
+ n公告：https://www.up.ncku.edu.tw/115-09-15-02/
+URL:https://www.up.ncku.edu.tw/115-09-15-02/
+END:VEVENT
+BEGIN:VEVENT
+UID:cfd4c32a93ba8c5b7f9f7036d4668ae5@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261028T061000Z
+DTEND:20261028T090000Z
+SUMMARY:【未註明】【演講】臺灣國土計畫的制度困境與
+ 實踐挑戰
+DESCRIPTION:主辦：都市計劃學系\n公告：https://www.up.ncku.edu
+ .tw/115-10-20-01/
+URL:https://www.up.ncku.edu.tw/115-10-20-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:d5b34de2533ccd46a44c418cd7f7bc0a@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261028T081500Z
+DTEND:20261028T101500Z
+SUMMARY:【未註明】凝態物理seminar High-harmonic Hall effects in 
+ two-dimensional elecron gases under nonuniform magnetic fields 演講者
+  : You-Ting Huang (黃佑庭)  -   (Research Assistant\, NCKU) 演講地
+ 點 : 理學教學新大樓物理系 5F 多功能交誼廳 2026 / 10 / 2
+ 8 16:15｜You-Ting Huang (黃佑庭) - (Resear
+DESCRIPTION:主辦：物理學系\n講者：You-Ting Huang (黃佑庭) - 
+ (Research Assistant\, NCKU)\n時間：2026 / 10 / 28\n公告：https://w
+ ww.phys.ncku.edu.tw/colloquia-detail/957/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/957/
+LOCATION:理學教學新大樓物理系 5F 多功能交誼廳
+END:VEVENT
+BEGIN:VEVENT
+UID:ece0a5fe40a120e41d6107d177967c66@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261029T021000Z
+DTEND:20261029T041000Z
+SUMMARY:【未註明】Fanilects and Easter Eggs: English\, Fandom and So
+ cial Media｜比利時根特大學文學研究學系教授Elly McCauslan
+ d
+DESCRIPTION:主辦：外國語文學系\n講者：比利時根特大學
+ 文學研究學系教授Elly McCausland\n時間：115.10.29星期四上
+ 午10:10\n公告：https://flld.ncku.edu.tw/p/406-1165-306620\,r2587.php
+ ?Lang=zh-tw
+URL:https://flld.ncku.edu.tw/p/406-1165-306620,r2587.php?Lang=zh-tw
+LOCATION:修齊大樓四樓26408教室
+END:VEVENT
+BEGIN:VEVENT
+UID:b1c33fa7c1233466709fdba56f0e5082@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261029T040000Z
+DTEND:20261029T053000Z
+SUMMARY:【開放】【醫學院聯合演講】115.10.29 (四) 上羽瑠
+ 美 - Swallowing computed tomography and extended reality system in swal
+ lowing evaluation
+DESCRIPTION:主辦：醫學院\n時間：115.10.29（四）\n公告：htt
+ ps://med.ncku.edu.tw/p/406-1015-307131\,r11.php?Lang=zh-tw
+URL:https://med.ncku.edu.tw/p/406-1015-307131,r11.php?Lang=zh-tw
+LOCATION:醫學院第四講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:0b56209400a486755c1ffc0c73f98d4a@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261029T060000Z
+DTEND:20261029T080000Z
+SUMMARY:【未註明】【座談會】綠領人才與永續職涯發展
+ 企業座談會
+DESCRIPTION:主辦：都市計劃學系\n公告：https://www.up.ncku.edu
+ .tw/115-10-29-01/
+URL:https://www.up.ncku.edu.tw/115-10-29-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:30528059484530a768aa7ea60cfaf719@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261030T052000Z
+DTEND:20261030T070000Z
+SUMMARY:【未註明】【專題演講】Engineering memristors for effic
+ ient and robust AI｜J. Joshua Yang/Arthur B. Freem
+DESCRIPTION:主辦：智慧半導體及永續製造學院\n講者：J. Jo
+ shua Yang/Arthur B. Freeman Chair Professor University of Southern Calif
+ ornia\n時間：10/30(五)13:20-15:00\n公告：https://ais2m.ncku.edu.t
+ w/?action=news&id=2572
+URL:https://ais2m.ncku.edu.tw/?action=news&id=2572
+LOCATION:自強校區電機系館B1迅慧講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:65d6eded6c003b045dfb1948d87c6c42@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261030T072000Z
+DTEND:20261030T091000Z
+SUMMARY:【未註明｜需報名】關於那些我沒說的事──從
+ 中文系畢業到成為職業編劇，然後還得到了金馬獎｜詹
+ 傑 (影視與舞台劇編劇、成大中文系優秀青年校友)
+DESCRIPTION:主辦：中國文學系\n講者：詹傑 (影視與舞台劇
+ 編劇、成大中文系優秀青年校友)\n時間：10/30(週五)，15
+ :20-17:10\n報名：…祝活動 為讓師友們有更充裕的時間填
+ 寫報名表單，報名期限延長至 10月31日 誠摯…\n公告：h
+ ttps://chinese.ncku.edu.tw/p/406-1142-302766\,r1186.php?Lang=zh-tw
+URL:https://chinese.ncku.edu.tw/p/406-1142-302766,r1186.php?Lang=zh-tw
+LOCATION:中文系館1樓文學院演講廳
+END:VEVENT
+BEGIN:VEVENT
+UID:77af5de8d42e7622c077280ad2ac9123@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261030T090000Z
+DTEND:20261030T100000Z
+SUMMARY:【未註明】【頂尖學術特邀講座】光子學與能源
+ 領域的三大挑戰 (Three Grand Challenges for Photonics and Energy)
+ ｜Harry A. Atwater 教授
+DESCRIPTION:主辦：材料科學及工程學系\n講者：Harry A. Atwat
+ er 教授\n公告：https://mse.ncku.edu.tw/p/406-1234-307395\,r4151.php
+ ?Lang=zh-tw
+URL:https://mse.ncku.edu.tw/p/406-1234-307395,r4151.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f091865f8cb96e02d974e42991361d0c@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261031T010000Z
+DTEND:20261031T093000Z
+SUMMARY:【未註明｜需報名】2026 大南方空間規劃治理法制
+ 論壇
+DESCRIPTION:主辦：法律學系\n時間：115 年 10 月 31 日（六
+ ）09:00–17:30\n報名：…二屆大南方空間規劃治理法制論
+ 壇，歡迎報名參加！ 主題：2026 大南方空間規…\n公告
+ ：https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=930
+URL:https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=930
+LOCATION:國立成功大學力行校區 綠色魔法學校崇華廳
+END:VEVENT
+BEGIN:VEVENT
+UID:855aa073bc1ac94f01287a59d39f7da2@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261031T010000Z
+DTEND:20261031T093000Z
+SUMMARY:【未註明｜需報名】【活動轉發】2026 大南方空間
+ 規劃治理法制論壇
+DESCRIPTION:主辦：規劃與設計學院\n報名：…法律學系民
+ 事法研究中心 ▍活動官網／報名｜https://reurl.cc/…\n公
+ 告：https://cpd.ncku.edu.tw/p/405-1021-306454\,c28374.php?Lang=zh-tw
+URL:https://cpd.ncku.edu.tw/p/405-1021-306454,c28374.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:890f367b3aa643f822b5227a1f0bb652@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261031T010000Z
+DTEND:20261031T093000Z
+SUMMARY:【未註明｜需報名】【論壇】2026 大南方空間規劃
+ 治理法制論壇
+DESCRIPTION:主辦：都市計劃學系\n報名：…學法律學系民
+ 事法研究中心 活動官網／報名 https://reurl.cc/…\n公告：
+ https://www.up.ncku.edu.tw/115-10-12-01/
+URL:https://www.up.ncku.edu.tw/115-10-12-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:0f3c9ea660967f2a8f1690204fef039e@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261031T020000Z
+DTEND:20261031T083000Z
+SUMMARY:【未註明｜需報名】【轉發訊息】2026臺灣跨領域
+ 學士論壇｜10/31於成大舉行，10/5中午報名截止
+DESCRIPTION:主辦：地球科學系\n時間：115年10月31日（六）1
+ 0:00–16:30\n報名：…推動夥伴，以及對跨領域學習有興
+ 趣者 報名期限：115年10月5日（一）中午1…\n公告：https
+ ://earth.ncku.edu.tw/p/405-1134-305159\,c25861.php?Lang=zh-tw
+URL:https://earth.ncku.edu.tw/p/405-1134-305159,c25861.php?Lang=zh-tw
+LOCATION:國立成功大學未來館2樓、3樓
+END:VEVENT
+BEGIN:VEVENT
+UID:887f1f1a3d44922e097b478bc0aed565@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:【未註明】113學年度 學術演講
+DESCRIPTION:主辦：考古學研究所\n公告：https://archaeology.nck
+ u.edu.tw/p/412-1208-31452.php?Lang=zh-tw
+URL:https://archaeology.ncku.edu.tw/p/412-1208-31452.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:104b168e3f9081d1af140078878a94c0@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261102T041000Z
+DTEND:20261102T061000Z
+SUMMARY:【未註明】本月演講 11｜陳應誠 教授 (中央研究
+ 院原子與分子科學研究所)
+DESCRIPTION:主辦：物理學系\n講者：陳應誠 教授 (中央研
+ 究院原子與分子科學研究所)\n公告：https://www.phys.ncku.ed
+ u.tw/colloquia/?month=now
+URL:https://www.phys.ncku.edu.tw/colloquia/?month=now
+LOCATION:理學教學新大樓物理系1F 36173教室
+END:VEVENT
+BEGIN:VEVENT
+UID:8211d7ddf4c28a25a682baedefc3bd4e@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261102T041000Z
+DTEND:20261102T061000Z
+SUMMARY:【未註明】前沿量子科技研究中心量子資訊專題
+ 演講 Neutral Atom Quantum Computing 演講者 : 陳應誠  教授   (
+ 中央研究院原子與分子科學研究所) 演講地點 : 理學教
+ 學新大樓物理系1F 36173教室 2026 / 11 / 02 12:10｜陳應誠 教
+ 授 (中央研究院原子與分子科學研究所)
+DESCRIPTION:主辦：物理學系\n講者：陳應誠 教授 (中央研
+ 究院原子與分子科學研究所)\n時間：2026 / 11 / 02\n公告
+ ：https://www.phys.ncku.edu.tw/colloquia-detail/914/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/914/
+LOCATION:理學教學新大樓物理系1F 36173教室
+END:VEVENT
+BEGIN:VEVENT
+UID:fe62155d7abc44d844f8898bb1cba850@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261102T070000Z
+DTEND:20261102T080000Z
+SUMMARY:【未註明】The Illuminated Beast: Satan\, Symbolism\, and the
+  Dragon in the Medieval Bestiary｜Professor Anne McClanan from P
+DESCRIPTION:主辦：外國語文學系\n講者：Professor Anne McClanan
+  from Portland State University\n時間：Monday\, November 2\, 2026\n
+ 公告：https://flld.ncku.edu.tw/p/406-1165-307455\,r2587.php?Lang=zh-t
+ w
+URL:https://flld.ncku.edu.tw/p/406-1165-307455,r2587.php?Lang=zh-tw
+LOCATION:Room 26415\, Hsiu-chi Building
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5d3ace800fae01cd8307a3ae3a1b2f@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261102T071000Z
+DTEND:20261102T090000Z
+SUMMARY:【未註明】成大中文系70週年系慶｜系友回娘家系
+ 列學術講座(115.11.2)｜「解識杜甫：詩聖前傳、一生襟
+ 抱及遺產」
+DESCRIPTION:主辦：中國文學系\n講者：「解識杜甫：詩聖
+ 前傳、一生襟抱及遺產」\n公告：https://chinese.ncku.edu.tw/
+ p/406-1142-306063\,r1185.php?Lang=zh-tw
+URL:https://chinese.ncku.edu.tw/p/406-1142-306063,r1185.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:ef677d612a8bd0e11fa6945f05ca913b@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:【未註明】【研討講座】楊淑珺 副所長 ［講題：
+ The Recurrent-Cost Bias in Infrastructure Multipliers］
+DESCRIPTION:主辦：經濟學系\n公告：https://www.econ.ncku.edu.tw/
+ ActNews.asp?newsid=937
+URL:https://www.econ.ncku.edu.tw/ActNews.asp?newsid=937
+END:VEVENT
+BEGIN:VEVENT
+UID:f0d3d3d13e3edbe995839535559e6f04@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261103T020000Z
+DTEND:20261103T040000Z
+SUMMARY:【未註明】論莊子式寬恕｜鄭宗義教授(香港中文
+ 大學哲學系教授)
+DESCRIPTION:主辦：中國文學系\n講者：鄭宗義教授(香港中
+ 文大學哲學系教授)\n時間：2026年11月03日(星期二)\n公告
+ ：https://chinese.ncku.edu.tw/p/406-1142-307244\,r1185.php?Lang=zh-tw
+URL:https://chinese.ncku.edu.tw/p/406-1142-307244,r1185.php?Lang=zh-tw
+LOCATION:中文系館3樓21302教室(視聽教室)
+END:VEVENT
+BEGIN:VEVENT
+UID:277a0ee8b0788bd426feef070d2e7007@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261103T020000Z
+DTEND:20261103T040000Z
+SUMMARY:【未註明】Neoteric Frontiers in Cloud and Quantum Computing
+ ｜Prof. Rajkumar Buyya
+DESCRIPTION:主辦：資訊工程學系\n講者：Prof. Rajkumar Buyya\n
+ 時間：115年11月3日（二）上午10:00\n公告：https://www.csie.
+ ncku.edu.tw/zh-hant/news/13612
+URL:https://www.csie.ncku.edu.tw/zh-hant/news/13612
+LOCATION:資工系4264室
+END:VEVENT
+BEGIN:VEVENT
+UID:78ded9860f7a518f505e08c10a7bc5fb@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:【未註明】本月演講 01｜Dr. Wun-Hao Kang (康文豪) - (
+ Post
+DESCRIPTION:主辦：物理學系\n講者：Dr. Wun-Hao Kang (康文豪) 
+ - (Postdoc\, NCKU)\n公告：https://www.phys.ncku.edu.tw/colloquia/13/?
+ month=now
+URL:https://www.phys.ncku.edu.tw/colloquia/13/?month=now
+LOCATION:理學教學新大樓物理系 5F 多功能交誼廳
+END:VEVENT
+BEGIN:VEVENT
+UID:5e7455d16f613da5682308723b35c296@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261104T020000Z
+DTEND:20261104T040000Z
+SUMMARY:【未註明】Sustainable Solutions by Bioinspiration - Gecko-In
+ spired Gripping in Robotic\, Medicine and Space.｜Prof. Eduard Arzt\, T
+ echnical U
+DESCRIPTION:主辦：航空太空工程學系\n講者：Prof. Eduard Arzt
+ \, Technical University of Leoben\, Austria\n時間：2026. 11. 04 10:00
+ ~12:00\n公告：https://iaa.ncku.edu.tw/p/406-1104-307329\,r11.php?Lang
+ =zh-tw
+URL:https://iaa.ncku.edu.tw/p/406-1104-307329,r11.php?Lang=zh-tw
+LOCATION:航太系 5878會議室 (航太系館 二樓)
+END:VEVENT
+BEGIN:VEVENT
+UID:0d647bc60042db1613a653216061acc5@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261104T040000Z
+DTEND:20261104T053000Z
+SUMMARY:【開放】【醫學院聯合演講】115.11.04 (三) Tamotsu Yo
+ shimori(吉森保) - 30 Years of Autophagy: From Fundamental Mechanisms 
+ to Healthspan Extension
+DESCRIPTION:主辦：醫學院\n時間：115.11.04（三）\n公告：htt
+ ps://med.ncku.edu.tw/p/406-1015-307378\,r11.php?Lang=zh-tw
+URL:https://med.ncku.edu.tw/p/406-1015-307378,r11.php?Lang=zh-tw
+LOCATION:醫學院4F大會議室
+END:VEVENT
+BEGIN:VEVENT
+UID:04b7590964ebb9b1fdfc61558b17a6f3@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261104T081500Z
+DTEND:20261104T101500Z
+SUMMARY:【未註明】凝態物理seminar Spin-Filtering and Persistent 
+ Spin-Currents in Lifshitz-Transitioned Altermagnets: A Route to Open-Orb
+ it Spintronics 演講者 : Dr. Wun-Hao Kang (康文豪)  -   (Postdoc\, 
+ NCKU) 演講地點 : 理學教學新大樓物理系 5F 多功能交誼
+ 廳 2026 / 11 / 04 16:15｜Dr. Wun-Hao Kang (康文豪) - (Post
+DESCRIPTION:主辦：物理學系\n講者：Dr. Wun-Hao Kang (康文豪) 
+ - (Postdoc\, NCKU)\n時間：2026 / 11 / 04\n公告：https://www.phys.n
+ cku.edu.tw/colloquia-detail/959/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/959/
+LOCATION:理學教學新大樓物理系 5F 多功能交誼廳
+END:VEVENT
+BEGIN:VEVENT
+UID:45568a58b40d641c794c4c8f5a1309ab@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261105T053000Z
+DTEND:20261105T073000Z
+SUMMARY:【未註明｜需報名】【敬邀】第六屆成電論壇 暨 
+ 2026年系友大會-115年11月5日(四)下午1:30敬邀您踴躍出席
+DESCRIPTION:主辦：微電子工程研究所、電機工程學系、通
+ 訊工程研究所、智慧資訊安全碩士學位學程、奈米積體
+ 電路工程碩士學位學程\n報名：…026年系友大會，敬邀
+ 您踴躍出席。 報名表單 活動資訊如附件 期待您的蒞臨
+ 。 電…\n公告：https://ime.ee.ncku.edu.tw/announcement_content.php
+ ?ann_id=4455
+URL:https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4455
+END:VEVENT
+BEGIN:VEVENT
+UID:ca70062ee421f6f3b284b1f17e8ee623@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261105T053000Z
+DTEND:20261105T073000Z
+SUMMARY:【未註明】2026年11月5日（四）本所邀請外賓蒞臨
+ 專題演講
+DESCRIPTION:主辦：生理學科暨研究所\n時間：2026年11月5日
+ （四） 📍 地點： 成大醫學院 6F 604 教室\n公告：https:/
+ /phys-med.ncku.edu.tw/p/406-1132-306449\,r11.php?Lang=zh-tw
+URL:https://phys-med.ncku.edu.tw/p/406-1132-306449,r11.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:9dceada9efe88df8c46ef2596f85d74f@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:【未註明｜需報名】【活動快訊】【聯華電子】20
+ 26年PTP講堂「半導體下一波機會在哪裡？」
+DESCRIPTION:主辦：智慧半導體及永續製造學院\n時間：11／
+ 5（四）18:30–20:00\n報名：…培育重點，為未來做好準
+ 備！ 🎁 事先報名並出席活動 享有美味個人餐點，還
+ 有機…\n公告：https://ais2m.ncku.edu.tw/?action=news&id=2550
+URL:https://ais2m.ncku.edu.tw/?action=news&id=2550
+END:VEVENT
+BEGIN:VEVENT
+UID:70fdf8397ec8dc12ef223cb96369758b@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:【未註明｜需報名】【學院研究日】額外加碼! 11/
+ 6 國科會蘇振綱副主委《未來城鄉 X 智慧科技  區域創
+ 新 X 國土空間規劃》講座，歡迎報名!!
+DESCRIPTION:主辦：規劃與設計學院\n報名：…域創新 X 國
+ 土空間規劃》講座，歡迎報名!!…\n公告：https://cpd.ncku.
+ edu.tw/p/405-1021-307424\,c28374.php?Lang=zh-tw
+URL:https://cpd.ncku.edu.tw/p/405-1021-307424,c28374.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:dbdc578628b32e5c2c0fda219c4d7234@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261106T061000Z
+DTEND:20261106T081000Z
+SUMMARY:【未註明】115學年上學期碩博班專題討論(2026 Fall 
+ Colloquium) Fast quantum gas formation via electromagnetically induced t
+ ransparency cooling 演講者 : Prof. Shau-Yu Lan (藍劭宇)  -   (國
+ 立台灣大學物理學系 Department of Physics\, National Taiwan Univ
+ ersity) 演講地點 : 理學教學新大樓物理系1F 36102教室 2026
+  / 11 / 06 14:10｜Prof. Shau-Yu Lan (藍劭宇) - (國立台
+DESCRIPTION:主辦：物理學系\n講者：Prof. Shau-Yu Lan (藍劭宇)
+  - (國立台灣大學物理學系 Department of Physics\, National Taiw
+ an University)\n時間：2026 / 11 / 06\n公告：https://www.phys.ncku.
+ edu.tw/colloquia-detail/936/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/936/
+LOCATION:理學教學新大樓物理系1F 36102教室
+END:VEVENT
+BEGIN:VEVENT
+UID:9c4c694e235b4a328c40077c62a4544c@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261107T022500Z
+DTEND:20261107T033000Z
+SUMMARY:【開放｜需報名】11/7(六)系友回娘家，系友分享
+ 會
+DESCRIPTION:主辦：資源工程學系\n報名：…來說，也是一
+ 次重新認識母系的場合。 報名方式 歡迎師生與系友參
+ 加 席次有限，敬請…\n公告：https://mp.ncku.edu.tw/11-7%e5%85
+ %ad%e7%b3%bb%e5%8f%8b%e5%9b%9e%e5%a8%98%e5%ae%b6%ef%bc%8c%e7%b3%bb%e5%8f
+ %8b%e5%88%86%e4%ba%ab%e6%9c%83/
+URL:https://mp.ncku.edu.tw/11-7%e5%85%ad%e7%b3%bb%e5%8f%8b%e5%9b%9e%e5%a8
+ %98%e5%ae%b6%ef%bc%8c%e7%b3%bb%e5%8f%8b%e5%88%86%e4%ba%ab%e6%9c%83/
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ee97a551f6d6202335161efdff27bd@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:【未註明】【專題演講】11月9日，講題：歐洲大
+ 學漢學專業的語言課程設置及台語文課程可扮演的角色
+DESCRIPTION:主辦：臺灣文學系\n公告：https://twl.ncku.edu.tw/p/
+ 406-1143-306796\,r668.php?Lang=zh-tw
+URL:https://twl.ncku.edu.tw/p/406-1143-306796,r668.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:46b6881ca328e3026b0b150bfcfa6c90@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:【未註明】【專題演講】11月9日，講題：台日關
+ 係——過去與未來
+DESCRIPTION:主辦：臺灣文學系\n公告：https://twl.ncku.edu.tw/p/
+ 406-1143-306795\,r668.php?Lang=zh-tw
+URL:https://twl.ncku.edu.tw/p/406-1143-306795,r668.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b3a4b86aceffb9c6a13d9cd4217ef3@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261109T041000Z
+DTEND:20261109T061000Z
+SUMMARY:【未註明】前沿量子科技研究中心量子資訊專題
+ 演講 Quantum channel incompatibility: A fundamental constraint on quan
+ tum communication and quantum measurement 演講者 : 皆川慎太朗  
+ 博士   (法國艾克斯-馬賽大學) 演講地點 : 理學教學新
+ 大樓物理系1F 36173教室 2026 / 11 / 09 12:10｜皆川慎太朗 博
+ 士 (法國艾克斯-馬賽大學)
+DESCRIPTION:主辦：物理學系\n講者：皆川慎太朗 博士 (法
+ 國艾克斯-馬賽大學)\n時間：2026 / 11 / 09\n公告：https://ww
+ w.phys.ncku.edu.tw/colloquia-detail/961/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/961/
+LOCATION:理學教學新大樓物理系1F 36173教室
+END:VEVENT
+BEGIN:VEVENT
+UID:adee10b84041eaf147708c84460e002d@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261109T070000Z
+DTEND:20261109T090000Z
+SUMMARY:【未註明】從《毛詩正義》到《五經正義》：注
+ 疏研究經驗談｜張寶三教授(國立臺灣大學中國文學系
+ 榮退教授)
+DESCRIPTION:主辦：中國文學系\n講者：張寶三教授(國立臺
+ 灣大學中國文學系榮退教授)\n時間：2026年11月9日(星期
+ 一)\n公告：https://chinese.ncku.edu.tw/p/406-1142-307502\,r1185.php?
+ Lang=zh-tw
+URL:https://chinese.ncku.edu.tw/p/406-1142-307502,r1185.php?Lang=zh-tw
+LOCATION:中文系館3樓21302教室(視聽教室)
+END:VEVENT
+BEGIN:VEVENT
+UID:82d64ab770864b77f64899ca712be62a@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261109T072000Z
+DTEND:20261109T091000Z
+SUMMARY:【未註明】Application of Chemical Mechanical Polishing (CMP)
+  in Semiconductors｜侯武桓
+DESCRIPTION:主辦：材料科學及工程學系\n講者：侯武桓\n時
+ 間：115年11月9日(一) 15:20~17:10\n公告：https://mse.ncku.edu.tw
+ /p/406-1234-306766\,r4151.php?Lang=zh-tw
+URL:https://mse.ncku.edu.tw/p/406-1234-306766,r4151.php?Lang=zh-tw
+LOCATION:成功大學 材料新館 44101協勝發講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:be7cb3ef9230a02010f63ec226d1d233@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261112T071000Z
+DTEND:20261112T091000Z
+SUMMARY:【未註明】理院論壇 Quantum Algorithms: Past\, Present\, 
+ and Future 演講者 : Seth Lloyd  教授   (MIT\, USA) 演講地點 : 
+ 理學教學新大樓物理系1F 36102教室 2026 / 11 / 12 15:10｜Seth
+  Lloyd 教授 (MIT\, USA)
+DESCRIPTION:主辦：物理學系\n講者：Seth Lloyd 教授 (MIT\, USA)
+ \n時間：2026 / 11 / 12\n公告：https://www.phys.ncku.edu.tw/colloqu
+ ia-detail/965/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/965/
+LOCATION:理學教學新大樓物理系1F 36102教室
+END:VEVENT
+BEGIN:VEVENT
+UID:ce261c9795ef5d2b7fc0663842f8d392@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261113T010000Z
+DTEND:20261113T090000Z
+SUMMARY:【未註明｜需報名】【研討會】2026蘭花前瞻研究
+ 與產業發展國際研討會 Orchid Prospective Research and Industria
+ l Development International Symposium
+DESCRIPTION:主辦：熱帶植物與微生物科學研究所\n報名：
+ …al Symposium 2026 報名連結｜Registration http…\n公告：https
+ ://itps.ncku.edu.tw/p/405-1148-307488\,c82.php?Lang=zh-tw
+URL:https://itps.ncku.edu.tw/p/405-1148-307488,c82.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:1c834343261d65807410efd185c42098@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261113T020000Z
+DTEND:20261113T090000Z
+SUMMARY:【開放｜需報名】【活動】本系舉辦2026會計永續
+ 發展趨勢論壇暨《會計審計論叢》專刊研討會(報名截
+ 止日為11/1)
+DESCRIPTION:主辦：會計學系暨財務金融研究所\n時間：115
+ 年11月13日(五)10:00-17:00\n報名：…勢論壇暨《會計審計
+ 論叢》專刊研討會(報名截止日為11/1) ::: 系辦公告 學…
+ \n公告：https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&
+ task=pageinfo&id=4117&index=2
+URL:https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pag
+ einfo&id=4117&index=2
+LOCATION:國立成功大學光復校區會計學系系館二樓63210、63
+ 211教室(GoogleMap)
+END:VEVENT
+BEGIN:VEVENT
+UID:43a5ae69ad8e2c6e9c75236779ded0a5@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261113T061000Z
+DTEND:20261113T081000Z
+SUMMARY:【未註明】115學年上學期碩博班專題討論(2026 Fall 
+ Colloquium) TBA 演講者 : Prof. Yu-Te Hsu (徐有德)  -   (國立清
+ 華大學物理學系 Department of Physics\, National Tsing Hua Univers
+ ity) 演講地點 : 理學教學新大樓物理系1F 36102教室 2026 / 
+ 11 / 13 14:10｜Prof. Yu-Te Hsu (徐有德) - (國立清華大
+DESCRIPTION:主辦：物理學系\n講者：Prof. Yu-Te Hsu (徐有德) -
+  (國立清華大學物理學系 Department of Physics\, National Tsing 
+ Hua University)\n時間：2026 / 11 / 13\n公告：https://www.phys.ncku
+ .edu.tw/colloquia-detail/938/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/938/
+LOCATION:理學教學新大樓物理系1F 36102教室
+END:VEVENT
+BEGIN:VEVENT
+UID:1bbfacdeec2748d716d2a8954798b62c@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261113T063000Z
+DTEND:20261113T083000Z
+SUMMARY:【未註明】百瀨五十教授紀念講座將於自強校區 
+ 化工系館 B1華立廳舉辦(2026/11/13 14:30 pm)
+DESCRIPTION:主辦：化學系\n公告：https://www.ch.ncku.edu.tw/公
+ 告-百瀨五十教授紀念講座
+URL:https://www.ch.ncku.edu.tw/公告-百瀨五十教授紀念講座
+END:VEVENT
+BEGIN:VEVENT
+UID:0beadf8e6d35d029195448cb0cfc74fc@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261114T040000Z
+DTEND:20261114T041000Z
+SUMMARY:【未註明｜需報名】115學年成大材料系親師餐敘
+ 座談會
+DESCRIPTION:主辦：材料科學及工程學系\n時間：115年11月14
+ 日(六)\n報名：…115學年成大材料系親師餐敘座談會報
+ 名表(請點擊連結) 本校校慶將於11月…\n公告：https://mse
+ .ncku.edu.tw/p/406-1234-306793\,r4141.php?Lang=zh-tw
+URL:https://mse.ncku.edu.tw/p/406-1234-306793,r4141.php?Lang=zh-tw
+LOCATION:材料系新館2樓44203
+END:VEVENT
+BEGIN:VEVENT
+UID:04975f239742abe52927b62b9b96cc61@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:【未註明】本月演講 01｜Jef Pauwels 博士 (University o
+ f 
+DESCRIPTION:主辦：物理學系\n講者：Jef Pauwels 博士 (Universit
+ y of Geneva\, Switzerland)\n公告：https://www.phys.ncku.edu.tw/colloq
+ uia/12/?month=now
+URL:https://www.phys.ncku.edu.tw/colloquia/12/?month=now
+LOCATION:理學教學新大樓 2F 前沿量子中心演講廳
+END:VEVENT
+BEGIN:VEVENT
+UID:413796e9d953b7a5d2004aeb84ebebd0@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:【未註明｜需報名】【活動】2026 Taiwan–Lithuania Bi
+ oFrontiers Symposium 台灣–立陶宛雙邊研討會
+DESCRIPTION:主辦：生物科學與科技學院\n時間：2026/11/16\n
+ 報名：…Registration： 研討會報名表單 Registration Form…\n
+ 公告：https://bb.ncku.edu.tw/p/406-1019-305745\,r11.php?Lang=zh-tw
+URL:https://bb.ncku.edu.tw/p/406-1019-305745,r11.php?Lang=zh-tw
+LOCATION:Biotechnology Building\, Room 893S1
+END:VEVENT
+BEGIN:VEVENT
+UID:a2a2bf4afb6c9c90fb6ff23bd6674693@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261116T021000Z
+DTEND:20261116T041000Z
+SUMMARY:【未註明】前沿量子科技研究中心通識演講 Certifi
+ cation of the genuine resolution of photon number-resolving detectors 
+ 演講者 : Jef Pauwels  博士   (University of Geneva\, Switzerland) 
+ 演講地點 : 理學教學新大樓 2F 前沿量子中心演講廳 2026
+  / 11 / 16 10:10｜Jef Pauwels 博士 (University of 
+DESCRIPTION:主辦：物理學系\n講者：Jef Pauwels 博士 (Universit
+ y of Geneva\, Switzerland)\n時間：2026 / 11 / 16\n公告：https://ww
+ w.phys.ncku.edu.tw/colloquia-detail/963/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/963/
+LOCATION:理學教學新大樓 2F 前沿量子中心演講廳
+END:VEVENT
+BEGIN:VEVENT
+UID:1d63b74e815f70ab569473bfeaf821c2@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261116T041000Z
+DTEND:20261116T061000Z
+SUMMARY:【未註明】前沿量子科技研究中心量子資訊專題
+ 演講 TBA 演講者 : 張晏瑞  教授   (中原大學智慧運算與
+ 大數據碩士學位學程) 演講地點 : 理學教學新大樓物理
+ 系1F 36173教室 2026 / 11 / 16 12:10｜張晏瑞 教授 (中原大學
+ 智慧運算與大數據碩士學位學程)
+DESCRIPTION:主辦：物理學系\n講者：張晏瑞 教授 (中原大
+ 學智慧運算與大數據碩士學位學程)\n時間：2026 / 11 / 16\
+ n公告：https://www.phys.ncku.edu.tw/colloquia-detail/922/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/922/
+LOCATION:理學教學新大樓物理系1F 36173教室
+END:VEVENT
+BEGIN:VEVENT
+UID:bcae8a51664162ee65493ed84fb41c6b@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261120T061000Z
+DTEND:20261120T081000Z
+SUMMARY:【未註明】115學年上學期碩博班專題討論(2026 Fall 
+ Colloquium) TBA 演講者 : Dr. Meng-Ru Wu (吳孟儒)  -   (中央研
+ 究院物理所 Institute of Physics\, Academia Sinica) 演講地點 : 
+ 理學教學新大樓物理系1F 36102教室 2026 / 11 / 20 14:10｜Dr. 
+ Meng-Ru Wu (吳孟儒) - (中央研究院物
+DESCRIPTION:主辦：物理學系\n講者：Dr. Meng-Ru Wu (吳孟儒) - 
+ (中央研究院物理所 Institute of Physics\, Academia Sinica)\n時
+ 間：2026 / 11 / 20\n公告：https://www.phys.ncku.edu.tw/colloquia-de
+ tail/940/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/940/
+LOCATION:理學教學新大樓物理系1F 36102教室
+END:VEVENT
+BEGIN:VEVENT
+UID:7f0c76508e18b47dbc4d88c14c764418@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261125T040000Z
+DTEND:20261125T053000Z
+SUMMARY:【未註明｜需報名】美商科林研發 Lam Research 「202
+ 6 成大學長姐職涯講座」活動
+DESCRIPTION:主辦：材料科學及工程學系\n時間：2026/11/25(三
+ ) 12:00-13:30\n報名：…工/物理等相關理工科系學生參加 
+ • 報名連結：【Lam Research 美商科…\n公告：https://mse.nc
+ ku.edu.tw/p/406-1234-306223\,r4141.php?Lang=zh-tw
+URL:https://mse.ncku.edu.tw/p/406-1234-306223,r4141.php?Lang=zh-tw
+LOCATION:台南遠東香格里拉飯店
+END:VEVENT
+BEGIN:VEVENT
+UID:78fc74ecc154b9087625951288fdf15d@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261127T061000Z
+DTEND:20261127T081000Z
+SUMMARY:【未註明】115學年上學期碩博班專題討論(2026 Fall 
+ Colloquium) TBA 演講者 : Dr. James Chan  -   (City University of New 
+ York/American Museum of Natural History (CUNY/AMNH)) 演講地點 : 理
+ 學教學新大樓物理系1F 36102教室 2026 / 11 / 27 14:10｜Dr. Jam
+ es Chan - (City Univers
+DESCRIPTION:主辦：物理學系\n講者：Dr. James Chan - (City Univer
+ sity of New York/American Museum of Natural History (CUNY/AMNH))\n時間
+ ：2026 / 11 / 27\n公告：https://www.phys.ncku.edu.tw/colloquia-detai
+ l/942/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/942/
+LOCATION:理學教學新大樓物理系1F 36102教室
+END:VEVENT
+BEGIN:VEVENT
+UID:11b99be977268de9ce3ca0f7dfee1545@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20261130T041000Z
+DTEND:20261130T061000Z
+SUMMARY:【未註明】前沿量子科技研究中心量子資訊專題
+ 演講 TBA 演講者 : 廖文德  教授   (國立中央大學物理系)
+  演講地點 : 理學教學新大樓物理系1F 36173教室 2026 / 11 /
+  30 12:10｜廖文德 教授 (國立中央大學物理系)
+DESCRIPTION:主辦：物理學系\n講者：廖文德 教授 (國立中
+ 央大學物理系)\n時間：2026 / 11 / 30\n公告：https://www.phys.
+ ncku.edu.tw/colloquia-detail/924/
+URL:https://www.phys.ncku.edu.tw/colloquia-detail/924/
+LOCATION:理學教學新大樓物理系1F 36173教室
+END:VEVENT
+BEGIN:VEVENT
+UID:0bd928520a82cdacf33581319798f203@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:【未註明】下月演講 04｜Dr. Tao-Chung Ching (慶道冲) 
+ - (中
+DESCRIPTION:主辦：物理學系\n講者：Dr. Tao-Chung Ching (慶道
+ 冲) - (中央研究員天文所 Institute of Astronomy and Astrophysics
+ \, Academia Sinica)\n公告：https://www.phys.ncku.edu.tw/colloquia/?mo
+ nth=next
+URL:https://www.phys.ncku.edu.tw/colloquia/?month=next
+LOCATION:理學教學新大樓物理系1F 36102教室
+END:VEVENT
+BEGIN:VEVENT
+UID:3c028d05fe803f34015b233653238ed1@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:【未註明｜需報名】第三十一屆國土論壇
+DESCRIPTION:主辦：都市計劃學系\n報名：…交截止期限 2027
+ 年03月01日 報名連結 供贊助單位與一般民眾使用之報名
+ 連結…\n公告：https://www.up.ncku.edu.tw/2027upforum/
+URL:https://www.up.ncku.edu.tw/2027upforum/
+LOCATION:70101 台南市大學路1號 都市計劃學系
+END:VEVENT
+BEGIN:VEVENT
+UID:b0e262411e6d836caeb15ee0fe73bad1@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20270210T020000Z
+DTEND:20270210T040000Z
+SUMMARY:【開放｜需報名】【重量級大師講座】2/10(二)10:00
+  國際知名心理學家-德國Prof. Gerd Gigerenzer主講《How to Sta
+ y Smart in a Smart World 》
+DESCRIPTION:主辦：心理學系\n時間：2/10 (二) 10:00~12:00\n報
+ 名：…區文學院學術演講廳(中文系館1樓) 報名：點此
+ 報名 直播連結： 直播連結…\n公告：https://psychology.ncku
+ .edu.tw/p/405-1235-303414\,c32496.php?Lang=zh-tw
+URL:https://psychology.ncku.edu.tw/p/405-1235-303414,c32496.php?Lang=zh-t
+ w
+LOCATION:成功大學光復校區文學院學術演講廳(中文系館1
+ 樓)
+END:VEVENT
+BEGIN:VEVENT
+UID:22285d7e9f8b5e172ce73d966524aff5@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20270226T071000Z
+DTEND:20270226T090000Z
+SUMMARY:【未註明】Future Opportunities: Hunting for the Next Cross-D
+ omain Unicorn｜陳顯侯 董事長 與 林玟妤 執行長
+DESCRIPTION:主辦：食品安全衛生暨風險管理研究所\n講者
+ ：陳顯侯 董事長 與 林玟妤 執行長\n時間：2/26 – 3：10
+  PM～5：00 PM\n公告：https://dfsr.ncku.edu.tw/p/406-1228-296396\,r4
+ 249.php?Lang=zh-tw
+URL:https://dfsr.ncku.edu.tw/p/406-1228-296396,r4249.php?Lang=zh-tw
+LOCATION:生醫卓群大樓1樓鳯杯講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:e4b880c0f5c30f24988086642ff8c846@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20270312T071000Z
+DTEND:20270312T090000Z
+SUMMARY:【未註明】What’s Really in Your Boba Tea? A Journey from S
+ ugar to Artificial Sweeteners｜羅宇軒 副教授
+DESCRIPTION:主辦：食品安全衛生暨風險管理研究所\n講者
+ ：羅宇軒 副教授\n時間：3/12 – 3：10 PM～5：00 PM\n公告
+ ：https://dfsr.ncku.edu.tw/p/406-1228-305569\,r11.php?Lang=zh-tw
+URL:https://dfsr.ncku.edu.tw/p/406-1228-305569,r11.php?Lang=zh-tw
+LOCATION:醫學院鳯杯講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:2a44b1e2ea01c2eaf9e3abf7f608d1ae@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20270312T071000Z
+DTEND:20270312T090000Z
+SUMMARY:【未註明】Unveiling Microbial "Small Talk" via Mass Spectrom
+ etry｜楊玉良 副主任
+DESCRIPTION:主辦：食品安全衛生暨風險管理研究所\n講者
+ ：楊玉良 副主任\n時間：3/12 – 3：10 PM～5：00 PM\n公告
+ ：https://dfsr.ncku.edu.tw/p/406-1228-304930\,r11.php?Lang=zh-tw
+URL:https://dfsr.ncku.edu.tw/p/406-1228-304930,r11.php?Lang=zh-tw
+LOCATION:醫學院鳯杯講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:1a8c86117f60107c447d051b996dcbe5@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20270312T071000Z
+DTEND:20270312T090000Z
+SUMMARY:【未註明】From the Lab to the Table\, From Fundamental Chemi
+ stry Research to Food Safety Management｜洪偉毅 首席合規經理
+DESCRIPTION:主辦：食品安全衛生暨風險管理研究所\n講者
+ ：洪偉毅 首席合規經理\n時間：3/12 – 3：10 PM～5：00 PM
+ \n公告：https://dfsr.ncku.edu.tw/p/406-1228-296398\,r4249.php?Lang=zh
+ -tw
+URL:https://dfsr.ncku.edu.tw/p/406-1228-296398,r4249.php?Lang=zh-tw
+LOCATION:生醫卓群大樓1樓鳯杯講堂
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf445541acebf11377bdd3889695663@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20270331T053000Z
+DTEND:20270331T070000Z
+SUMMARY:【未註明】【演講】林亞平博士：Omics-driven decisio
+ n-making approaches for vegetable  breeding
+DESCRIPTION:主辦：熱帶植物與微生物科學研究所\n公告：ht
+ tps://itps.ncku.edu.tw/p/405-1148-295124\,c82.php?Lang=zh-tw
+URL:https://itps.ncku.edu.tw/p/405-1148-295124,c82.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:8d97383084fffa4458a2d9b36ac34bb4@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20270414T053000Z
+DTEND:20270414T070000Z
+SUMMARY:【未註明】【演講】林致成博士：淹不死的智慧
+ ：水稻應對洪水的「伸與縮」策略
+DESCRIPTION:主辦：熱帶植物與微生物科學研究所\n公告：ht
+ tps://itps.ncku.edu.tw/p/405-1148-295671\,c82.php?Lang=zh-tw
+URL:https://itps.ncku.edu.tw/p/405-1148-295671,c82.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:0470b5ccc7b288408faee8937bf9d32d@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART:20270428T053000Z
+DTEND:20270428T070000Z
+SUMMARY:【未註明】【演講】福島 健児博士：Macroevolution\,
+  convergence\, and plants that eat
+DESCRIPTION:主辦：熱帶植物與微生物科學研究所\n公告：ht
+ tps://itps.ncku.edu.tw/p/405-1148-296004\,c82.php?Lang=zh-tw
+URL:https://itps.ncku.edu.tw/p/405-1148-296004,c82.php?Lang=zh-tw
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a21a49c5c87972e7c2b3407122c290@ncku-lectures
+DTSTAMP:20261103T084908Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:【未註明】所務公告 2026-10-28 所務公告 國立成功
+ 大學創意產業設計研究所徵聘教師啟事 預計聘任職稱
+ ：專任助理教授以上 1 名預計起聘日期：民國 116 年 8 
+ 月 1 日起聘壹、學歷及專長條件：一、博士學位並具備
+ 創意產業設計相關背景與實務經歷，或碩士學位並具四
+ 年以上相關產業實務經驗。二、本所為全英語學程，應
+ 徵者需具備英語授課能力。三、本次教師徵聘領域，並
+ 不限於本所目前分組領域，期待邀請可引領創意產業教
+ 育與研究新方向，並具跨域整合視野及前瞻系統思維之
+ 學者。特別係能以社會與文化網絡為基礎，重新定義人
+ 與人、人與環境之創意互動關係，並致力透過創新設計
+ 與跨域協作，推動未來永續新生活模式研究實踐之共學
+ 者。貳、應附資料：一、教師應聘申請表 ( 請上 https://
+ apps.pers.ncku.edu.tw/etec4/index.php 註冊填寫 ) 二、詳細履歷
+ 表三、畢業證書或學位證書（國外學歷必須先經由駐外
+ 單位驗證）四、最高學歷成績單或修業證明（國外學歷
+ 必須先經由駐外單位驗證）五、學位論文或專門著作（
+ 以外文撰寫者，附具中文摘要）六、五年內著作目錄七
+ 、服務證書八、推薦函三封九、研究、創意實務專案與
+ 教學方針之說明文件一份十、其他有助說明個人能力之
+ 文件參、應徵重要事項：一、通過書審者須配合系所進
+ 行英文公開演講，必要時可採遠距視訊演講。二、演講
+ 內容應包含專長簡介及教學課程理念與安排，長度約 60
+  分鐘 ( 含問答 ) 。肆、應徵方式一、請將申請資料以
+ 限時掛號郵寄至「 701 台南市大學路一號國立成功大學
+ 創意產業設計研究所 教師評審委員會收」。並同時將
+ 應徵資料電子檔以附件或提供雲端連結 email 至 em54360@nc
+ ku.edu.tw 二、連絡電話： 06-2757575 轉 54361 三、 E-mail: em54
+ 360@ncku.edu.tw 伍、截止日期即日起至 115/12/31 前送達，請
+ 於期限內親送或郵寄 ( 寄件後請來電確認 ) 。 更多
+DESCRIPTION:主辦：創意產業設計研究所\n公告：https://icid.n
+ cku.edu.tw/news/icid-116-faculty-recruitment
+URL:https://icid.ncku.edu.tw/news/icid-116-faculty-recruitment
+END:VEVENT
+END:VCALENDAR
