@@ -25312,5 +25312,376 @@
 },
 "https://www.up.ncku.edu.tw/114-10-20-01/": {
 "lecture": false
+},
+"https://chinese.ncku.edu.tw/p/406-1142-307651,r2076.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "中國文學系",
+"url": "https://chinese.ncku.edu.tw/p/406-1142-307651,r2076.php?Lang=zh-tw",
+"title": "轉貼：高雄科技大學「新加坡公立大學國際學術交流講座」與「2027 新加坡公立大學短期參訪」",
+"topic": null,
+"speaker": null,
+"place": "國立高雄科技大學建工校區",
+"time_raw": "2026.11.21（六）14:00–17:00",
+"date": "2026-11-21",
+"start": [
+14,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…融科技等系所與其他跨領域職涯發展。 報名連結： https://forms.gl…"
+],
+"found": "2026-11-05"
+},
+"https://chinese.ncku.edu.tw/p/405-1142-307651,c10333.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "中國文學系",
+"url": "https://chinese.ncku.edu.tw/p/405-1142-307651,c10333.php?Lang=zh-tw",
+"title": "轉貼：高雄科技大學「新加坡公立大學國際學術交流講座」與「2027 新加坡公立大學短期參訪」",
+"topic": null,
+"speaker": null,
+"place": "國立高雄科技大學建工校區",
+"time_raw": "2026.11.21（六）14:00–17:00",
+"date": "2026-11-21",
+"start": [
+14,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…融科技等系所與其他跨領域職涯發展。 報名連結： https://forms.gl…"
+],
+"found": "2026-11-05"
+},
+"https://ba.ncku.edu.tw/p/406-1177-307691,r2800.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "企業管理學系",
+"url": "https://ba.ncku.edu.tw/p/406-1177-307691,r2800.php?Lang=zh-tw",
+"title": "演講主題：How AI Changes the way We Work and Live in Slicon Valley  演講者：李宇哲 博士 現任：Google 軟體工程師 演講日期：2026-12-17(四)  14：00-17：00 演講地點：企管系 62212教室",
+"topic": "How AI Changes the way We Work and Live in Slicon Valley",
+"speaker": "李宇哲 博士 現任：Google 軟體工程師",
+"place": "企管系 62212教室",
+"time_raw": null,
+"date": "2026-12-17",
+"start": [
+14,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://ba.ncku.edu.tw/p/406-1177-307691,r2798.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "企業管理學系",
+"url": "https://ba.ncku.edu.tw/p/406-1177-307691,r2798.php?Lang=zh-tw",
+"title": "演講主題：How AI Changes the way We Work and Live in Slicon Valley  演講者：李宇哲 博士 現任：Google 軟體工程師 演講日期：2026-12-17(四)  14：00-17：00 演講地點：企管系 62212教室",
+"topic": "How AI Changes the way We Work and Live in Slicon Valley",
+"speaker": "李宇哲 博士 現任：Google 軟體工程師",
+"place": "企管系 62212教室",
+"time_raw": null,
+"date": "2026-12-17",
+"start": [
+14,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://pehl.ncku.edu.tw/p/406-1136-307680,r3115.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-307680,r1045.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://iaa.ncku.edu.tw/p/406-1104-307679,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://iaa.ncku.edu.tw/p/406-1104-307678,r11.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1848&index=1": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1848&index=1",
+"title": "【專題演講】115/11/12(四) 15:30-16:30 殷壽鏞 副教授",
+"topic": "Partial Least Squares with Non-stationary Series: Application to Forecasting",
+"speaker": "殷壽鏞 副教授",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-11-12",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1841&index=2": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1841&index=2",
+"title": "【專題演講】115/10/22(四) 15:30-16:30 楊昊紘 博士後研究員",
+"topic": "Finite-Sample Inference for Adaptive Testing: Confidence Sequences and No-Regret Item Selection",
+"speaker": "楊昊紘 博士後研究員",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-10-22",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1829&index=3": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1829&index=3",
+"title": "【專題演講】115/10/15(四) 15:30-16:30 吳宜珊 博士後研究員",
+"topic": "What Makes a Generalization Bound Useful for Learning?",
+"speaker": "吳宜珊 博士後研究員",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-10-15",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1821&index=4": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1821&index=4",
+"title": "【專題演講】115/10/08(四) 15:30-16:30 施嘉翰 助理教授",
+"topic": "Regression Association and Its Measurement",
+"speaker": "施嘉翰助理教授",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-10-08",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1793&index=5": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1793&index=5",
+"title": "【專題演講】115/9/22(二) 11:10-12:00  Prof. Masao Ueki",
+"topic": "Regression modeling combined with unsupervised clustering",
+"speaker": "Prof. Masao Ueki",
+"place": "統計與資料科學學系二樓教室 (62227)",
+"time_raw": null,
+"date": "2026-09-22",
+"start": [
+11,
+10
+],
+"end": [
+12,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1791&index=6": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1791&index=6",
+"title": "【專題演講】115/9/17(四) 15:30-16:30 吳柔瑾 助理教授",
+"topic": "Transfer Learning for Complex Models and High-Dimensional Error-Prone Variables",
+"speaker": "吳柔瑾助理教授",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-09-17",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1773&index=7": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1773&index=7",
+"title": "【專題演講】115/9/10(四) 15:30-16:30 李百靈 副教授",
+"topic": "Modeling curves and derivatives as predictors for traffic breakdown probabilities",
+"speaker": "李百靈副教授",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-09-10",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://css.ncku.edu.tw/p/406-1227-307650,r3972.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://icid.ncku.edu.tw/news/2026-ma-phd-academic-ethics-course-requirement": {
+"lecture": false
+},
+"https://clpharm.ncku.edu.tw/p/406-1111-307710,r2185.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://clpharm.ncku.edu.tw/p/406-1111-307710,r668.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-11-05-02/": {
+"lecture": true,
+"unit": "都市計劃學系",
+"url": "https://www.up.ncku.edu.tw/115-11-05-02/",
+"title": "【國際人才培育】Tufts University × NCKU 博士生論文寫作與國際期刊發表工作坊",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-10-28",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://www.up.ncku.edu.tw/115-11-05-01/": {
+"lecture": true,
+"unit": "都市計劃學系",
+"url": "https://www.up.ncku.edu.tw/115-11-05-01/",
+"title": "【國際學術交流】Tufts University × NCKU 都市萎縮研究工作坊",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-10-29",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-05"
+},
+"https://ais2m.ncku.edu.tw/?action=news&id=2594": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-10-13-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-10-13-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-09-12-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-09-02-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-28-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-28-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-25-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-22-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-18-03/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-18-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-18-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-14-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-14-01/": {
+"lecture": false
 }
 }
