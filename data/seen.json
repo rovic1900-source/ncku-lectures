@@ -21015,24 +21015,6 @@
 "https://nursing.ncku.edu.tw/p/406-1106-306658,r1168.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://ibms.ncku.edu.tw/p/406-1196-294469,r3185.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "基礎醫學研究所",
-"url": "https://ibms.ncku.edu.tw/p/406-1196-294469,r3185.php?Lang=zh-tw",
-"title": "【公告】114學年度第二學期博士班研究生畢業論文公開演講暨學位考試",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-07-08",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
-},
 "https://ahs.ncku.edu.tw/p/406-1129-293257,r1793.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -25682,6 +25664,231 @@
 "lecture": false
 },
 "https://www.up.ncku.edu.tw/114-08-14-01/": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4160&index=1": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4121&index=2": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4117&index=3": {
+"lecture": true,
+"unit": "會計學系暨財務金融研究所",
+"url": "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4117&index=3",
+"title": "【活動】本系舉辦2026會計永續發展趨勢論壇暨《會計審計論叢》專刊研討會(報名截止日為11/1)",
+"topic": null,
+"speaker": null,
+"place": "國立成功大學光復校區會計學系系館二樓63210、63211教室(GoogleMap)",
+"time_raw": "115年11月13日(五)10:00-17:00",
+"date": "2026-11-13",
+"start": [
+10,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"開放",
+"需報名"
+],
+"notes": [
+"報名：…勢論壇暨《會計審計論叢》專刊研討會(報名截止日為11/1) ::: 系辦公告 學…"
+],
+"found": "2026-11-06"
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4116&index=4": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4105&index=5": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4101&index=6": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4104&index=7": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4099&index=8": {
+"lecture": true,
+"unit": "會計學系暨財務金融研究所",
+"url": "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4099&index=8",
+"title": "【演講】10/2教育部國家講座：公司理財實證研究, 歡迎本校師生踴躍參加",
+"topic": null,
+"speaker": null,
+"place": "701台南市東區大學路1號 (光復校區會計學系)",
+"time_raw": null,
+"date": "2026-10-02",
+"start": null,
+"end": null,
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…理學院地下一樓62X05演講廳 講座報名連結請點選報名網址 本活動備有午餐，敬請…"
+],
+"found": "2026-11-06"
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4089&index=9": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4084&index=10": {
+"lecture": false
+},
+"https://ba.ncku.edu.tw/p/406-1177-307730,r2800.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ba.ncku.edu.tw/p/406-1177-307730,r2808.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://sname.ncku.edu.tw/116%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e5%a3%ab%e7%8f%ad%e7%89%b9%e6%ae%8a%e9%81%b8%e6%89%8d%e6%8b%9b%e7%94%9f%e5%af%a9%e6%9f%a5%e7%b5%90%e6%9e%9c%e5%8f%8a%e9%9d%a2%e8%a9%a6%e8%b3%87%e8%a8%8a/": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307711,r4151.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-307711,r4151.php?Lang=zh-tw",
+"title": "第十一屆 成材產業論壇",
+"topic": null,
+"speaker": null,
+"place": "國立成功大學 力行校區 孫運璿綠建築研究大樓 崇華廳",
+"time_raw": "2026年11月6日（星期五）13:00 - 17:30",
+"date": "2026-11-06",
+"start": [
+13,
+0
+],
+"end": [
+17,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-06"
+},
+"https://civil.ncku.edu.tw/p/406-1232-296643,r4074.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307724,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307723,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://technoart.ncku.edu.tw/p/406-1157-307686,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307722,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307642,r11.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://mse.ncku.edu.tw/p/406-1234-307711,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-307711,r11.php?Lang=zh-tw",
+"title": "第十一屆 成材產業論壇",
+"topic": null,
+"speaker": null,
+"place": "國立成功大學 力行校區 孫運璿綠建築研究大樓 崇華廳",
+"time_raw": "2026年11月6日（星期五）13:00 - 17:30",
+"date": "2026-11-06",
+"start": [
+13,
+0
+],
+"end": [
+17,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-06"
+},
+"https://mse.ncku.edu.tw/p/406-1234-307395,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-307395,r11.php?Lang=zh-tw",
+"title": "【頂尖學術特邀講座】光子學與能源領域的三大挑戰 (Three Grand Challenges for Photonics and Energy)",
+"topic": null,
+"speaker": "Harry A. Atwater 教授",
+"place": null,
+"time_raw": null,
+"date": "2026-11-01",
+"start": [
+17,
+0
+],
+"end": [
+18,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-06"
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307714,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307714,r3230.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://iog.ncku.edu.tw/p/406-1169-307726,r2694.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://iog.ncku.edu.tw/p/405-1169-307726,c23041.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-307716,r1793.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imm-med.ncku.edu.tw/p/406-1173-235107,r2706.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-307716,r2310.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-307716,r2320.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-07-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-08-01-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-07-23-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-07-23-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-07-02-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-07-01-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-06-26-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-06-18-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-05-29-02/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-05-29-01/": {
 "lecture": false
 }
 }
