@@ -26123,5 +26123,53 @@
 },
 "https://www.up.ncku.edu.tw/114-05-08-01/": {
 "lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4507": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4507": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4507": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4507": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4507": {
+"lecture": false
+},
+"https://behmed.ncku.edu.tw/p/406-1167-297011,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "行為醫學研究所",
+"url": "https://behmed.ncku.edu.tw/p/406-1167-297011,r11.php?Lang=zh-tw",
+"title": "【專討演講】5/8(五)13:10-15:00 張正辰醫師 Neurostimulation in Mental Disorders",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2027-05-08",
+"start": [
+13,
+10
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-07"
+},
+"https://www.up.ncku.edu.tw/114-04-29-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-04-28-01/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-04-25-01/": {
+"lecture": false
 }
 }
