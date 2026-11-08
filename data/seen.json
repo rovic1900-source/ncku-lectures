@@ -26095,5 +26095,59 @@
 },
 "https://www.up.ncku.edu.tw/114-03-28-02/": {
 "lecture": false
+},
+"https://www.phys.ncku.edu.tw/colloquia-detail/970/": {
+"lecture": true,
+"unit": "物理學系",
+"url": "https://www.phys.ncku.edu.tw/colloquia-detail/970/",
+"title": "前沿量子科技研究中心通識演講 Architecting Singapore's National Quantum-Safe Network Testbed 演講者 : Haw Jing Yan  資深研究員   (CQT, NUS, Singapore) 演講地點 : 理學教學新大樓 2F 前沿量子中心演講廳 2026 / 11 / 13 11:00",
+"topic": null,
+"speaker": "Haw Jing Yan 資深研究員 (CQT, NUS, Singapore)",
+"place": "理學教學新大樓 2F 前沿量子中心演講廳",
+"time_raw": "2026 / 11 / 13",
+"date": "2026-11-13",
+"start": [
+11,
+0
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-08"
+},
+"https://mp.ncku.edu.tw/%e5%ad%b8%e8%a1%93%e6%bc%94%e8%ac%9b%e3%80%91dr-qingyun-duan-hohai-university-11-12-thu-1520/": {
+"lecture": true,
+"unit": "資源工程學系",
+"url": "https://mp.ncku.edu.tw/%e5%ad%b8%e8%a1%93%e6%bc%94%e8%ac%9b%e3%80%91dr-qingyun-duan-hohai-university-11-12-thu-1520/",
+"title": "學術演講】Dr. Qingyun Duan, Hohai University @ 11/12 (Thu) 15:20",
+"topic": "Reducing Model Parametric Uncertainties: From SCE-UA, to ASMO, and to AI Methods",
+"speaker": "河海大學 段青雲 水文水資源學院講座教授",
+"place": "測量及空間資訊學系經緯廳",
+"time_raw": "11/12（四）15:20-17:10",
+"date": "2026-11-12",
+"start": [
+15,
+20
+],
+"end": [
+17,
+10
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-08"
+},
+"https://geomatics.ncku.edu.tw/p/406-1225-307803,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://geomatics.ncku.edu.tw/p/406-1225-307803,r3936.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-03-28-01/": {
+"lecture": false
 }
 }
