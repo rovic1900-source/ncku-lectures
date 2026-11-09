@@ -26149,5 +26149,102 @@
 },
 "https://www.up.ncku.edu.tw/114-03-28-01/": {
 "lecture": false
+},
+"https://flld.ncku.edu.tw/p/450-1165-307814,c0.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://chinese.ncku.edu.tw/p/406-1142-307815,r1186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-307819,r3750.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://chinese.ncku.edu.tw/p/406-1142-307820,r2076.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://chinese.ncku.edu.tw/p/405-1142-307820,c10333.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://chinese.ncku.edu.tw/p/405-1142-307815,c10333.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://tcm.ncku.edu.tw/p/406-1172-307818,r2874.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-307812,r3115.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "體育健康與休閒研究所",
+"url": "https://pehl.ncku.edu.tw/p/406-1136-307812,r3115.php?Lang=zh-tw",
+"title": "【轉知】運動部辦理「115年度輔導運動產業健全體質及強化營運能力計畫」校園暨企業說明會及講座活動活動簡章1份",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-27",
+"start": [
+14,
+0
+],
+"end": null,
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…動產業之師生、校友及相關從業人員踴躍報名參與。…"
+],
+"found": "2026-11-09"
+},
+"https://pehl.ncku.edu.tw/p/406-1136-307812,r1045.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "體育健康與休閒研究所",
+"url": "https://pehl.ncku.edu.tw/p/406-1136-307812,r1045.php?Lang=zh-tw",
+"title": "【轉知】運動部辦理「115年度輔導運動產業健全體質及強化營運能力計畫」校園暨企業說明會及講座活動活動簡章1份",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-27",
+"start": [
+14,
+0
+],
+"end": null,
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…動產業之師生、校友及相關從業人員踴躍報名參與。…"
+],
+"found": "2026-11-09"
+},
+"https://mse.ncku.edu.tw/p/406-1234-307807,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307810,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307806,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307804,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307806,r3230.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://psychology.ncku.edu.tw/p/405-1235-305730,c32502.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://psychology.ncku.edu.tw/p/405-1235-303076,c32502.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307804,r3230.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307810,r3228.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-03-26-02/": {
+"lecture": false
 }
 }
