@@ -33,7 +33,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-19",
+"v": 2
 },
 "https://mapd.ncku.edu.tw/p/406-1145-302409,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -243,14 +245,16 @@
 "speaker": null,
 "place": null,
 "time_raw": null,
-"date": "2026-11-02",
+"date": "2026-11-09",
 "start": null,
 "end": null,
 "tags": [
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://chinese.ncku.edu.tw/p/406-1142-302766,r1186.php?Lang=zh-tw": {
 "lecture": true,
@@ -276,7 +280,9 @@
 "notes": [
 "報名：…祝活動 為讓師友們有更充裕的時間填寫報名表單，報名期限延長至 10月31日 誠摯…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-08-10",
+"v": 2
 },
 "https://art.ncku.edu.tw/p/406-1146-307202,r3454.php?Lang=zh-tw": {
 "lecture": false
@@ -363,7 +369,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-30",
+"v": 2
 },
 "https://art.ncku.edu.tw/p/406-1146-304703,r3454.php?Lang=zh-tw": {
 "lecture": false
@@ -436,36 +444,16 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mapd.ncku.edu.tw/p/406-1145-298320,r11.php?Lang=zh-tw": {
 "lecture": false
 },
 "https://earth.ncku.edu.tw/p/405-1134-305159,c25861.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "地球科學系",
-"url": "https://earth.ncku.edu.tw/p/405-1134-305159,c25861.php?Lang=zh-tw",
-"title": "【轉發訊息】2026臺灣跨領域學士論壇｜10/31於成大舉行，10/5中午報名截止",
-"topic": null,
-"speaker": null,
-"place": "國立成功大學未來館2樓、3樓",
-"time_raw": "115年10月31日（六）10:00–16:30",
-"date": "2026-10-31",
-"start": [
-10,
-0
-],
-"end": [
-16,
-30
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…推動夥伴，以及對跨領域學習有興趣者 報名期限：115年10月5日（一）中午1…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://flld.ncku.edu.tw/p/406-1165-307237,r2587.php?Lang=zh-tw": {
 "lecture": false
@@ -528,12 +516,12 @@
 "lecture": true,
 "unit": "中國文學系",
 "url": "https://chinese.ncku.edu.tw/p/406-1142-306063,r1185.php?Lang=zh-tw",
-"title": "成大中文系70週年系慶｜系友回娘家系列學術講座(115.11.2)",
+"title": "成大中文系70週年系慶｜系友回娘家系列學術講座(115.11.23)",
 "topic": null,
-"speaker": "「解識杜甫：詩聖前傳、一生襟抱及遺產」",
+"speaker": "「敦煌文獻話一二」",
 "place": null,
 "time_raw": null,
-"date": "2026-11-02",
+"date": "2026-11-23",
 "start": [
 15,
 10
@@ -546,7 +534,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-27",
+"v": 2
 },
 "https://twl.ncku.edu.tw/p/406-1143-306795,r668.php?Lang=zh-tw": {
 "lecture": true,
@@ -564,7 +554,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mapd.ncku.edu.tw/p/406-1145-297956,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -591,7 +583,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-11-02",
+"v": 2
 },
 "https://flld.ncku.edu.tw/p/406-1165-307195,r2587.php?Lang=zh-tw": {
 "lecture": false
@@ -615,7 +609,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-27",
+"v": 2
 },
 "https://mapd.ncku.edu.tw/p/406-1145-297457,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -1065,7 +1061,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://chinese.ncku.edu.tw/p/406-1142-307358,r2076.php?Lang=zh-tw": {
 "lecture": false
@@ -1095,7 +1093,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://chinese.ncku.edu.tw/p/406-1142-307288,r2076.php?Lang=zh-tw": {
 "lecture": false
@@ -1194,7 +1194,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-14",
+"v": 2
 },
 "https://www.phys.ncku.edu.tw/colloquia/13/": {
 "lecture": true,
@@ -1212,7 +1214,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ib.ncku.edu.tw/p/406-1137-307270,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -1242,7 +1246,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-12",
+"v": 2
 },
 "https://ib.ncku.edu.tw/p/406-1137-289373,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -1269,7 +1275,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://flld.ncku.edu.tw/p/406-1165-306362,r2587.php?Lang=zh-tw": {
 "lecture": true,
@@ -1290,7 +1298,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-12",
+"v": 2
 },
 "https://ib.ncku.edu.tw/p/406-1137-303067,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -1491,7 +1501,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://stat.ncku.edu.tw/": {
 "lecture": false
@@ -1530,31 +1542,8 @@
 "lecture": false
 },
 "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4117&index=2": {
-"lecture": true,
-"unit": "會計學系暨財務金融研究所",
-"url": "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4117&index=2",
-"title": "【活動】本系舉辦2026會計永續發展趨勢論壇暨《會計審計論叢》專刊研討會(報名截止日為11/1)",
-"topic": null,
-"speaker": null,
-"place": "國立成功大學光復校區會計學系系館二樓63210、63211教室(GoogleMap)",
-"time_raw": "115年11月13日(五)10:00-17:00",
-"date": "2026-11-13",
-"start": [
-10,
-0
-],
-"end": [
-17,
-0
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…勢論壇暨《會計審計論叢》專刊研討會(報名截止日為11/1) ::: 系辦公告 學…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://flld.ncku.edu.tw/p/406-1165-304691,r2587.php?Lang=zh-tw": {
 "lecture": false
@@ -1578,7 +1567,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://chinese.ncku.edu.tw/p/406-1142-306773,r2076.php?Lang=zh-tw": {
 "lecture": false
@@ -1800,24 +1791,8 @@
 "lecture": false
 },
 "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4099&index=7": {
-"lecture": true,
-"unit": "會計學系暨財務金融研究所",
-"url": "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4099&index=7",
-"title": "【演講】10/2教育部國家講座：公司理財實證研究, 歡迎本校師生踴躍參加",
-"topic": null,
-"speaker": null,
-"place": "701台南市東區大學路1號 (光復校區會計學系)",
-"time_raw": null,
-"date": "2026-10-02",
-"start": null,
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…理學院地下一樓62X05演講廳 講座報名連結請點選報名網址 本活動備有午餐，敬請…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://flld.ncku.edu.tw/p/406-1165-304366,r2588.php?Lang=zh-tw": {
 "lecture": false
@@ -1961,7 +1936,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ba.ncku.edu.tw/p/406-1177-260034,r2827.php?Lang=zh-tw": {
 "lecture": false
@@ -2055,43 +2032,25 @@
 "lecture": true,
 "unit": "物理學系",
 "url": "https://www.phys.ncku.edu.tw/colloquia/?month=now",
-"title": "本月演講 11",
+"title": "本月演講 13",
 "topic": null,
-"speaker": "陳應誠 教授 (中央研究院原子與分子科學研究所)",
+"speaker": "Prof. Liangzi Deng - (Assistant Professor with TcSUH Welch Professorship, Department of Physics and Texas Center for Superconductivity University of Houston)",
 "place": "理學教學新大樓物理系1F 36173教室",
 "time_raw": null,
-"date": "2026-11-02",
-"start": [
-12,
-10
-],
+"date": "2026-11-16",
+"start": null,
 "end": null,
 "tags": [
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://chinese.ncku.edu.tw/p/405-1142-307502,c10333.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "中國文學系",
-"url": "https://chinese.ncku.edu.tw/p/405-1142-307502,c10333.php?Lang=zh-tw",
-"title": "20261109 專題演講",
-"topic": "從《毛詩正義》到《五經正義》：注疏研究經驗談",
-"speaker": "張寶三教授(國立臺灣大學中國文學系榮退教授)",
-"place": "中文系館3樓21302教室(視聽教室)",
-"time_raw": "2026年11月9日(星期一)",
-"date": "2026-11-09",
-"start": [
-15,
-0
-],
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ba.ncku.edu.tw/p/412-1177-23106.php?Lang=zh-tw": {
 "lecture": false
@@ -2134,7 +2093,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://twl.ncku.edu.tw/p/405-1143-256710,c10488.php?Lang=zh-tw": {
 "lecture": false
@@ -2171,7 +2132,9 @@
 "限定依據：…. Registration is limited to 16 participants,…",
 "報名：…0月16日，國立中山大學文學院 · 報名截止日期：2026年9月18日 · 英美…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://amba.ncku.edu.tw": {
 "lecture": false
@@ -2208,7 +2171,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1842&index=6": {
 "lecture": false
@@ -2364,7 +2329,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=88&index=2": {
 "lecture": false,
@@ -2494,28 +2461,8 @@
 "lecture": false
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1841&index=1": {
-"lecture": true,
-"unit": "統計與資料科學學系",
-"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1841&index=1",
-"title": "【專題演講】115/10/22(四) 15:30-16:30 楊昊紘 博士後研究員",
-"topic": "Finite-Sample Inference for Adaptive Testing: Confidence Sequences and No-Regret Item Selection",
-"speaker": "楊昊紘 博士後研究員",
-"place": "統計與資料科學學系三樓視聽教室 (62331)",
-"time_raw": null,
-"date": "2026-10-22",
-"start": [
-15,
-30
-],
-"end": [
-16,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://eng.ncku.edu.tw": {
 "lecture": false
@@ -2626,7 +2573,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://pehl.ncku.edu.tw/p/406-1136-274025,r2338.php?Lang=zh-tw": {
 "lecture": false
@@ -2764,7 +2713,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-06",
+"v": 2
 },
 "https://www.phys.ncku.edu.tw/colloquia-detail/961/": {
 "lecture": true,
@@ -2785,7 +2736,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=654&index=3": {
 "lecture": false
@@ -2872,28 +2825,8 @@
 "lecture": false
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1829&index=2": {
-"lecture": true,
-"unit": "統計與資料科學學系",
-"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1829&index=2",
-"title": "【專題演講】115/10/15(四) 15:30-16:30 吳宜珊 博士後研究員",
-"topic": "What Makes a Generalization Bound Useful for Learning?",
-"speaker": "吳宜珊 博士後研究員",
-"place": "統計與資料科學學系三樓視聽教室 (62331)",
-"time_raw": null,
-"date": "2026-10-15",
-"start": [
-15,
-30
-],
-"end": [
-16,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://me.ncku.edu.tw/content.php?key=YDLBV87ETK": {
 "lecture": false
@@ -2989,7 +2922,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://me.ncku.edu.tw/news_detail.php?news_rkey=2TB2PFT71T": {
 "lecture": true,
@@ -3015,7 +2950,9 @@
 "notes": [
 "報名：…國立成功大學機械系1樓俊銘講堂 立即報名｜https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-22",
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-295796,r3504.php?Lang=zh-tw": {
 "lecture": false
@@ -3063,7 +3000,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://emba.ncku.edu.tw/p/412-1140-27690.php?Lang=zh-tw": {
 "lecture": false
@@ -3150,28 +3089,8 @@
 "lecture": false
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1821&index=3": {
-"lecture": true,
-"unit": "統計與資料科學學系",
-"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1821&index=3",
-"title": "【專題演講】115/10/08(四) 15:30-16:30 施嘉翰 助理教授",
-"topic": "Regression Association and Its Measurement",
-"speaker": "施嘉翰助理教授",
-"place": "統計與資料科學學系三樓視聽教室 (62331)",
-"time_raw": null,
-"date": "2026-10-08",
-"start": [
-15,
-30
-],
-"end": [
-16,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://eng.ncku.edu.tw/p/406-1014-292063,r3504.php?Lang=zh-tw": {
 "lecture": false
@@ -3195,7 +3114,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://emba.ncku.edu.tw/p/406-1140-286363,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -3264,7 +3185,7 @@
 "lecture": true,
 "unit": "物理學系",
 "url": "https://www.phys.ncku.edu.tw/colloquia-detail/922/",
-"title": "前沿量子科技研究中心量子資訊專題演講 TBA 演講者 : 張晏瑞  教授   (中原大學智慧運算與大數據碩士學位學程) 演講地點 : 理學教學新大樓物理系1F 36173教室 2026 / 11 / 16 12:10",
+"title": "前沿量子科技研究中心量子資訊專題演講 Quantum Finance: Applications and Future Directions 演講者 : 張晏瑞  教授   (中原大學智慧運算與大數據碩士學位學程) 演講地點 : 理學教學新大樓物理系1F 36173教室 2026 / 11 / 16 12:10",
 "topic": null,
 "speaker": "張晏瑞 教授 (中原大學智慧運算與大數據碩士學位學程)",
 "place": "理學教學新大樓物理系1F 36173教室",
@@ -3279,34 +3200,16 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://che.ncku.edu.tw/p/406-1220-269944,r3850.php?Lang=zh-tw": {
 "lecture": false
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1793&index=4": {
-"lecture": true,
-"unit": "統計與資料科學學系",
-"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1793&index=4",
-"title": "【專題演講】115/9/22(二) 11:10-12:00  Prof. Masao Ueki",
-"topic": "Regression modeling combined with unsupervised clustering",
-"speaker": "Prof. Masao Ueki",
-"place": "統計與資料科學學系二樓教室 (62227)",
-"time_raw": null,
-"date": "2026-09-22",
-"start": [
-11,
-10
-],
-"end": [
-12,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.phys.ncku.edu.tw/colloquia-detail/940/": {
 "lecture": true,
@@ -3327,7 +3230,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-288819,r3504.php?Lang=zh-tw": {
 "lecture": false
@@ -3355,7 +3260,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-285284,r3504.php?Lang=zh-tw": {
 "lecture": false
@@ -3433,7 +3340,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-270589,r3504.php?Lang=zh-tw": {
 "lecture": false
@@ -3442,28 +3351,8 @@
 "lecture": false
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1791&index=5": {
-"lecture": true,
-"unit": "統計與資料科學學系",
-"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1791&index=5",
-"title": "【專題演講】115/9/17(四) 15:30-16:30 吳柔瑾 助理教授",
-"topic": "Transfer Learning for Complex Models and High-Dimensional Error-Prone Variables",
-"speaker": "吳柔瑾助理教授",
-"place": "統計與資料科學學系三樓視聽教室 (62331)",
-"time_raw": null,
-"date": "2026-09-17",
-"start": [
-15,
-30
-],
-"end": [
-16,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://mp.ncku.edu.tw/%e8%b3%87%e6%ba%90%e4%ba%batalk-podcasts/": {
 "lecture": false,
@@ -3536,7 +3425,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://bme.ncku.edu.tw": {
 "lecture": false
@@ -3573,28 +3464,8 @@
 "lecture": false
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1773&index=6": {
-"lecture": true,
-"unit": "統計與資料科學學系",
-"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1773&index=6",
-"title": "【專題演講】115/9/10(四) 15:30-16:30 李百靈 副教授",
-"topic": "Modeling curves and derivatives as predictors for traffic breakdown probabilities",
-"speaker": "李百靈副教授",
-"place": "統計與資料科學學系三樓視聽教室 (62331)",
-"time_raw": null,
-"date": "2026-09-10",
-"start": [
-15,
-30
-],
-"end": [
-16,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://mp.ncku.edu.tw/11-7%e5%85%ad%e7%b3%bb%e5%8f%8b%e5%9b%9e%e5%a8%98%e5%ae%b6%ef%bc%8c%e7%b3%bb%e5%8f%8b%e5%88%86%e4%ba%ab%e6%9c%83/": {
 "lecture": true,
@@ -3621,7 +3492,9 @@
 "notes": [
 "報名：…來說，也是一次重新認識母系的場合。 報名方式 歡迎師生與系友參加 席次有限，敬請…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-30",
+"v": 2
 },
 "https://www.phys.ncku.edu.tw/colloquia/13/?month=next": {
 "lecture": false,
@@ -3653,25 +3526,8 @@
 "lecture": false
 },
 "https://mp.ncku.edu.tw/%e5%8d%9a%e5%a3%ab%e7%8f%ad%e7%8e%8b%e5%ad%9d%e4%b8%ad%e6%bc%94%e8%ac%9b%e5%85%ac%e5%91%8a/": {
-"lecture": true,
-"unit": "資源工程學系",
-"url": "https://mp.ncku.edu.tw/%e5%8d%9a%e5%a3%ab%e7%8f%ad%e7%8e%8b%e5%ad%9d%e4%b8%ad%e6%bc%94%e8%ac%9b%e5%85%ac%e5%91%8a/",
-"title": "博士班王孝中演講公告",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-10-12",
-"start": [
-13,
-30
-],
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://eng.ncku.edu.tw/p/406-1014-267623,r3504.php?Lang=zh-tw": {
 "lecture": false
@@ -3698,7 +3554,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mp.ncku.edu.tw/news/office/": {
 "lecture": false
@@ -3773,7 +3631,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ev.ncku.edu.tw/p/406-1184-305658,r11.php?Lang=zh-tw": {
 "lecture": false,
@@ -3808,7 +3668,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ica.ncku.edu.tw/p/406-1105-293966,r3612.php?Lang=zh-tw": {
 "lecture": false
@@ -3847,19 +3709,21 @@
 "lecture": true,
 "unit": "物理學系",
 "url": "https://www.phys.ncku.edu.tw/colloquia/12/?month=now",
-"title": "本月演講 01",
+"title": "本月演講 02",
 "topic": null,
-"speaker": "Jef Pauwels 博士 (University of Geneva, Switzerland)",
+"speaker": "Haw Jing Yan 資深研究員 (CQT, NUS, Singapore)",
 "place": "理學教學新大樓 2F 前沿量子中心演講廳",
 "time_raw": null,
-"date": "2026-11-16",
+"date": "2026-11-13",
 "start": null,
 "end": null,
 "tags": [
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-306766,r4151.php?Lang=zh-tw": {
 "lecture": true,
@@ -3883,7 +3747,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-11-03",
+"v": 2
 },
 "https://ica.ncku.edu.tw/p/406-1105-289231,r3612.php?Lang=zh-tw": {
 "lecture": false
@@ -3968,7 +3834,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-30",
+"v": 2
 },
 "https://che.ncku.edu.tw/p/406-1220-298572,r3717.php?Lang=zh-tw": {
 "lecture": false
@@ -4022,7 +3890,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-245490,r3504.php?Lang=zh-tw": {
 "lecture": false
@@ -4052,7 +3922,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-28",
+"v": 2
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1745&index=2": {
 "lecture": false
@@ -4183,7 +4055,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-19",
+"v": 2
 },
 "https://iaa.ncku.edu.tw/p/406-1104-298703,r2156.php?Lang=zh-tw": {
 "lecture": false
@@ -4315,7 +4189,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://emgp.ncku.edu.tw/p/412-1164-21839.php?Lang=zh-tw": {
 "lecture": false
@@ -4360,7 +4236,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-12",
+"v": 2
 },
 "https://ibdpe.ncku.edu.tw/p/406-1103-284420,r3687.php?Lang=zh-tw": {
 "lecture": false
@@ -4443,7 +4321,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-06",
+"v": 2
 },
 "https://che.ncku.edu.tw/p/406-1220-288201,r3717.php?Lang=zh-tw": {
 "lecture": false,
@@ -4468,7 +4348,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://www.csie.ncku.edu.tw/zh-hant/links/other": {
 "lecture": false
@@ -4543,7 +4425,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-29",
+"v": 2
 },
 "https://www.csie.ncku.edu.tw/zh-hant/news/13610": {
 "lecture": false
@@ -4615,7 +4499,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-01",
+"v": 2
 },
 "https://che.ncku.edu.tw/p/406-1220-287718,r3717.php?Lang=zh-tw": {
 "lecture": false
@@ -4660,7 +4546,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-29",
+"v": 2
 },
 "https://iaa.ncku.edu.tw/p/406-1104-297232,r2156.php?Lang=zh-tw": {
 "lecture": false
@@ -4708,27 +4596,8 @@
 "lecture": false
 },
 "https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4455": {
-"lecture": true,
-"unit": "微電子工程研究所",
-"url": "https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4455",
-"title": "【敬邀】第六屆成電論壇 暨 2026年系友大會-115年11月5日(四)下午1:30敬邀您踴躍出席",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-11-05",
-"start": [
-13,
-30
-],
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…026年系友大會，敬邀您踴躍出席。 報名表單 活動資訊如附件 期待您的蒞臨。 電…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ibdpe.ncku.edu.tw/p/406-1103-266445,r2728.php?Lang=zh-tw": {
 "lecture": false
@@ -4755,27 +4624,8 @@
 "lecture": false
 },
 "https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4455": {
-"lecture": true,
-"unit": "電機工程學系",
-"url": "https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4455",
-"title": "【敬邀】第六屆成電論壇 暨 2026年系友大會-115年11月5日(四)下午1:30敬邀您踴躍出席",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-11-05",
-"start": [
-13,
-30
-],
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…026年系友大會，敬邀您踴躍出席。 報名表單 活動資訊如附件 期待您的蒞臨。 電…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.imi.ncku.edu.tw/zh-hant/news/385": {
 "lecture": true,
@@ -4796,7 +4646,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-01",
+"v": 2
 },
 "https://www.csie.ncku.edu.tw/zh-hant/news/13604": {
 "lecture": true,
@@ -4816,7 +4668,9 @@
 "notes": [
 "報名：…s) , 將可獲得IMC 特製小禮 報名連結： (台南場) https://ca…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-20",
+"v": 2
 },
 "https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4435": {
 "lecture": false
@@ -4969,7 +4823,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-15",
+"v": 2
 },
 "https://iaa.ncku.edu.tw/p/406-1104-296882,r2156.php?Lang=zh-tw": {
 "lecture": false
@@ -5098,30 +4954,13 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-24",
+"v": 2
 },
 "https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4455": {
-"lecture": true,
-"unit": "通訊工程研究所",
-"url": "https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4455",
-"title": "【敬邀】第六屆成電論壇 暨 2026年系友大會-115年11月5日(四)下午1:30敬邀您踴躍出席",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-11-05",
-"start": [
-13,
-30
-],
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…026年系友大會，敬邀您踴躍出席。 報名表單 活動資訊如附件 期待您的蒞臨。 電…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ibdpe.ncku.edu.tw/p/406-1103-266447,r2728.php?Lang=zh-tw": {
 "lecture": false
@@ -5283,7 +5122,9 @@
 "notes": [
 "報名：…日(星期三)下午5點前至下列連結完成報名，以利餐點之準備。謝謝! 演講報名…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://iaa.ncku.edu.tw/p/403-1104-3479-1.php?Lang=zh-tw": {
 "lecture": false
@@ -5397,7 +5238,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://www.law.ncku.edu.tw/en/index.asp": {
 "lecture": false
@@ -5480,7 +5323,9 @@
 "notes": [
 "報名：…日(星期三)下午5點前至下列連結完成報名，以利餐點之準備。謝謝! 演講報名…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=930": {
 "lecture": true,
@@ -5506,7 +5351,9 @@
 "notes": [
 "報名：…二屆大南方空間規劃治理法制論壇，歡迎報名參加！ 主題：2026 大南方空間規…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://css.ncku.edu.tw/": {
 "lecture": false
@@ -5572,7 +5419,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=929": {
 "lecture": false
@@ -5695,7 +5544,9 @@
 "notes": [
 "報名：…59前完成報名，以利餐點統計。 👉 報名連結：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://csi.ee.ncku.edu.tw/index.php": {
 "lecture": false
@@ -5728,7 +5579,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://nice.ee.ncku.edu.tw": {
 "lecture": false
@@ -5875,50 +5728,12 @@
 "lecture": false
 },
 "https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4455": {
-"lecture": true,
-"unit": "智慧資訊安全碩士學位學程",
-"url": "https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4455",
-"title": "【敬邀】第六屆成電論壇 暨 2026年系友大會-115年11月5日(四)下午1:30敬邀您踴躍出席",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-11-05",
-"start": [
-13,
-30
-],
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…026年系友大會，敬邀您踴躍出席。 報名表單 活動資訊如附件 期待您的蒞臨。 電…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4455": {
-"lecture": true,
-"unit": "奈米積體電路工程碩士學位學程",
-"url": "https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4455",
-"title": "【敬邀】第六屆成電論壇 暨 2026年系友大會-115年11月5日(四)下午1:30敬邀您踴躍出席",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-11-05",
-"start": [
-13,
-30
-],
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…026年系友大會，敬邀您踴躍出席。 報名表單 活動資訊如附件 期待您的蒞臨。 電…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4435": {
 "lecture": false
@@ -6167,7 +5982,9 @@
 "notes": [
 "報名：…證水海七十年的深厚基礎與持續創新。 報名表單：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://fmri.ncku.edu.tw/inst/?mtab=3": {
 "lecture": false
@@ -6545,7 +6362,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-22",
+"v": 2
 },
 "https://www.law.ncku.edu.tw/album_detail.asp?nid=8": {
 "lecture": false
@@ -6572,28 +6391,16 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-28",
+"v": 2
 },
 "https://psychology.ncku.edu.tw/p/405-1235-303065,c32496.php?Lang=zh-tw": {
 "lecture": false
 },
 "https://www.arch.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=2089&index=1": {
-"lecture": true,
-"unit": "建築學系",
-"url": "https://www.arch.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=2089&index=1",
-"title": "成大建築講堂ARCH Talks 秋－10月",
-"topic": "An Environmental Psychology Approach",
-"speaker": "Ricardo García Mira名譽教授（西班牙拉科魯尼亞大學）",
-"place": null,
-"time_raw": "2026-10-15",
-"date": "2026-10-15",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ed.ncku.edu.tw/p/406-1230-292216,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -6674,7 +6481,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://icid.ncku.edu.tw/news/2026-nosigner-founder-visit-climate-change": {
 "lecture": true,
@@ -6692,32 +6501,12 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-306793,r4141.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "材料科學及工程學系",
-"url": "https://mse.ncku.edu.tw/p/406-1234-306793,r4141.php?Lang=zh-tw",
-"title": "115學年成大材料系親師餐敘座談會",
-"topic": null,
-"speaker": null,
-"place": "材料系新館2樓44203",
-"time_raw": "115年11月14日(六)",
-"date": "2026-11-14",
-"start": [
-12,
-0
-],
-"end": [
-12,
-10
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…115學年成大材料系親師餐敘座談會報名表(請點擊連結) 本校校慶將於11月…"
-],
+"lecture": false,
 "found": "2026-11-03"
 },
 "https://www.arch.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=2057&index=3": {
@@ -6744,7 +6533,9 @@
 "notes": [
 "報名：…域創新 X 國土空間規劃》講座，歡迎報名!!…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-30",
+"v": 2
 },
 "https://ed.ncku.edu.tw/p/406-1230-292212,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -6753,21 +6544,7 @@
 "lecture": false
 },
 "https://icid.ncku.edu.tw/news/icid-116-faculty-recruitment": {
-"lecture": true,
-"unit": "創意產業設計研究所",
-"url": "https://icid.ncku.edu.tw/news/icid-116-faculty-recruitment",
-"title": "所務公告 2026-10-28 所務公告 國立成功大學創意產業設計研究所徵聘教師啟事 預計聘任職稱：專任助理教授以上 1 名預計起聘日期：民國 116 年 8 月 1 日起聘壹、學歷及專長條件：一、博士學位並具備創意產業設計相關背景與實務經歷，或碩士學位並具四年以上相關產業實務經驗。二、本所為全英語學程，應徵者需具備英語授課能力。三、本次教師徵聘領域，並不限於本所目前分組領域，期待邀請可引領創意產業教育與研究新方向，並具跨域整合視野及前瞻系統思維之學者。特別係能以社會與文化網絡為基礎，重新定義人與人、人與環境之創意互動關係，並致力透過創新設計與跨域協作，推動未來永續新生活模式研究實踐之共學者。貳、應附資料：一、教師應聘申請表 ( 請上 https://apps.pers.ncku.edu.tw/etec4/index.php 註冊填寫 ) 二、詳細履歷表三、畢業證書或學位證書（國外學歷必須先經由駐外單位驗證）四、最高學歷成績單或修業證明（國外學歷必須先經由駐外單位驗證）五、學位論文或專門著作（以外文撰寫者，附具中文摘要）六、五年內著作目錄七、服務證書八、推薦函三封九、研究、創意實務專案與教學方針之說明文件一份十、其他有助說明個人能力之文件參、應徵重要事項：一、通過書審者須配合系所進行英文公開演講，必要時可採遠距視訊演講。二、演講內容應包含專長簡介及教學課程理念與安排，長度約 60 分鐘 ( 含問答 ) 。肆、應徵方式一、請將申請資料以限時掛號郵寄至「 701 台南市大學路一號國立成功大學創意產業設計研究所 教師評審委員會收」。並同時將應徵資料電子檔以附件或提供雲端連結 email 至 em54360@ncku.edu.tw 二、連絡電話： 06-2757575 轉 54361 三、 E-mail: em54360@ncku.edu.tw 伍、截止日期即日起至 115/12/31 前送達，請於期限內親送或郵寄 ( 寄件後請來電確認 ) 。 更多",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-08-01",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
+"lecture": false,
 "found": "2026-11-03"
 },
 "https://ide.ncku.edu.tw": {
@@ -6891,7 +6668,9 @@
 "notes": [
 "報名：…法律學系民事法研究中心 ▍活動官網／報名｜https://reurl.cc/…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-13",
+"v": 2
 },
 "https://icid.ncku.edu.tw/news/2026-internship-loughborough-university-art-exhibit": {
 "lecture": false
@@ -6960,7 +6739,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-306571,r4141.php?Lang=zh-tw": {
 "lecture": false
@@ -6987,7 +6768,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-08",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-306373,r4141.php?Lang=zh-tw": {
 "lecture": false
@@ -7019,7 +6802,9 @@
 "notes": [
 "報名：…重塑判斷力、創造力與責任感』 🔥 報名連結：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-23",
+"v": 2
 },
 "https://ide.ncku.edu.tw/p/406-1160-295723,r2406.php?Lang=zh-tw": {
 "lecture": true,
@@ -7045,7 +6830,9 @@
 "notes": [
 "報名：…幣 5,000 元 (完課後返還) 報名截止日：2026 年 5 月 12 日（…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://cpd.ncku.edu.tw/p/412-1021-28375.php?Lang=zh-tw": {
 "lecture": false
@@ -7077,7 +6864,9 @@
 "notes": [
 "報名：…工/物理等相關理工科系學生參加 • 報名連結：【Lam Research 美商科…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-07",
+"v": 2
 },
 "https://web.hyd.ncku.edu.tw/?p=18679": {
 "lecture": false,
@@ -7158,33 +6947,6 @@
 "https://tas.ncku.edu.tw/p/406-1154-301344,r11.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://psychology.ncku.edu.tw/p/405-1235-303414,c32496.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "心理學系",
-"url": "https://psychology.ncku.edu.tw/p/405-1235-303414,c32496.php?Lang=zh-tw",
-"title": "【重量級大師講座】2/10(二)10:00 國際知名心理學家-德國Prof. Gerd Gigerenzer主講《How to Stay Smart in a Smart World 》",
-"topic": null,
-"speaker": null,
-"place": "成功大學光復校區文學院學術演講廳(中文系館1樓)",
-"time_raw": "2/10 (二) 10:00~12:00",
-"date": "2027-02-10",
-"start": [
-10,
-0
-],
-"end": [
-12,
-0
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…區文學院學術演講廳(中文系館1樓) 報名：點此報名 直播連結： 直播連結…"
-],
-"found": "2026-11-03"
-},
 "https://itps.ncku.edu.tw/p/406-1148-251848,r2768.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -7211,7 +6973,9 @@
 "notes": [
 "報名：…Lunch provided.（免費報名，提供午餐） ◆ 立即報名 Regi…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-13",
+"v": 2
 },
 "https://technoart.ncku.edu.tw/p/406-1157-248813,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -7318,7 +7082,9 @@
 "notes": [
 "報名：…al Symposium 2026 報名連結｜Registration http…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://tas.ncku.edu.tw/p/406-1154-296541,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -7344,7 +7110,9 @@
 "notes": [
 "報名：…Registration： 研討會報名表單 Registration Form…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-24",
+"v": 2
 },
 "https://technoart.ncku.edu.tw/p/406-1157-224281,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -7377,7 +7145,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://bb.ncku.edu.tw/p/406-1019-305504,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -7416,7 +7186,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://web.hyd.ncku.edu.tw/?p=18347": {
 "lecture": false,
@@ -7492,7 +7264,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-305572,r4141.php?Lang=zh-tw": {
 "lecture": false
@@ -7535,30 +7309,6 @@
 },
 "https://biochem.ncku.edu.tw/p/406-1117-307199,r1521.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://itps.ncku.edu.tw/p/405-1148-296004,c82.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "熱帶植物與微生物科學研究所",
-"url": "https://itps.ncku.edu.tw/p/405-1148-296004,c82.php?Lang=zh-tw",
-"title": "【演講】福島 健児博士：Macroevolution, convergence, and plants that eat",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-04-28",
-"start": [
-13,
-30
-],
-"end": [
-15,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
 },
 "https://tas.ncku.edu.tw/p/406-1154-267694,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -7620,7 +7370,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-28",
+"v": 2
 },
 "https://bb.ncku.edu.tw/p/406-1019-306401,r1497.php?Lang=zh-tw": {
 "lecture": true,
@@ -7641,37 +7393,15 @@
 "notes": [
 "報名：…(Room 891S1) 活動連結 Registration Link…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-12",
+"v": 2
 },
 "https://biochem.ncku.edu.tw/p/406-1117-307199,r11.php?Lang=zh-tw": {
 "lecture": false
 },
 "https://tas.ncku.edu.tw/p/406-1154-265760,r11.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://itps.ncku.edu.tw/p/405-1148-295671,c82.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "熱帶植物與微生物科學研究所",
-"url": "https://itps.ncku.edu.tw/p/405-1148-295671,c82.php?Lang=zh-tw",
-"title": "【演講】林致成博士：淹不死的智慧：水稻應對洪水的「伸與縮」策略",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-04-14",
-"start": [
-13,
-30
-],
-"end": [
-15,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
 },
 "https://biochem.ncku.edu.tw/p/412-1117-20674.php?Lang=zh-tw": {
 "lecture": false
@@ -7740,31 +7470,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
-},
-"https://itps.ncku.edu.tw/p/405-1148-295124,c82.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "熱帶植物與微生物科學研究所",
-"url": "https://itps.ncku.edu.tw/p/405-1148-295124,c82.php?Lang=zh-tw",
-"title": "【演講】林亞平博士：Omics-driven decision-making approaches for vegetable  breeding",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-03-31",
-"start": [
-13,
-30
-],
-"end": [
-15,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-19",
+"v": 2
 },
 "https://www.up.ncku.edu.tw/2027upforum/": {
 "lecture": true,
@@ -7784,7 +7492,9 @@
 "notes": [
 "報名：…交截止期限 2027年03月01日 報名連結 供贊助單位與一般民眾使用之報名連結…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-20",
+"v": 2
 },
 "https://itps.ncku.edu.tw/p/130-1148-10.php?Lang=zh-tw": {
 "lecture": false
@@ -7871,7 +7581,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-12",
+"v": 2
 },
 "https://bb.ncku.edu.tw/p/406-1019-305196,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -7895,7 +7607,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-16",
+"v": 2
 },
 "https://anatomy.ncku.edu.tw/p/406-1219-290148,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -7987,7 +7701,9 @@
 "notes": [
 "報名：…學法律學系民事法研究中心 活動官網／報名 https://reurl.cc/…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-12",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-305041,r4147.php?Lang=zh-tw": {
 "lecture": false
@@ -8053,7 +7769,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-29",
+"v": 2
 },
 "https://micimmun.ncku.edu.tw/p/406-1119-305255,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -8158,7 +7876,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://web.hyd.ncku.edu.tw/?p=18788": {
 "lecture": false
@@ -8248,7 +7968,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://www.up.ncku.edu.tw/115-09-29-04/": {
 "lecture": true,
@@ -8271,7 +7993,9 @@
 "notes": [
 "報名：…理方式 實體會議與線上直播同步辦理 報名連結 https://reurl.cc/…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-29",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-303054,r4147.php?Lang=zh-tw": {
 "lecture": false
@@ -8310,7 +8034,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://parasite-med.ncku.edu.tw/p/406-1120-235189,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -8343,7 +8069,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-29",
+"v": 2
 },
 "https://web.hyd.ncku.edu.tw/?p=15763": {
 "lecture": false,
@@ -8382,7 +8110,9 @@
 "notes": [
 "報名：…14:00｜午餐享用與期刊發表座談 報名方式 請掃描活動海報 QR Code 報…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-15",
+"v": 2
 },
 "http://web.hyd.ncku.edu.tw/?page_id=2324": {
 "lecture": false
@@ -8442,7 +8172,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-22",
+"v": 2
 },
 "https://bb.ncku.edu.tw/p/450-1019-24375,c1.php?Lang=zh-tw": {
 "lecture": false
@@ -8595,7 +8327,9 @@
 "notes": [
 "限定依據：…續精進語言能力的重要性。此次工作坊不僅帶領學生理解日本都市規劃經驗，也凸顯成大都計…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-05",
+"v": 2
 },
 "https://med.ncku.edu.tw/p/406-1015-306343,r11.php?Lang=zh-tw": {
 "lecture": true,
@@ -8621,7 +8355,9 @@
 "notes": [
 "報名：…to meaning-maker. 報名網址：https://activity.…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-08",
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/406-1132-275675,r1945.php?Lang=zh-tw": {
 "lecture": false
@@ -8654,7 +8390,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-05",
+"v": 2
 },
 "https://surgery.ncku.edu.tw/p/406-1126-278128,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -8683,7 +8421,9 @@
 "notes": [
 "報名：…工作坊】15分鐘城市研究工作坊｜歡迎報名參加…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-01",
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/406-1132-275621,r1945.php?Lang=zh-tw": {
 "lecture": false
@@ -8713,7 +8453,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-01",
+"v": 2
 },
 "https://parasite-med.ncku.edu.tw/p/406-1120-234835,r1919.php?Lang=zh-tw": {
 "lecture": false
@@ -8764,7 +8506,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-01",
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/406-1132-228368,r3236.php?Lang=zh-tw": {
 "lecture": false
@@ -8890,7 +8634,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-01",
+"v": 2
 },
 "https://parasite-med.ncku.edu.tw/p/406-1120-146736,r1919.php?Lang=zh-tw": {
 "lecture": false
@@ -8914,7 +8660,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-07-15",
+"v": 2
 },
 "https://neuro-med.ncku.edu.tw/p/406-1131-307176,r2003.php?Lang=zh-tw": {
 "lecture": false
@@ -8986,7 +8734,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-24",
+"v": 2
 },
 "https://neuro-med.ncku.edu.tw/p/406-1131-306871,r2003.php?Lang=zh-tw": {
 "lecture": false
@@ -9043,7 +8793,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://med.ncku.edu.tw/p/406-1015-307501,r2837.php?Lang=zh-tw": {
 "lecture": false
@@ -9073,7 +8825,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-21",
+"v": 2
 },
 "https://micimmun.ncku.edu.tw/p/406-1119-282837,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -9118,7 +8872,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://deoh.ncku.edu.tw/p/406-1122-279007,r2356.php?Lang=zh-tw": {
 "lecture": false
@@ -9163,7 +8919,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-29",
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/406-1132-226598,r3236.php?Lang=zh-tw": {
 "lecture": false
@@ -9193,7 +8951,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-20",
+"v": 2
 },
 "https://micimmun.ncku.edu.tw/p/412-1119-83.php?Lang=zh-tw": {
 "lecture": false
@@ -9340,7 +9100,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-303726,r4148.php?Lang=zh-tw": {
 "lecture": false
@@ -9366,7 +9128,9 @@
 "notes": [
 "報名：…內外師生、研究人員及相關領域專業人士報名參加，共同探索生物電子醫學與智慧健康…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-28",
+"v": 2
 },
 "https://parasite-med.ncku.edu.tw/p/406-1120-217670,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -9405,7 +9169,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-22",
+"v": 2
 },
 "https://psy-med.ncku.edu.tw/p/406-1128-291639,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -9443,7 +9209,9 @@
 "notes": [
 "報名：…to meaning-maker. 報名網址：https://activity.…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-08",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-303646,r4148.php?Lang=zh-tw": {
 "lecture": false
@@ -9474,7 +9242,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-07",
+"v": 2
 },
 "https://parasite-med.ncku.edu.tw/p/406-1120-217668,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -9567,7 +9337,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-05",
+"v": 2
 },
 "https://www.up.ncku.edu.tw/115-10-05-01/": {
 "lecture": true,
@@ -9591,7 +9363,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-05",
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/406-1132-246462,r3236.php?Lang=zh-tw": {
 "lecture": false
@@ -9636,7 +9410,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-01",
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/406-1132-227321,r3236.php?Lang=zh-tw": {
 "lecture": false
@@ -9701,7 +9477,9 @@
 "notes": [
 "報名：…理方式 實體會議與線上直播同步辦理 報名連結 https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-29",
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/406-1132-261769,r1942.php?Lang=zh-tw": {
 "lecture": false
@@ -9738,7 +9516,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-01",
+"v": 2
 },
 "https://neuro-med.ncku.edu.tw/p/406-1131-304778,r2003.php?Lang=zh-tw": {
 "lecture": false
@@ -9906,7 +9686,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-24",
+"v": 2
 },
 "https://pharmacy.ncku.edu.tw/p/406-1125-305701,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -9999,7 +9781,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-23",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-301743,r4148.php?Lang=zh-tw": {
 "lecture": false
@@ -10509,7 +10293,9 @@
 "notes": [
 "報名：…協辦單位：漢達生技醫藥股份有限公司 報名連結：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-08-07",
+"v": 2
 },
 "https://ibms.ncku.edu.tw/p/406-1196-259016,r3594.php?Lang=zh-tw": {
 "lecture": false
@@ -10765,7 +10551,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-29",
+"v": 2
 },
 "https://iom.ncku.edu.tw/p/412-1114-28464.php?Lang=zh-tw": {
 "lecture": false,
@@ -10793,7 +10581,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-15",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-305666,r4149.php?Lang=zh-tw": {
 "lecture": false
@@ -11014,7 +10804,9 @@
 "notes": [
 "報名：…內外師生、研究人員及相關領域專業人士報名參加，共同探索生物電子醫學與智慧健康…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-28",
+"v": 2
 },
 "https://ibms.ncku.edu.tw/p/406-1196-288849,r3594.php?Lang=zh-tw": {
 "lecture": false
@@ -11056,7 +10848,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-15",
+"v": 2
 },
 "https://clpharm.ncku.edu.tw/p/406-1111-304902,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -11083,7 +10877,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-22",
+"v": 2
 },
 "https://behmed.ncku.edu.tw/p/406-1167-296521,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -11118,7 +10914,9 @@
 "notes": [
 "報名：…to meaning-maker. 報名網址：https://activity.…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-08",
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/406-1132-258965,r1942.php?Lang=zh-tw": {
 "lecture": false
@@ -11202,7 +11000,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-07",
+"v": 2
 },
 "https://clpharm.ncku.edu.tw/p/406-1111-302706,r668.php?Lang=zh-tw": {
 "lecture": true,
@@ -11228,7 +11028,9 @@
 "notes": [
 "報名：…協辦單位：漢達生技醫藥股份有限公司 報名連結：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://behmed.ncku.edu.tw/p/406-1167-294771,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -11249,7 +11051,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-22",
+"v": 2
 },
 "https://med.ncku.edu.tw/p/406-1015-306069,r2041.php?Lang=zh-tw": {
 "lecture": true,
@@ -11273,7 +11077,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-05",
+"v": 2
 },
 "https://ibms.ncku.edu.tw/p/406-1196-275648,r3594.php?Lang=zh-tw": {
 "lecture": false
@@ -11315,7 +11121,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/406-1132-252355,r1942.php?Lang=zh-tw": {
 "lecture": false
@@ -11351,7 +11159,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-01",
+"v": 2
 },
 "https://clpharm.ncku.edu.tw/p/406-1111-301930,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -11380,7 +11190,9 @@
 "notes": [
 "報名：…培育重點，為未來做好準備！ 🎁 事先報名並出席活動 享有美味個人餐點，還有機…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://imm-med.ncku.edu.tw/p/406-1173-294112,r3394.php?Lang=zh-tw": {
 "lecture": false
@@ -11500,7 +11312,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-01",
+"v": 2
 },
 "https://ais2m.ncku.edu.tw/?action=news&id=2530": {
 "lecture": true,
@@ -11524,7 +11338,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://clpharm.ncku.edu.tw/p/406-1111-296816,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -11569,7 +11385,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-01",
+"v": 2
 },
 "https://ais2m.ncku.edu.tw/?action=news&id=2552": {
 "lecture": true,
@@ -11595,31 +11413,9 @@
 "notes": [
 "報名：…培育重點，為未來做好準備！ 🎁 事先報名並出席活動 享有美味個人餐點，還有機…"
 ],
-"found": "2026-11-03"
-},
-"https://dfsr.ncku.edu.tw/p/406-1228-305569,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/406-1228-305569,r11.php?Lang=zh-tw",
-"title": "演講公告：What’s Really in Your Boba Tea? A Journey from Sugar to Artificial Sweeteners",
-"topic": "What’s Really in Your Boba Tea? A Journey from Sugar to Artificial Sweeteners",
-"speaker": "羅宇軒 副教授",
-"place": "醫學院鳯杯講堂",
-"time_raw": "3/12 – 3：10 PM～5：00 PM",
-"date": "2027-03-12",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-302463,r4149.php?Lang=zh-tw": {
 "lecture": false
@@ -11646,7 +11442,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-30",
+"v": 2
 },
 "https://ais2m.ncku.edu.tw/?action=news&id=2510": {
 "lecture": false
@@ -11724,7 +11522,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ais2m.ncku.edu.tw/?action=news&id=2187": {
 "lecture": false
@@ -11807,30 +11607,6 @@
 "https://clpharm.ncku.edu.tw/app/index.php?Action=downloadfile&file=U0RjOFE0akZ3OVFCUURYKzVOTFBlclVuQmcvaWlBcWVQSmFrZmFTOXBkUHFlclErOVd4OFdNdXVZcWlJN1dmYW5Nd1RMUTg5bEtJLzdFZjZTN1ZPVC9Pekc2K3FSOCtGUzBhUXowdUIvUVE9&fname=ZktYVzlYMkIxazNwUXFFMUEyVWJseEVaL3hBd29SajhsUnZETGtGQk4zaXJUdllVaWRNc2JiSThJNkE5UitBRU5XeEJwTlFDaC9sRHlFdjJSUGVESVNsVUgrSVRZWEE2WlBKeEFISDFaQms9&cg=15180": {
 "lecture": false
 },
-"https://dfsr.ncku.edu.tw/p/406-1228-304930,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/406-1228-304930,r11.php?Lang=zh-tw",
-"title": "演講公告：Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
-"topic": "Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
-"speaker": "楊玉良 副主任",
-"place": "醫學院鳯杯講堂",
-"time_raw": "3/12 – 3：10 PM～5：00 PM",
-"date": "2027-03-12",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
-},
 "https://computing.ncku.edu.tw/p/406-1138-216891,r3182.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -11871,7 +11647,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-30",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-300461,r4149.php?Lang=zh-tw": {
 "lecture": false
@@ -11943,7 +11721,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-30",
+"v": 2
 },
 "https://computing.ncku.edu.tw/p/406-1138-216289,r3182.php?Lang=zh-tw": {
 "lecture": false
@@ -11976,7 +11756,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-30",
+"v": 2
 },
 "https://iog.ncku.edu.tw/p/406-1169-306751,r2694.php?Lang=zh-tw": {
 "lecture": false
@@ -12115,7 +11897,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "http://mt.ncku.edu.tw/p/412-1151-83.php?Lang=zh-tw": {
 "lecture": false
@@ -12147,30 +11931,6 @@
 "https://imm-med.ncku.edu.tw/p/412-1173-23241.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://dfsr.ncku.edu.tw/p/406-1228-304930,r4249.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/406-1228-304930,r4249.php?Lang=zh-tw",
-"title": "演講公告：Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
-"topic": "Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
-"speaker": "楊玉良 副主任",
-"place": "醫學院鳯杯講堂",
-"time_raw": "3/12 – 3：10 PM～5：00 PM",
-"date": "2027-03-12",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
-},
 "https://iog.ncku.edu.tw/p/406-1169-281630,r2694.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -12180,56 +11940,8 @@
 "https://mss.ncku.edu.tw/p/406-1202-307210,r11.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://dfsr.ncku.edu.tw/p/406-1228-296398,r4249.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/406-1228-296398,r4249.php?Lang=zh-tw",
-"title": "演講公告：從實驗室到餐桌，從基礎化學研究到食品安全管理 / From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
-"topic": "From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
-"speaker": "洪偉毅 首席合規經理",
-"place": "生醫卓群大樓1樓鳯杯講堂",
-"time_raw": "3/12 – 3：10 PM～5：00 PM",
-"date": "2027-03-12",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
-},
 "https://med.ncku.edu.tw/p/406-1015-286530,r2039.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://dfsr.ncku.edu.tw/p/406-1228-296396,r4249.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/406-1228-296396,r4249.php?Lang=zh-tw",
-"title": "演講公告：未來的機會：尋找下一個跨領域的獨角獸 / Future Opportunities: Hunting for the Next Cross-Domain Unicorn",
-"topic": "Future Opportunities: Hunting for the Next Cross-Domain Unicorn",
-"speaker": "陳顯侯 董事長 與 林玟妤 執行長",
-"place": "生醫卓群大樓1樓鳯杯講堂",
-"time_raw": "2/26 – 3：10 PM～5：00 PM",
-"date": "2027-02-26",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
 },
 "https://mse.ncku.edu.tw/p/406-1234-305180,r4150.php?Lang=zh-tw": {
 "lecture": false
@@ -12265,7 +11977,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://imm-med.ncku.edu.tw/p/412-1173-31940.php?Lang=zh-tw": {
 "lecture": false
@@ -12328,30 +12042,6 @@
 "https://mss.ncku.edu.tw/p/406-1202-291846,r11.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://dfsr.ncku.edu.tw/p/406-1228-296398,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/406-1228-296398,r11.php?Lang=zh-tw",
-"title": "演講公告：從實驗室到餐桌，從基礎化學研究到食品安全管理 / From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
-"topic": "From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
-"speaker": "洪偉毅 首席合規經理",
-"place": "生醫卓群大樓1樓鳯杯講堂",
-"time_raw": "3/12 – 3：10 PM～5：00 PM",
-"date": "2027-03-12",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
-},
 "https://mse.ncku.edu.tw/p/406-1234-303044,r4150.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -12398,7 +12088,9 @@
 "notes": [
 "報名：…人工智慧在高教的角色及應用」論壇熱烈報名中👉林哲偉副教授 2024-09-0…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mss.ncku.edu.tw/p/406-1202-292442,r3647.php?Lang=zh-tw": {
 "lecture": false
@@ -12616,30 +12308,6 @@
 "https://mse.ncku.edu.tw/p/406-1234-302554,r4150.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://dfsr.ncku.edu.tw/p/405-1228-305569,c32291.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/405-1228-305569,c32291.php?Lang=zh-tw",
-"title": "演講公告：What’s Really in Your Boba Tea? A Journey from Sugar to Artificial Sweeteners",
-"topic": "What’s Really in Your Boba Tea? A Journey from Sugar to Artificial Sweeteners",
-"speaker": "羅宇軒 副教授",
-"place": "醫學院鳯杯講堂",
-"time_raw": "3/12 – 3：10 PM～5：00 PM",
-"date": "2027-03-12",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
-},
 "https://mse.ncku.edu.tw/p/406-1234-302525,r4150.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -12665,82 +12333,12 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://mss.ncku.edu.tw/p/406-1202-275315,r3647.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://dfsr.ncku.edu.tw/p/405-1228-304930,c32291.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/405-1228-304930,c32291.php?Lang=zh-tw",
-"title": "演講公告：Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
-"topic": "Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
-"speaker": "楊玉良 副主任",
-"place": "醫學院鳯杯講堂",
-"time_raw": "3/12 – 3：10 PM～5：00 PM",
-"date": "2027-03-12",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
-},
-"https://dfsr.ncku.edu.tw/p/405-1228-296398,c32291.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/405-1228-296398,c32291.php?Lang=zh-tw",
-"title": "演講公告：從實驗室到餐桌，從基礎化學研究到食品安全管理 / From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
-"topic": "From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
-"speaker": "洪偉毅 首席合規經理",
-"place": "生醫卓群大樓1樓鳯杯講堂",
-"time_raw": "3/12 – 3：10 PM～5：00 PM",
-"date": "2027-03-12",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
-},
-"https://dfsr.ncku.edu.tw/p/405-1228-296396,c32291.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "食品安全衛生暨風險管理研究所",
-"url": "https://dfsr.ncku.edu.tw/p/405-1228-296396,c32291.php?Lang=zh-tw",
-"title": "演講公告：未來的機會：尋找下一個跨領域的獨角獸 / Future Opportunities: Hunting for the Next Cross-Domain Unicorn",
-"topic": "Future Opportunities: Hunting for the Next Cross-Domain Unicorn",
-"speaker": "陳顯侯 董事長 與 林玟妤 執行長",
-"place": "生醫卓群大樓1樓鳯杯講堂",
-"time_raw": "2/26 – 3：10 PM～5：00 PM",
-"date": "2027-02-26",
-"start": [
-15,
-10
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
 },
 "https://mss.ncku.edu.tw/p/406-1202-297071,r3648.php?Lang=zh-tw": {
 "lecture": false
@@ -12965,7 +12563,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-11-02",
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-306316,r3765.php?Lang=zh-tw": {
 "lecture": false
@@ -12995,7 +12595,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-29",
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-305654,r3765.php?Lang=zh-tw": {
 "lecture": false
@@ -13025,7 +12627,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-13",
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-306367,r3765.php?Lang=zh-tw": {
 "lecture": false
@@ -13061,7 +12665,9 @@
 "notes": [
 "報名：…和辨識窯址採集之關鍵貿易瓷器標本。 報名表單： https://docs.goo…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-13",
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-305419,r3765.php?Lang=zh-tw": {
 "lecture": false
@@ -13264,7 +12870,9 @@
 "notes": [
 "報名：…請攜帶學生證，現場刷卡簽到退。 線上報名網址，請點選…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-15",
+"v": 2
 },
 "https://earth.ncku.edu.tw/p/406-1134-305538,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -13375,7 +12983,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-304480,r3765.php?Lang=zh-tw": {
 "lecture": false
@@ -13404,7 +13014,9 @@
 "notes": [
 "報名：…畫書 會後提供反饋與優化計畫書建議 報名連結：點此填寫報名表單…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-22",
+"v": 2
 },
 "https://management.ncku.edu.tw/p/406-1017-306730,r2378.php?Lang=zh-tw": {
 "lecture": false
@@ -13437,7 +13049,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-304482,r3765.php?Lang=zh-tw": {
 "lecture": true,
@@ -13458,7 +13072,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://management.ncku.edu.tw/p/406-1017-305929,r2378.php?Lang=zh-tw": {
 "lecture": false
@@ -13467,9 +13083,9 @@
 "lecture": true,
 "unit": "歷史學系",
 "url": "https://his.ncku.edu.tw/p/406-1226-305813,r4046.php?Lang=zh-tw",
-"title": "115-1史學專題講座  預告",
+"title": "115-1史學專題講座  106th",
 "topic": "中國歷史上的非漢人統治-其延續至今的影響",
-"speaker": "飯山知保教授(早稻田大學文學學術院)",
+"speaker": "飯山知保教授(日本 早稻田大學文學學術院)",
 "place": "光復校區文學院學術演講廳",
 "time_raw": "115年12月8日(二)19:00~21:00",
 "date": "2026-12-08",
@@ -13482,10 +13098,14 @@
 0
 ],
 "tags": [
-"未註明"
+"需報名"
 ],
-"notes": [],
-"found": "2026-11-03"
+"notes": [
+"報名：…生，請攜帶學生證，現場刷卡簽到退。 報名連結，請點選…"
+],
+"found": "2026-11-03",
+"pub": "2026-09-29",
+"v": 2
 },
 "https://earth.ncku.edu.tw/p/406-1134-304723,r3281.php?Lang=zh-tw": {
 "lecture": false
@@ -13515,7 +13135,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-302990,r3765.php?Lang=zh-tw": {
 "lecture": false
@@ -13544,7 +13166,9 @@
 "notes": [
 "報名：…請攜帶學生證，現場刷卡簽到退。 線上報名網址，請點選…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-21",
+"v": 2
 },
 "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=2648&index=3": {
 "lecture": false
@@ -13586,7 +13210,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://his.ncku.edu.tw/p/406-1226-305424,r4046.php?Lang=zh-tw": {
 "lecture": false
@@ -13622,7 +13248,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://his.ncku.edu.tw/p/406-1226-305193,r4046.php?Lang=zh-tw": {
 "lecture": true,
@@ -13642,7 +13270,9 @@
 "notes": [
 "報名：…到好奇，歡迎一起來解鎖森林力！ ➔ 報名｜https://activity.…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-15",
+"v": 2
 },
 "https://management.ncku.edu.tw/p/406-1017-300942,r2378.php?Lang=zh-tw": {
 "lecture": false
@@ -13708,7 +13338,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-26",
+"v": 2
 },
 "https://management.ncku.edu.tw/p/406-1017-297737,r2378.php?Lang=zh-tw": {
 "lecture": false
@@ -13757,7 +13389,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-26",
+"v": 2
 },
 "https://tcm.ncku.edu.tw/p/406-1172-307124,r2874.php?Lang=zh-tw": {
 "lecture": false
@@ -13794,7 +13428,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-26",
+"v": 2
 },
 "https://dps.ncku.edu.tw/p/406-1174-301618,r2978.php?Lang=zh-tw": {
 "lecture": false
@@ -13815,28 +13451,8 @@
 "lecture": false
 },
 "https://ba.ncku.edu.tw/p/406-1177-307165,r2800.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "企業管理學系",
-"url": "https://ba.ncku.edu.tw/p/406-1177-307165,r2800.php?Lang=zh-tw",
-"title": "演講主題：「兩個世界、一個迴圈:AI轉型的實踐藍圖」 演 講 者：蕭安助 副總經理 和碩聯合科技 人工智慧發展處 演講日期：2026-10-27 19:00-21:00 演講地點：62453教室",
-"topic": "「兩個世界、一個迴圈:AI轉型的實踐藍圖」",
-"speaker": "蕭安助 副總經理 和碩聯合科技 人工智慧發展處",
-"place": "62453教室",
-"time_raw": null,
-"date": "2026-10-27",
-"start": [
-19,
-0
-],
-"end": [
-21,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://archaeology.ncku.edu.tw/p/406-1208-284601,r3913.php?Lang=zh-tw": {
 "lecture": false
@@ -13869,7 +13485,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://earth.ncku.edu.tw/p/406-1134-294949,r3282.php?Lang=zh-tw": {
 "lecture": false
@@ -13951,32 +13569,6 @@
 },
 "https://math.ncku.edu.tw/p/406-1221-298885,r3749.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://management.ncku.edu.tw/p/406-1017-289112,r2377.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "管理學院",
-"url": "https://management.ncku.edu.tw/p/406-1017-289112,r2377.php?Lang=zh-tw",
-"title": "【Workshop】11/24(一)10:30人工智慧與金融科技",
-"topic": "AI and Fintech Research（人工智慧與金融科技）",
-"speaker": null,
-"place": "成大會計系暨財金所館四樓 63404 教室",
-"time_raw": "11 月 24 日（星期一）10:30–12:00",
-"date": "2026-11-24",
-"start": [
-10,
-30
-],
-"end": [
-12,
-0
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…至 11 月 14 日（星期五）止 報名連結：https://activity.…"
-],
-"found": "2026-11-03"
 },
 "https://earth.ncku.edu.tw/p/406-1134-301392,r3283.php?Lang=zh-tw": {
 "lecture": false
@@ -14157,7 +13749,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-306367,r3750.php?Lang=zh-tw": {
 "lecture": false
@@ -14199,7 +13793,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://tcm.ncku.edu.tw/p/406-1172-286422,r2850.php?Lang=zh-tw": {
 "lecture": false
@@ -14343,7 +13939,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://tcm.ncku.edu.tw/p/406-1172-306636,r2851.php?Lang=zh-tw": {
 "lecture": false
@@ -14382,31 +13980,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
-},
-"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1049&index=13": {
-"lecture": true,
-"unit": "統計與資料科學學系",
-"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1049&index=13",
-"title": "【新開課程，機會難得，歡迎選修】石瑜客座特聘講座111-1開授「高等生物統計學-以新冠肺炎研究數據為例」(開放google表單登記加選)",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-12-22",
-"start": [
-18,
-0
-],
-"end": [
-20,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://dps.ncku.edu.tw/p/406-1174-291979,r2978.php?Lang=zh-tw": {
 "lecture": false
@@ -14478,7 +14054,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-21",
+"v": 2
 },
 "https://dps.ncku.edu.tw/p/406-1174-291116,r2978.php?Lang=zh-tw": {
 "lecture": false
@@ -14511,7 +14089,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-10",
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-304712,r3750.php?Lang=zh-tw": {
 "lecture": false
@@ -14606,7 +14186,9 @@
 "notes": [
 "報名：…推動夥伴，以及對跨領域學習有興趣者 報名期限：115年10月5日（一）中午1…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-295391,r3751.php?Lang=zh-tw": {
 "lecture": false
@@ -14706,33 +14288,6 @@
 },
 "https://iim.ncku.edu.tw/p/406-1138-306445,r2130.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://science.ncku.edu.tw/p/406-1016-295271,r668.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "理學院",
-"url": "https://science.ncku.edu.tw/p/406-1016-295271,r668.php?Lang=zh-tw",
-"title": "【理學論壇暨化學系專題演講】薛雁冰所長-食肉性真菌：線蟲捕食的機制與演化 (4/28 15:20-17:00)",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-04-28",
-"start": [
-15,
-20
-],
-"end": [
-17,
-0
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…講地點】理學教學大樓36102室 【報名資訊】 請於4月24日(五)前至ht…"
-],
-"found": "2026-11-03"
 },
 "https://iim.ncku.edu.tw/p/406-1138-302654,r2130.php?Lang=zh-tw": {
 "lecture": false
@@ -14952,28 +14507,8 @@
 "lecture": false
 },
 "https://ba.ncku.edu.tw/p/406-1177-305974,r2800.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "企業管理學系",
-"url": "https://ba.ncku.edu.tw/p/406-1177-305974,r2800.php?Lang=zh-tw",
-"title": "演講主題：人工智慧用於人造衛星入軌之運算 演 講 者：謝清志 博士 曾任：美國Rockwell Interl.、Aerospace Co., 國策顧問、國科會副主委 等 演講日期：2026-11-5 18:30-20:30，  演講地點：62212教室",
-"topic": "人工智慧用於人造衛星入軌之運算",
-"speaker": "謝清志 博士 曾任：美國Rockwell Interl.、Aerospace Co., 國策顧問、國科會副主委 等",
-"place": "62212教室",
-"time_raw": null,
-"date": "2026-11-05",
-"start": [
-18,
-30
-],
-"end": [
-20,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://dba.ncku.edu.tw/p/406-1204-291724,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -15009,28 +14544,8 @@
 "lecture": false
 },
 "https://ba.ncku.edu.tw/p/406-1177-305973,r2800.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "企業管理學系",
-"url": "https://ba.ncku.edu.tw/p/406-1177-305973,r2800.php?Lang=zh-tw",
-"title": "演講主題：預防醫學，超前佈署 演 講 者：黃正文 資深行銷經理 台灣綠十字股份有限公司 開發部 演講日期：2026-10-15 18:30-20:30 演講地點：62212教室",
-"topic": "預防醫學，超前佈署",
-"speaker": "黃正文 資深行銷經理 台灣綠十字股份有限公司 開發部",
-"place": "62212教室",
-"time_raw": null,
-"date": "2026-10-15",
-"start": [
-18,
-30
-],
-"end": [
-20,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://iim.ncku.edu.tw/p/406-1138-250592,r2134.php?Lang=zh-tw": {
 "lecture": false
@@ -15128,7 +14643,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-26",
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-272519,r888.php?Lang=zh-tw": {
 "lecture": false
@@ -15173,7 +14690,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-26",
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-301628,r888.php?Lang=zh-tw": {
 "lecture": false
@@ -15221,7 +14740,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-26",
+"v": 2
 },
 "https://iim.ncku.edu.tw/p/406-1138-306445,r2231.php?Lang=zh-tw": {
 "lecture": false
@@ -15246,28 +14767,8 @@
 "reason": "no date"
 },
 "https://ba.ncku.edu.tw/p/406-1177-307165,r2798.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "企業管理學系",
-"url": "https://ba.ncku.edu.tw/p/406-1177-307165,r2798.php?Lang=zh-tw",
-"title": "演講主題：「兩個世界、一個迴圈:AI轉型的實踐藍圖」 演 講 者：蕭安助 副總經理 和碩聯合科技 人工智慧發展處 演講日期：2026-10-27 19:00-21:00 演講地點：62453教室",
-"topic": "「兩個世界、一個迴圈:AI轉型的實踐藍圖」",
-"speaker": "蕭安助 副總經理 和碩聯合科技 人工智慧發展處",
-"place": "62453教室",
-"time_raw": null,
-"date": "2026-10-27",
-"start": [
-19,
-0
-],
-"end": [
-21,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://dba.ncku.edu.tw/p/406-1204-296467,r3381.php?Lang=zh-tw": {
 "lecture": false
@@ -15292,28 +14793,8 @@
 "lecture": false
 },
 "https://ba.ncku.edu.tw/p/406-1177-305974,r2798.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "企業管理學系",
-"url": "https://ba.ncku.edu.tw/p/406-1177-305974,r2798.php?Lang=zh-tw",
-"title": "演講主題：人工智慧用於人造衛星入軌之運算 演 講 者：謝清志 博士 曾任：美國Rockwell Interl.、Aerospace Co., 國策顧問、國科會副主委 等 演講日期：2026-11-5 18:30-20:30，  演講地點：62212教室",
-"topic": "人工智慧用於人造衛星入軌之運算",
-"speaker": "謝清志 博士 曾任：美國Rockwell Interl.、Aerospace Co., 國策顧問、國科會副主委 等",
-"place": "62212教室",
-"time_raw": null,
-"date": "2026-11-05",
-"start": [
-18,
-30
-],
-"end": [
-20,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://dba.ncku.edu.tw/p/406-1204-294460,r3381.php?Lang=zh-tw": {
 "lecture": false
@@ -15331,28 +14812,8 @@
 "lecture": false
 },
 "https://ba.ncku.edu.tw/p/406-1177-305973,r2798.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "企業管理學系",
-"url": "https://ba.ncku.edu.tw/p/406-1177-305973,r2798.php?Lang=zh-tw",
-"title": "演講主題：預防醫學，超前佈署 演 講 者：黃正文 資深行銷經理 台灣綠十字股份有限公司 開發部 演講日期：2026-10-15 18:30-20:30 演講地點：62212教室",
-"topic": "預防醫學，超前佈署",
-"speaker": "黃正文 資深行銷經理 台灣綠十字股份有限公司 開發部",
-"place": "62212教室",
-"time_raw": null,
-"date": "2026-10-15",
-"start": [
-18,
-30
-],
-"end": [
-20,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://management.ncku.edu.tw/p/406-1017-305757,r3157.php?Lang=zh-tw": {
 "lecture": false
@@ -15583,7 +15044,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-05",
+"v": 2
 },
 "https://che.ncku.edu.tw/p/406-1220-306067,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -15641,7 +15104,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-11-03",
+"v": 2
 },
 "https://che.ncku.edu.tw/p/406-1220-305644,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -15671,7 +15136,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-21",
+"v": 2
 },
 "https://iim.ncku.edu.tw/p/406-1138-307072,r2133.php?Lang=zh-tw": {
 "lecture": false
@@ -15701,7 +15168,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-05",
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-272519,r1785.php?Lang=zh-tw": {
 "lecture": false
@@ -15737,7 +15206,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-10",
+"v": 2
 },
 "https://iim.ncku.edu.tw/p/406-1138-307067,r2133.php?Lang=zh-tw": {
 "lecture": false
@@ -15764,7 +15235,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-05",
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-301628,r1785.php?Lang=zh-tw": {
 "lecture": false
@@ -15828,33 +15301,6 @@
 "https://eng.ncku.edu.tw/p/406-1014-296231,r1785.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://science.ncku.edu.tw/p/406-1016-295271,r2342.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "理學院",
-"url": "https://science.ncku.edu.tw/p/406-1016-295271,r2342.php?Lang=zh-tw",
-"title": "【理學論壇暨化學系專題演講】薛雁冰所長-食肉性真菌：線蟲捕食的機制與演化 (4/28 15:20-17:00)",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-04-28",
-"start": [
-15,
-20
-],
-"end": [
-17,
-0
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…講地點】理學教學大樓36102室 【報名資訊】 請於4月24日(五)前至ht…"
-],
-"found": "2026-11-03"
-},
 "https://ba.ncku.edu.tw/p/406-1177-231197,r2801.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -15869,32 +15315,6 @@
 },
 "https://eng.ncku.edu.tw/p/406-1014-296048,r1785.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://science.ncku.edu.tw/p/406-1016-290554,r2342.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "理學院",
-"url": "https://science.ncku.edu.tw/p/406-1016-290554,r2342.php?Lang=zh-tw",
-"title": "【理學論壇】Dr. Elizabeth Rampe -火星礦物鑑別與詮釋：方法、分析與地質歷史(12/11 15:20-17:00)",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-12-11",
-"start": [
-15,
-20
-],
-"end": [
-17,
-0
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…講地點】理學教學大樓36102室 【報名資訊】 請於12月11日(四)中午1…"
-],
-"found": "2026-11-03"
 },
 "https://iim.ncku.edu.tw/p/406-1138-264850,r2133.php?Lang=zh-tw": {
 "lecture": false
@@ -15966,33 +15386,6 @@
 "https://dps.ncku.edu.tw/p/406-1174-278851,r3693.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://science.ncku.edu.tw/p/406-1016-287079,r2342.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "理學院",
-"url": "https://science.ncku.edu.tw/p/406-1016-287079,r2342.php?Lang=zh-tw",
-"title": "【理學論壇】柯約瑟總裁-人生與事業(10/9 15:30-17:00)",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-10-09",
-"start": [
-15,
-30
-],
-"end": [
-17,
-0
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…學教學大樓(化學館)36202室 【報名資訊】 請於10月8日(三)中午前至…"
-],
-"found": "2026-11-03"
-},
 "https://eng.ncku.edu.tw/p/406-1014-291822,r1785.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -16056,33 +15449,6 @@
 "https://ba.ncku.edu.tw/p/406-1177-256639,r2803.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://science.ncku.edu.tw/p/406-1016-281082,r2342.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "理學院",
-"url": "https://science.ncku.edu.tw/p/406-1016-281082,r2342.php?Lang=zh-tw",
-"title": "【理學論壇暨光電系專題演講】王康隆院士-從真空管到半導體到拓樸絕緣體-從我的學習歷程看產業變革與機會(4/22 14:30-15:30)",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-04-22",
-"start": [
-14,
-30
-],
-"end": [
-15,
-30
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…光電系綜合大樓4F-48424室 【報名資訊】 請於4月21日(一)前至ht…"
-],
-"found": "2026-11-03"
-},
 "https://emba.ncku.edu.tw/": {
 "lecture": false
 },
@@ -16098,32 +15464,6 @@
 "https://che.ncku.edu.tw/p/406-1220-285871,r3907.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://science.ncku.edu.tw/p/406-1016-280919,r2342.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "理學院",
-"url": "https://science.ncku.edu.tw/p/406-1016-280919,r2342.php?Lang=zh-tw",
-"title": "【理學論壇暨化學系專題演講】教育部林伯樵主任秘書-環境敏感螢光分子DQI之開發及其應用 (4/18 15:20-17:00)",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-04-18",
-"start": [
-15,
-20
-],
-"end": [
-17,
-0
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…36202室(理學教學大樓2樓) 【報名資訊】請於4月17日(四) 17:0…"
-],
-"found": "2026-11-03"
-},
 "https://eng.ncku.edu.tw/p/406-1014-289181,r1785.php?Lang=zh-tw": {
 "lecture": false,
 "reason": "no date"
@@ -16135,28 +15475,8 @@
 "lecture": false
 },
 "https://science.ncku.edu.tw/p/406-1016-280504,r2342.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "理學院",
-"url": "https://science.ncku.edu.tw/p/406-1016-280504,r2342.php?Lang=zh-tw",
-"title": "【理學論壇暨數學系專題演講】Prof. Moody T. Chu - 從微積分看人生三觀 (4/9 14:10-16:00)",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-04-09",
-"start": [
-14,
-10
-],
-"end": [
-16,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://civil.ncku.edu.tw/p/406-1232-307044,r4074.php?Lang=zh-tw": {
 "lecture": false
@@ -16287,7 +15607,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-10",
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-281680,r1785.php?Lang=zh-tw": {
 "lecture": false
@@ -16326,7 +15648,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-08-25",
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-274948,r1785.php?Lang=zh-tw": {
 "lecture": false
@@ -16868,7 +16192,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-11-03",
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-253996,r1785.php?Lang=zh-tw": {
 "lecture": false,
@@ -17056,31 +16382,8 @@
 "lecture": false
 },
 "https://geomatics.ncku.edu.tw/p/406-1225-304428,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "測量及空間資訊學系",
-"url": "https://geomatics.ncku.edu.tw/p/406-1225-304428,r11.php?Lang=zh-tw",
-"title": "【生涯組-新生專屬】新生職涯探索工作坊",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": "· 9月08日（星期二）18:00-20:00： 【新生專屬】新生職涯探索工作坊:認識自我 (點擊報名)",
-"date": "2026-09-08",
-"start": [
-18,
-0
-],
-"end": [
-20,
-0
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…新生職涯探索工作坊:認識自我 (點擊報名) · 9月29日（星期二）18:0…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://mse.ncku.edu.tw/p/406-1234-306734,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -17146,21 +16449,7 @@
 "lecture": false
 },
 "https://civil.ncku.edu.tw/p/406-1232-296515,r4076.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "土木工程學系",
-"url": "https://civil.ncku.edu.tw/p/406-1232-296515,r4076.php?Lang=zh-tw",
-"title": "賀!!朱世禹教授、方中教授共同指導EQ_LAB研究室學生榮獲「台積電 IMC 主辦 2026 智慧製造工作坊」競賽第1",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-03-28",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
+"lecture": false,
 "found": "2026-11-03"
 },
 "https://bme.ncku.edu.tw/p/406-1101-271433,r3740.php?Lang=zh-tw": {
@@ -17190,7 +16479,9 @@
 "notes": [
 "報名：…工/物理等相關理工科系學生參加 • 報名連結：【Lam Research 美商科…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-07",
+"v": 2
 },
 "https://iaa.ncku.edu.tw/p/406-1104-299017,r2158.php?Lang=zh-tw": {
 "lecture": false
@@ -17269,28 +16560,8 @@
 "lecture": false
 },
 "https://mse.ncku.edu.tw/p/406-1234-306173,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "材料科學及工程學系",
-"url": "https://mse.ncku.edu.tw/p/406-1234-306173,r11.php?Lang=zh-tw",
-"title": "115學年材料所-第五週 專題研討課程 演講公告 (115年10月8日)",
-"topic": "Advanced Small-Scale Mechanical Testing for Material Research",
-"speaker": "李伯軒",
-"place": "成功大學成功校區三系館 鋼構區(3F)共同教室A1302演講廳",
-"time_raw": "115年10月08日(四) 下午15:20~17:10",
-"date": "2026-10-08",
-"start": [
-15,
-20
-],
-"end": [
-17,
-10
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://iaa.ncku.edu.tw/p/406-1104-293344,r2158.php?Lang=zh-tw": {
 "lecture": false
@@ -17442,7 +16713,9 @@
 "notes": [
 "報名：…12:10 綜合交流時間（Q&A） 報名網頁：https://forms.g…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-05",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-305871,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -17472,28 +16745,8 @@
 "lecture": false
 },
 "https://mse.ncku.edu.tw/p/406-1234-305807,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "材料科學及工程學系",
-"url": "https://mse.ncku.edu.tw/p/406-1234-305807,r11.php?Lang=zh-tw",
-"title": "115學年材料所-第四週 專題研討課程 演講公告 (115年10月1日)",
-"topic": "可注射性組織粘合劑用於半月板修復與再生",
-"speaker": "翁培鈞",
-"place": "成功大學成功校區三系館 鋼構區(3F)共同教室A1302演講廳",
-"time_raw": "115年10月01日(四) 下午15:20~17:00",
-"date": "2026-10-01",
-"start": [
-15,
-20
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://eecs.ncku.edu.tw/p/406-1020-307333,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -17780,7 +17033,9 @@
 "notes": [
 "報名：…新生職涯探索工作坊:認識自我 (點擊報名) · 9月29日（星期二）18:0…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://imis.ncku.edu.tw/p/406-1156-295616,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -17948,7 +17203,9 @@
 "notes": [
 "報名：…二屆大南方空間規劃治理法制論壇，歡迎報名參加！ 主題：2026 大南方空間規…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ibdpe.ncku.edu.tw/p/406-1103-273426,r2732.php?Lang=zh-tw": {
 "lecture": false
@@ -18005,7 +17262,9 @@
 "notes": [
 "報名：…59前完成報名，以利餐點統計。 👉 報名連結：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://eecs.ncku.edu.tw/p/403-1020-2501-1.php?Lang=zh-tw": {
 "lecture": false
@@ -18060,32 +17319,6 @@
 },
 "https://geomatics.ncku.edu.tw/p/406-1225-293091,r3946.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://css.ncku.edu.tw/p/406-1227-294073,r3973.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "社會科學院",
-"url": "https://css.ncku.edu.tw/p/406-1227-294073,r3973.php?Lang=zh-tw",
-"title": "【公告】115性別論壇 2026 Gender Forum系列活動開跑！誠摯邀請您參與",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-03-12",
-"start": [
-18,
-30
-],
-"end": [
-20,
-30
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…因座位有限，請至成大活動資訊系統事先報名：https://activity.…"
-],
-"found": "2026-11-03"
 },
 "https://imis.ncku.edu.tw/p/406-1156-291769,r2186.php?Lang=zh-tw": {
 "lecture": false
@@ -18466,7 +17699,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ibdpe.ncku.edu.tw/p/406-1103-254189,r2737.php?Lang=zh-tw": {
 "lecture": false
@@ -18507,7 +17742,9 @@
 "notes": [
 "報名：…al Symposium 2026 報名連結｜Registration http…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ide.ncku.edu.tw/p/406-1160-307193,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -18549,7 +17786,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://dbbs.ncku.edu.tw/p/406-1153-307317,r1757.php?Lang=zh-tw": {
 "lecture": false
@@ -18572,7 +17811,9 @@
 "notes": [
 "報名：…域創新 X 國土空間規劃》講座，歡迎報名!!…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ide.ncku.edu.tw/p/406-1160-305961,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -18599,7 +17840,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://dbbs.ncku.edu.tw/p/406-1153-307316,r1757.php?Lang=zh-tw": {
 "lecture": false
@@ -18631,7 +17874,9 @@
 "notes": [
 "報名：…法律學系民事法研究中心 ▍活動官網／報名｜https://reurl.cc/…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ibdpe.ncku.edu.tw/p/406-1103-288240,r2733.php?Lang=zh-tw": {
 "lecture": false
@@ -18658,7 +17903,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://dbbs.ncku.edu.tw/p/406-1153-307246,r1757.php?Lang=zh-tw": {
 "lecture": false
@@ -18826,7 +18073,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ide.ncku.edu.tw/p/406-1160-305593,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -18909,7 +18158,9 @@
 "notes": [
 "報名：…重塑判斷力、創造力與責任感』 🔥 報名連結：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://dbbs.ncku.edu.tw/p/406-1153-302890,r1757.php?Lang=zh-tw": {
 "lecture": false
@@ -18975,7 +18226,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://dbbs.ncku.edu.tw/p/406-1153-297709,r1753.php?Lang=zh-tw": {
 "lecture": false
@@ -18997,33 +18250,6 @@
 },
 "https://ibdpe.ncku.edu.tw/p/406-1103-287657,r2734.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://psychology.ncku.edu.tw/p/406-1235-303414,r4189.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "心理學系",
-"url": "https://psychology.ncku.edu.tw/p/406-1235-303414,r4189.php?Lang=zh-tw",
-"title": "【重量級大師講座】2/10(二)10:00 國際知名心理學家-德國Prof. Gerd Gigerenzer主講《How to Stay Smart in a Smart World 》",
-"topic": null,
-"speaker": null,
-"place": "成功大學光復校區文學院學術演講廳(中文系館1樓)",
-"time_raw": "2/10 (二) 10:00~12:00",
-"date": "2027-02-10",
-"start": [
-10,
-0
-],
-"end": [
-12,
-0
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…區文學院學術演講廳(中文系館1樓) 報名：點此報名 直播連結： 直播連結…"
-],
-"found": "2026-11-03"
 },
 "https://cpd.ncku.edu.tw/p/406-1021-304963,r3277.php?Lang=zh-tw": {
 "lecture": false
@@ -19113,7 +18339,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://phys-med.ncku.edu.tw/p/412-1132-17841.php?Lang=zh-tw": {
 "lecture": false,
@@ -19222,7 +18450,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://cpd.ncku.edu.tw/p/406-1021-302358,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -19254,7 +18484,9 @@
 "notes": [
 "報名：…！ 📍 地點： 醫學院第一講堂 📝 報名連結： https://forms.gl…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-11-02",
+"v": 2
 },
 "https://ibdpe.ncku.edu.tw/p/406-1103-283868,r2734.php?Lang=zh-tw": {
 "lecture": false
@@ -19293,7 +18525,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ide.ncku.edu.tw/p/406-1160-298779,r2402.php?Lang=zh-tw": {
 "lecture": false
@@ -19370,7 +18604,9 @@
 "notes": [
 "報名：…域創新 X 國土空間規劃》講座，歡迎報名!!…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://pharma.ncku.edu.tw/p/406-1233-301378,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -19414,7 +18650,9 @@
 "notes": [
 "報名：…法律學系民事法研究中心 ▍活動官網／報名｜https://reurl.cc/…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://psychology.ncku.edu.tw/p/406-1235-303418,r4190.php?Lang=zh-tw": {
 "lecture": false
@@ -19450,7 +18688,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://hsm.ncku.edu.tw/p/406-1199-306948,r11.php?Lang=zh-tw": {
 "lecture": true,
@@ -19476,7 +18716,9 @@
 "notes": [
 "報名：…必經的細膩綿長與紋理皺摺之路。 歡迎報名：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-20",
+"v": 2
 },
 "https://dbbs.ncku.edu.tw/p/406-1153-301593,r3582.php?Lang=zh-tw": {
 "lecture": false
@@ -19521,7 +18763,9 @@
 "notes": [
 "報名：…重塑判斷力、創造力與責任感』 🔥 報名連結：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://itps.ncku.edu.tw/p/406-1148-288940,r2767.php?Lang=zh-tw": {
 "lecture": false
@@ -19596,7 +18840,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-23",
+"v": 2
 },
 "https://dbbs.ncku.edu.tw/p/406-1153-297668,r3582.php?Lang=zh-tw": {
 "lecture": false
@@ -19638,34 +18884,16 @@
 "notes": [
 "報名：…4:00 地點：醫學院四樓大會議室 報名連結：掃描 QR code…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-23",
+"v": 2
 },
 "https://ide.ncku.edu.tw/p/406-1160-301931,r2403.php?Lang=zh-tw": {
 "lecture": false
 },
 "https://medicine.ncku.edu.tw/p/406-1152-307096,r3225.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "醫學系",
-"url": "https://medicine.ncku.edu.tw/p/406-1152-307096,r3225.php?Lang=zh-tw",
-"title": "【轉知】2026AMEE系列課程分享會(4)",
-"topic": null,
-"speaker": "創意產業設計研究所 楊佳翰 教授",
-"place": "醫學院四樓大會議室",
-"time_raw": null,
-"date": "2026-11-18",
-"start": [
-8,
-0
-],
-"end": [
-9,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://dbbs.ncku.edu.tw/p/406-1153-297671,r3582.php?Lang=zh-tw": {
 "lecture": false
@@ -19717,29 +18945,6 @@
 },
 "https://pharma.ncku.edu.tw/p/406-1233-301382,r4087.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://hsm.ncku.edu.tw/p/406-1199-293799,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "人文暨社會醫學科",
-"url": "https://hsm.ncku.edu.tw/p/406-1199-293799,r11.php?Lang=zh-tw",
-"title": "【活動報名】3月12日18:30於醫學院第三講堂_115性別論壇(1)「人工生殖的改革之路：看見希望與風險」",
-"topic": null,
-"speaker": "吳嘉苓",
-"place": null,
-"time_raw": null,
-"date": "2027-03-12",
-"start": [
-18,
-30
-],
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…領域：社會科學、生命科學與健康 活動報名網址 https://activity.…"
-],
-"found": "2026-11-03"
 },
 "https://itps.ncku.edu.tw/p/406-1148-254654,r2767.php?Lang=zh-tw": {
 "lecture": false
@@ -19804,7 +19009,9 @@
 "notes": [
 "報名：…必經的細膩綿長與紋理皺摺之路。 歡迎報名：https://forms.gle…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-20",
+"v": 2
 },
 "https://medicine.ncku.edu.tw/p/406-1152-305766,r3229.php?Lang=zh-tw": {
 "lecture": false
@@ -19856,7 +19063,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-23",
+"v": 2
 },
 "https://deoh.ncku.edu.tw/p/406-1122-279590,r3412.php?Lang=zh-tw": {
 "lecture": false
@@ -19889,7 +19098,9 @@
 "notes": [
 "報名：…4:00 地點：醫學院四樓大會議室 報名連結：掃描 QR code…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-23",
+"v": 2
 },
 "https://ortho-med.ncku.edu.tw/p/406-1127-237792,r2572.php?Lang=zh-tw": {
 "lecture": false
@@ -19921,29 +19132,6 @@
 "https://dbbs.ncku.edu.tw/p/406-1153-173511,r2329.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://hsm.ncku.edu.tw/p/406-1199-293799,r4239.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "人文暨社會醫學科",
-"url": "https://hsm.ncku.edu.tw/p/406-1199-293799,r4239.php?Lang=zh-tw",
-"title": "【活動報名】3月12日18:30於醫學院第三講堂_115性別論壇(1)「人工生殖的改革之路：看見希望與風險」",
-"topic": null,
-"speaker": "吳嘉苓",
-"place": null,
-"time_raw": null,
-"date": "2027-03-12",
-"start": [
-18,
-30
-],
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…領域：社會科學、生命科學與健康 活動報名網址 https://activity.…"
-],
-"found": "2026-11-03"
-},
 "https://doem-med.ncku.edu.tw/": {
 "lecture": false
 },
@@ -19965,7 +19153,9 @@
 "notes": [
 "報名：…5 點 地點：國際會議廳第一演講室 報名連結：請至 成大活動資訊系統線上報名頁面…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://psychology.ncku.edu.tw/p/406-1235-303071,r4191.php?Lang=zh-tw": {
 "lecture": false
@@ -20234,7 +19424,9 @@
 "notes": [
 "報名：…幣 5,000 元 (完課後返還) 報名截止日：2026 年 5 月 12 日（…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-288513,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -20414,7 +19606,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-13",
+"v": 2
 },
 "https://ibms.ncku.edu.tw/p/406-1196-296545,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -20441,7 +19635,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-262963,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -20486,7 +19682,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-13",
+"v": 2
 },
 "https://nursing.ncku.edu.tw/p/406-1106-305714,r988.php?Lang=zh-tw": {
 "lecture": false
@@ -20597,7 +19795,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-21",
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-304106,r1793.php?Lang=zh-tw": {
 "lecture": false
@@ -20636,7 +19836,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ibms.ncku.edu.tw/p/406-1196-273689,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -20850,7 +20052,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://pt.ncku.edu.tw/p/406-1178-302222,r2872.php?Lang=zh-tw": {
 "lecture": false
@@ -20878,30 +20082,6 @@
 },
 "https://ahs.ncku.edu.tw/p/406-1129-293700,r1793.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://ibms.ncku.edu.tw/p/406-1196-294470,r3185.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "基礎醫學研究所",
-"url": "https://ibms.ncku.edu.tw/p/406-1196-294470,r3185.php?Lang=zh-tw",
-"title": "【討論會 Faculty Seminar】114-2 教師研究討論會 Faculty Seminar on Friday, 2026 Spring semester",
-"topic": null,
-"speaker": null,
-"place": "4F, Conferenc Room (Large)",
-"time_raw": "8:00-9:00 AM, Friday",
-"date": "2027-04-10",
-"start": [
-8,
-0
-],
-"end": [
-9,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
 },
 "https://ot.ncku.edu.tw/p/406-1115-242621,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -20944,30 +20124,6 @@
 },
 "https://pt.ncku.edu.tw/p/406-1178-298784,r2872.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://ibms.ncku.edu.tw/p/406-1196-287157,r3185.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "基礎醫學研究所",
-"url": "https://ibms.ncku.edu.tw/p/406-1196-287157,r3185.php?Lang=zh-tw",
-"title": "【討論會 Faculty Seminar】114-1 教師研究討論會 Faculty Seminar on Friday, 2025 Fall semester",
-"topic": null,
-"speaker": null,
-"place": "4F, Conferenc Room (Large)",
-"time_raw": "8:00-9:00 AM, Friday",
-"date": "2026-10-17",
-"start": [
-8,
-0
-],
-"end": [
-9,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
 },
 "https://medicine.ncku.edu.tw/p/406-1152-307074,r3728.php?Lang=zh-tw": {
 "lecture": false
@@ -21016,30 +20172,6 @@
 },
 "https://ahs.ncku.edu.tw/p/406-1129-291847,r1793.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://ibms.ncku.edu.tw/p/406-1196-279177,r3185.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "基礎醫學研究所",
-"url": "https://ibms.ncku.edu.tw/p/406-1196-279177,r3185.php?Lang=zh-tw",
-"title": "【討論會 Faculty Seminar】113-2 教師研究討論會 Faculty Seminar on Friday, 2025 Spring semester",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": "8:00-9:00 AM, Friday / Place: 4F, Conferenc Room (I)",
-"date": "2027-03-21",
-"start": [
-8,
-0
-],
-"end": [
-9,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
 },
 "https://pt.ncku.edu.tw/p/406-1178-297269,r2872.php?Lang=zh-tw": {
 "lecture": false
@@ -21135,7 +20267,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-210468,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -21174,7 +20308,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-22",
+"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-210355,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -21221,7 +20357,9 @@
 "notes": [
 "報名：…月6日（星期一）中午12:00 開放報名 由於工作坊採小班實作教學，名額有限…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-07-03",
+"v": 2
 },
 "https://imm-med.ncku.edu.tw/p/406-1173-290006,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -21261,30 +20399,6 @@
 },
 "https://ahs.ncku.edu.tw/p/406-1129-277154,r1793.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://ibms.ncku.edu.tw/p/406-1196-264592,r3185.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "基礎醫學研究所",
-"url": "https://ibms.ncku.edu.tw/p/406-1196-264592,r3185.php?Lang=zh-tw",
-"title": "【討論會 Faculty Seminar】112-2 教師研究討論會 Faculty Seminar on Friday, 2024 Spring",
-"topic": null,
-"speaker": null,
-"place": "4F, Conferenc Room (Large)",
-"time_raw": "8:00-9:00 AM, Friday",
-"date": "2027-04-12",
-"start": [
-8,
-0
-],
-"end": [
-9,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
 },
 "https://computing.ncku.edu.tw/p/406-1138-217483,r302.php?Lang=zh-tw": {
 "lecture": false
@@ -21397,7 +20511,9 @@
 "notes": [
 "報名：…講座 X 通識教育中心AI系列講座 報名連結 | 通識教育中心AI系列講座…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-15",
+"v": 2
 },
 "https://pt.ncku.edu.tw/p/406-1178-293438,r2866.php?Lang=zh-tw": {
 "lecture": false
@@ -21445,7 +20561,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-22",
+"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-279937,r3109.php?Lang=zh-tw": {
 "lecture": false
@@ -21490,7 +20608,9 @@
 "notes": [
 "報名：…精彩講座都不容錯過！歡迎全校師生踴躍報名參加！ 演講主題：A Few Les…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-08-11",
+"v": 2
 },
 "https://pt.ncku.edu.tw/p/406-1178-288672,r2866.php?Lang=zh-tw": {
 "lecture": false
@@ -21534,7 +20654,9 @@
 "notes": [
 "報名：…202教室 活動主講：研華科技 活動報名：https://activity.…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-08-04",
+"v": 2
 },
 "https://cge.ncku.edu.tw/p/406-1007-304694,r3941.php?Lang=zh-tw": {
 "lecture": false
@@ -21576,7 +20698,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://computing.ncku.edu.tw/p/406-1138-218920,r268.php?Lang=zh-tw": {
 "lecture": false,
@@ -21722,33 +20846,6 @@
 },
 "https://ibms.ncku.edu.tw/p/406-1196-289401,r3189.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://computing.ncku.edu.tw/p/406-1138-217667,r268.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "敏求智慧運算學院",
-"url": "https://computing.ncku.edu.tw/p/406-1138-217667,r268.php?Lang=zh-tw",
-"title": "【演講公告】1/16國際學者跨域講座-What Do Autonomous Robots Do When Nobody’s Looking?",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-01-16",
-"start": [
-13,
-30
-],
-"end": [
-14,
-20
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…（捷克布爾諾理工大學 副教授） 講座報名Sign-up Link｜https…"
-],
-"found": "2026-11-03"
 },
 "https://ot.ncku.edu.tw/p/406-1115-298282,r3107.php?Lang=zh-tw": {
 "lecture": false
@@ -21948,58 +21045,12 @@
 "https://pt.ncku.edu.tw/p/406-1178-294808,r2868.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://medicine.ncku.edu.tw/p/406-1152-276185,r3793.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "醫學系",
-"url": "https://medicine.ncku.edu.tw/p/406-1152-276185,r3793.php?Lang=zh-tw",
-"title": "【轉知】旅外研究經驗分享: 跨越國界的研究探索之旅 (英文講座)",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-12-10",
-"start": [
-12,
-0
-],
-"end": [
-14,
-0
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…復校區學生活動中心B1) 揪好友一起報名去 Sign-up Now 👉 ht…"
-],
-"found": "2026-11-03"
-},
 "https://ibms.ncku.edu.tw/p/406-1196-267482,r3188.php?Lang=zh-tw": {
 "lecture": false
 },
 "https://ahs.ncku.edu.tw/p/406-1129-249238,r1793.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-249238,r1793.php?Lang=zh-tw",
-"title": "【演講】醫學院40週年院慶活動暨健照所20週年所慶活動: 2/24、3/10 健康照護的跨域研究",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": "Fri, February 24th",
-"date": "2027-02-24",
-"start": [
-20,
-0
-],
-"end": [
-21,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ot.ncku.edu.tw/p/406-1115-214808,r3110.php?Lang=zh-tw": {
 "lecture": false
@@ -22038,7 +21089,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-248393,r1793.php?Lang=zh-tw": {
 "lecture": false
@@ -22149,7 +21202,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-13",
+"v": 2
 },
 "https://ibms.ncku.edu.tw/p/406-1196-230447,r3188.php?Lang=zh-tw": {
 "lecture": false
@@ -22158,28 +21213,8 @@
 "lecture": false
 },
 "https://ahs.ncku.edu.tw/p/406-1129-236666,r1793.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-236666,r1793.php?Lang=zh-tw",
-"title": "【演講】4/22，6/7 國際跨域研究學者演講",
-"topic": "Update on COPD disease impact and activity impairment",
-"speaker": "Frank C. Sciurba | 美國匹茲堡大學醫學院 教授",
-"place": null,
-"time_raw": null,
-"date": "2027-04-22",
-"start": [
-20,
-30
-],
-"end": [
-21,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://pt.ncku.edu.tw/p/406-1178-306483,r2869.php?Lang=zh-tw": {
 "lecture": true,
@@ -22203,7 +21238,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-10-13",
+"v": 2
 },
 "https://ibms.ncku.edu.tw/p/406-1196-225742,r3188.php?Lang=zh-tw": {
 "lecture": false
@@ -22236,7 +21273,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-21",
+"v": 2
 },
 "https://ibms.ncku.edu.tw/p/406-1196-232492,r3206.php?Lang=zh-tw": {
 "lecture": false
@@ -22272,7 +21311,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-09-14",
+"v": 2
 },
 "https://computing.ncku.edu.tw/p/406-1138-216419,r269.php?Lang=zh-tw": {
 "lecture": false
@@ -22322,7 +21363,9 @@
 "notes": [
 "報名：…名流程與課程資訊，請參考各課程簡章或報名網址。 \\…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2026-06-29",
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-232215,r1793.php?Lang=zh-tw": {
 "lecture": false
@@ -22361,30 +21404,8 @@
 "lecture": false
 },
 "https://ahs.ncku.edu.tw/p/406-1129-230347,r1793.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-230347,r1793.php?Lang=zh-tw",
-"title": "【演講】20211204 AI x 人本 x 健康：數位學習的跨域觀點",
-"topic": null,
-"speaker": null,
-"place": "國立成功大學力行校區社會科學院北棟2樓D801教室",
-"time_raw": null,
-"date": "2026-12-04",
-"start": [
-8,
-30
-],
-"end": [
-9,
-0
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…~ 12:30 pm 問題與討論 報名連結（11/25(五)截止）：https…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://pt.ncku.edu.tw/p/406-1178-293438,r2869.php?Lang=zh-tw": {
 "lecture": false
@@ -22396,28 +21417,8 @@
 "lecture": false
 },
 "https://ahs.ncku.edu.tw/p/406-1129-229323,r1793.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-229323,r1793.php?Lang=zh-tw",
-"title": "【近期演講】2021/11/02,12/17 健康照護的跨域研究",
-"topic": "健康照護科學的系統性文獻回顧",
-"speaker": "Prof. Amir H. Pakpour（瑞典 延雪平大學 護理系 臨床科學教授）",
-"place": null,
-"time_raw": "11/2 (二) 17:00 ~ 19:00 (Taiwan local time)（英文演說）",
-"date": "2026-11-02",
-"start": [
-17,
-0
-],
-"end": [
-19,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ahs.ncku.edu.tw/p/406-1129-226841,r1793.php?Lang=zh-tw": {
 "lecture": false
@@ -22435,28 +21436,8 @@
 "lecture": false
 },
 "https://ahs.ncku.edu.tw/p/406-1129-223555,r1793.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-223555,r1793.php?Lang=zh-tw",
-"title": "【近期演講】2021/07/16,20 健康照護的跨域研究",
-"topic": "確認和修正步態特點以促進健康",
-"speaker": "張子熙教授（澳洲西雪梨大學 物理治療學科主任）",
-"place": null,
-"time_raw": "7/16 (五) 10:30 am ~ 12:00 pm",
-"date": "2026-07-16",
-"start": [
-10,
-30
-],
-"end": [
-12,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ahs.ncku.edu.tw/p/406-1129-223456,r1793.php?Lang=zh-tw": {
 "lecture": false
@@ -22504,7 +21485,9 @@
 "開放"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2020-10-27",
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-296560,r3754.php?Lang=zh-tw": {
 "lecture": false
@@ -22982,21 +21965,7 @@
 "lecture": false
 },
 "https://eng.ncku.edu.tw/p/406-1014-160073,r1785.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "工學院",
-"url": "https://eng.ncku.edu.tw/p/406-1014-160073,r1785.php?Lang=zh-tw",
-"title": "李國鼎科技與人文講座10日頒獎 表彰對科技、人文貢獻卓越學者。恭賀機械系林大惠教授獲得李國鼎榮譽學者獎。",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-11-10",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
+"lecture": false,
 "found": "2026-11-03"
 },
 "https://eng.ncku.edu.tw/p/406-1014-160076,r1785.php?Lang=zh-tw": {
@@ -23132,7 +22101,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-235953,r3108.php?Lang=zh-tw": {
 "lecture": false
@@ -23189,7 +22160,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-227592,r3108.php?Lang=zh-tw": {
 "lecture": false
@@ -23219,7 +22192,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-224236,r3108.php?Lang=zh-tw": {
 "lecture": false
@@ -23251,7 +22226,9 @@
 "notes": [
 "報名：…意溝通及催眠等相關訓練與講師經歷。 報名方式 請填寫活動報名表。報名資料經審核後…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-216070,r1793.php?Lang=zh-tw": {
 "lecture": false
@@ -23281,7 +22258,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-210469,r3108.php?Lang=zh-tw": {
 "lecture": false
@@ -23401,7 +22380,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-305140,r2310.php?Lang=zh-tw": {
 "lecture": true,
@@ -23419,7 +22400,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-304106,r2310.php?Lang=zh-tw": {
 "lecture": false
@@ -23476,126 +22459,24 @@
 "lecture": false
 },
 "https://ahs.ncku.edu.tw/p/406-1129-249238,r2310.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-249238,r2310.php?Lang=zh-tw",
-"title": "【演講】醫學院40週年院慶活動暨健照所20週年所慶活動: 2/24、3/10 健康照護的跨域研究",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": "Fri, February 24th",
-"date": "2027-02-24",
-"start": [
-20,
-0
-],
-"end": [
-21,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ahs.ncku.edu.tw/p/406-1129-236666,r2310.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-236666,r2310.php?Lang=zh-tw",
-"title": "【演講】4/22，6/7 國際跨域研究學者演講",
-"topic": "Update on COPD disease impact and activity impairment",
-"speaker": "Frank C. Sciurba | 美國匹茲堡大學醫學院 教授",
-"place": null,
-"time_raw": null,
-"date": "2027-04-22",
-"start": [
-20,
-30
-],
-"end": [
-21,
-30
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ahs.ncku.edu.tw/p/406-1129-230347,r2310.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-230347,r2310.php?Lang=zh-tw",
-"title": "【演講】20211204 AI x 人本 x 健康：數位學習的跨域觀點",
-"topic": null,
-"speaker": null,
-"place": "國立成功大學力行校區社會科學院北棟2樓D801教室",
-"time_raw": null,
-"date": "2026-12-04",
-"start": [
-8,
-30
-],
-"end": [
-9,
-0
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…~ 12:30 pm 問題與討論 報名連結（11/25(五)截止）：https…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ahs.ncku.edu.tw/p/406-1129-229323,r2310.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-229323,r2310.php?Lang=zh-tw",
-"title": "【近期演講】2021/11/02,12/17 健康照護的跨域研究",
-"topic": "健康照護科學的系統性文獻回顧",
-"speaker": "Prof. Amir H. Pakpour（瑞典 延雪平大學 護理系 臨床科學教授）",
-"place": null,
-"time_raw": "11/2 (二) 17:00 ~ 19:00 (Taiwan local time)（英文演說）",
-"date": "2026-11-02",
-"start": [
-17,
-0
-],
-"end": [
-19,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ahs.ncku.edu.tw/p/406-1129-223555,r2310.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-223555,r2310.php?Lang=zh-tw",
-"title": "【近期演講】2021/07/16,20 健康照護的跨域研究",
-"topic": "確認和修正步態特點以促進健康",
-"speaker": "張子熙教授（澳洲西雪梨大學 物理治療學科主任）",
-"place": null,
-"time_raw": "7/16 (五) 10:30 am ~ 12:00 pm",
-"date": "2026-07-16",
-"start": [
-10,
-30
-],
-"end": [
-12,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://ahs.ncku.edu.tw/p/406-1129-218848,r2310.php?Lang=zh-tw": {
 "lecture": false,
@@ -23631,7 +22512,9 @@
 "notes": [
 "報名：…會議廳 (國立成功大學成功校區) 【報名網址】https://activity.…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-301721,r1877.php?Lang=zh-tw": {
 "lecture": true,
@@ -23655,7 +22538,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-301570,r1877.php?Lang=zh-tw": {
 "lecture": true,
@@ -23681,7 +22566,9 @@
 "notes": [
 "報名：…美國麻省理工學院 電機系助理教授 報名網頁…"
 ],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://eng.ncku.edu.tw/p/406-1014-291459,r3617.php?Lang=zh-tw": {
 "lecture": false,
@@ -23749,7 +22636,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2019-03-29",
+"v": 2
 },
 "https://up.ncku.edu.tw/2014icities/": {
 "lecture": false
@@ -23773,24 +22662,8 @@
 "lecture": false
 },
 "https://ahs.ncku.edu.tw/p/406-1129-182689,r2310.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "健康照護科學研究所",
-"url": "https://ahs.ncku.edu.tw/p/406-1129-182689,r2310.php?Lang=zh-tw",
-"title": "台灣健康促進科技協會 健康促進科技教育課程系列- 【足部功能評估與快速客製化足矯具製作工作坊】",
-"topic": null,
-"speaker": null,
-"place": "中國醫藥大學物理治療系 物理治療實習教室",
-"time_raw": null,
-"date": "2026-08-25",
-"start": null,
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…頁：tahpt.oemal.tw 【報名網址】 https://goo.gl/f…"
-],
-"found": "2026-11-03"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.up.ncku.edu.tw/%e5%ad%b8%e7%a0%94%e6%88%90%e6%9e%9c/%e7%9b%b8%e9%97%9c%e6%b4%bb%e5%8b%95%e7%b4%80%e9%8c%84/%e5%85%b6%e4%bb%96%e6%b4%bb%e5%8b%95/": {
 "lecture": false
@@ -23817,7 +22690,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": "2019-05-08",
+"v": 2
 },
 "https://www.up.ncku.edu.tw/2019expo/": {
 "lecture": false
@@ -23895,7 +22770,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-305140,r2320.php?Lang=zh-tw": {
 "lecture": true,
@@ -23913,7 +22790,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-03"
+"found": "2026-11-03",
+"pub": null,
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-304106,r2320.php?Lang=zh-tw": {
 "lecture": false
@@ -24107,7 +22986,9 @@
 "notes": [
 "報名：…A，並提供當日下午個別諮詢時段（請於報名表單勾選） 報名方式： 請填寫報名表單（…"
 ],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": null,
+"v": 2
 },
 "https://iim.ncku.edu.tw/p/406-1138-295048,r2131.php?Lang=zh-tw": {
 "lecture": true,
@@ -24133,7 +23014,9 @@
 "notes": [
 "報名：…A，並提供當日下午個別諮詢時段（請於報名表單勾選） 報名方式： 請填寫報名表單（…"
 ],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": null,
+"v": 2
 },
 "https://iim.ncku.edu.tw/p/405-1138-295048,c19379.php?Lang=zh-tw": {
 "lecture": false
@@ -24307,7 +23190,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-09-30",
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-236652,r1771.php?Lang=zh-tw": {
 "lecture": false
@@ -24348,7 +23233,9 @@
 "notes": [
 "報名：…理方式：實體會議與線上直播同步辦理 報名連結：https://forms.gle…"
 ],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-09-11",
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-232006,r1771.php?Lang=zh-tw": {
 "lecture": false
@@ -24384,7 +23271,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-09-10",
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-222682,r1771.php?Lang=zh-tw": {
 "lecture": false
@@ -24414,7 +23303,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-09-05",
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-216070,r1771.php?Lang=zh-tw": {
 "lecture": false
@@ -24443,7 +23334,9 @@
 "notes": [
 "報名：…式：實體會議與線上直播同步辦理 ◆ 報名連結：https://reurl.cc/…"
 ],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-09-03",
+"v": 2
 },
 "https://www.up.ncku.edu.tw/115-09-03-02/": {
 "lecture": false
@@ -24494,7 +23387,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-07-15",
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-163732,r1771.php?Lang=zh-tw": {
 "lecture": false
@@ -24523,7 +23418,9 @@
 "notes": [
 "報名：…功大學都市計劃學系2樓PIC教室 ◆報名連結：https://reurl.cc/…"
 ],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-07-09",
+"v": 2
 },
 "https://www.up.ncku.edu.tw/115-06-18-01/": {
 "lecture": false
@@ -24562,7 +23459,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-11-04",
+"v": 2
 },
 "https://chinese.ncku.edu.tw/p/406-1142-307621,r2076.php?Lang=zh-tw": {
 "lecture": false
@@ -24589,7 +23488,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-11-04",
+"v": 2
 },
 "https://chinese.ncku.edu.tw/p/405-1142-307621,c10333.php?Lang=zh-tw": {
 "lecture": false
@@ -24651,7 +23552,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-11-04",
+"v": 2
 },
 "https://geomatics.ncku.edu.tw/p/406-1225-307598,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -24734,7 +23637,9 @@
 "notes": [
 "報名：…安排 費用：新臺幣 6,000元 【報名方式】 截止期限：即日起至2026年12…"
 ],
-"found": "2026-11-04"
+"found": "2026-11-04",
+"pub": "2026-11-04",
+"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-162386,r1771.php?Lang=zh-tw": {
 "lecture": false
@@ -24806,55 +23711,15 @@
 "lecture": false
 },
 "https://ba.ncku.edu.tw/p/406-1177-307648,r2800.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "企業管理學系",
-"url": "https://ba.ncku.edu.tw/p/406-1177-307648,r2800.php?Lang=zh-tw",
-"title": "演講主題：讓AI從聊天對象變成工作夥伴 \u000b演講者：湯鈞雅 曾任：焊碼科技有限公司、好想工作室  演講日期：2026-11-06 9:00-13:00  演講地點：62210教室",
-"topic": "讓AI從聊天對象變成工作夥伴",
-"speaker": "湯鈞雅 曾任：焊碼科技有限公司、好想工作室",
-"place": "62210教室",
-"time_raw": null,
-"date": "2026-11-06",
-"start": [
-9,
-0
-],
-"end": [
-13,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-05"
+"lecture": false,
+"reason": "stale"
 },
 "https://ba.ncku.edu.tw/p/406-1177-302765,r2800.php?Lang=zh-tw": {
 "lecture": false
 },
 "https://ba.ncku.edu.tw/p/406-1177-307648,r2798.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "企業管理學系",
-"url": "https://ba.ncku.edu.tw/p/406-1177-307648,r2798.php?Lang=zh-tw",
-"title": "演講主題：讓AI從聊天對象變成工作夥伴 \u000b演講者：湯鈞雅 曾任：焊碼科技有限公司、好想工作室  演講日期：2026-11-06 9:00-13:00  演講地點：62210教室",
-"topic": "讓AI從聊天對象變成工作夥伴",
-"speaker": "湯鈞雅 曾任：焊碼科技有限公司、好想工作室",
-"place": "62210教室",
-"time_raw": null,
-"date": "2026-11-06",
-"start": [
-9,
-0
-],
-"end": [
-13,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-05"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.phys.ncku.edu.tw/colloquia-detail/967/": {
 "lecture": true,
@@ -24875,7 +23740,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": null,
+"v": 2
 },
 "https://civil.ncku.edu.tw/p/406-1232-307640,r4071.php?Lang=zh-tw": {
 "lecture": false
@@ -24904,7 +23771,9 @@
 "notes": [
 "報名：…大學自強校區電機系館 1樓繁城講堂 報名方式：事前報名已截止，開放部分現場報名名…"
 ],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-307642,r4099.php?Lang=zh-tw": {
 "lecture": true,
@@ -24915,14 +23784,16 @@
 "speaker": null,
 "place": null,
 "time_raw": null,
-"date": "2026-11-04",
+"date": "2026-11-05",
 "start": null,
 "end": null,
 "tags": [
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://www.csie.ncku.edu.tw/zh-hant/news/13617": {
 "lecture": false
@@ -24954,7 +23825,9 @@
 "notes": [
 "報名：…大學自強校區電機系館 1樓繁城講堂 報名方式：事前報名已截止，開放部分現場報名名…"
 ],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4506": {
 "lecture": true,
@@ -24980,7 +23853,9 @@
 "notes": [
 "報名：…大學自強校區電機系館 1樓繁城講堂 報名方式：事前報名已截止，開放部分現場報名名…"
 ],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4506": {
 "lecture": true,
@@ -25006,7 +23881,9 @@
 "notes": [
 "報名：…大學自強校區電機系館 1樓繁城講堂 報名方式：事前報名已截止，開放部分現場報名名…"
 ],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4506": {
 "lecture": true,
@@ -25032,7 +23909,9 @@
 "notes": [
 "報名：…大學自強校區電機系館 1樓繁城講堂 報名方式：事前報名已截止，開放部分現場報名名…"
 ],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://www.polsci.ncku.edu.tw/news_detail.asp?nid=754": {
 "lecture": true,
@@ -25058,7 +23937,9 @@
 "notes": [
 "報名：…日(星期三)下午5點前至下列連結完成報名，以利餐點之準備。謝謝! 演講報名…"
 ],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": null,
+"v": 2
 },
 "https://www.polsci.ncku.edu.tw/news_detail.asp?nid=753": {
 "lecture": true,
@@ -25082,79 +23963,25 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": null,
+"v": 2
 },
 "https://www.up.ncku.edu.tw/category/%e6%9c%80%e6%96%b0%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a/%e7%ac%ac25%e5%b1%86%e5%9c%8b%e5%9c%9f%e8%a6%8f%e5%8a%83%e8%ab%96%e5%a3%87/": {
-"lecture": true,
-"unit": "都市計劃學系",
-"url": "https://www.up.ncku.edu.tw/category/%e6%9c%80%e6%96%b0%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a/%e7%ac%ac25%e5%b1%86%e5%9c%8b%e5%9c%9f%e8%a6%8f%e5%8a%83%e8%ab%96%e5%a3%87/",
-"title": "第25屆國土規劃論壇",
-"topic": null,
-"speaker": null,
-"place": "70101 台南市大學路1號 都市計劃學系",
-"time_raw": null,
-"date": "2026-11-20",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-05"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.up.ncku.edu.tw/category/%e6%9c%80%e6%96%b0%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a/%e7%ac%ac26%e5%b1%86%e5%9c%8b%e5%9c%9f%e8%a6%8f%e5%8a%83%e8%ab%96%e5%a3%87/": {
-"lecture": true,
-"unit": "都市計劃學系",
-"url": "https://www.up.ncku.edu.tw/category/%e6%9c%80%e6%96%b0%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a/%e7%ac%ac26%e5%b1%86%e5%9c%8b%e5%9c%9f%e8%a6%8f%e5%8a%83%e8%ab%96%e5%a3%87/",
-"title": "第26屆國土規劃論壇",
-"topic": null,
-"speaker": null,
-"place": "70101 台南市大學路1號 都市計劃學系",
-"time_raw": null,
-"date": "2026-11-20",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-05"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.up.ncku.edu.tw/category/%e6%9c%80%e6%96%b0%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a/%e7%ac%ac27%e5%b1%86%e5%9c%8b%e5%9c%9f%e8%a6%8f%e5%8a%83%e8%ab%96%e5%a3%87/": {
-"lecture": true,
-"unit": "都市計劃學系",
-"url": "https://www.up.ncku.edu.tw/category/%e6%9c%80%e6%96%b0%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a/%e7%ac%ac27%e5%b1%86%e5%9c%8b%e5%9c%9f%e8%a6%8f%e5%8a%83%e8%ab%96%e5%a3%87/",
-"title": "第27屆國土規劃論壇",
-"topic": null,
-"speaker": null,
-"place": "70101 台南市大學路1號 都市計劃學系",
-"time_raw": null,
-"date": "2026-11-20",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-05"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.up.ncku.edu.tw/category/%e6%9c%80%e6%96%b0%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a/%e7%ac%ac28%e5%b1%86%e5%9c%8b%e5%9c%9f%e8%a6%8f%e5%8a%83%e8%ab%96%e5%a3%87/": {
-"lecture": true,
-"unit": "都市計劃學系",
-"url": "https://www.up.ncku.edu.tw/category/%e6%9c%80%e6%96%b0%e6%b4%bb%e5%8b%95%e8%b3%87%e8%a8%8a/%e7%ac%ac28%e5%b1%86%e5%9c%8b%e5%9c%9f%e8%a6%8f%e5%8a%83%e8%ab%96%e5%a3%87/",
-"title": "第28屆國土規劃論壇",
-"topic": null,
-"speaker": null,
-"place": "70101 台南市大學路1號 都市計劃學系",
-"time_raw": null,
-"date": "2026-11-20",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-05"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.up.ncku.edu.tw/114-11-13-03/": {
 "lecture": false
@@ -25213,7 +24040,9 @@
 "notes": [
 "報名：…融科技等系所與其他跨領域職涯發展。 報名連結： https://forms.gl…"
 ],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://chinese.ncku.edu.tw/p/405-1142-307651,c10333.php?Lang=zh-tw": {
 "lecture": true,
@@ -25239,7 +24068,9 @@
 "notes": [
 "報名：…融科技等系所與其他跨領域職涯發展。 報名連結： https://forms.gl…"
 ],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": null,
+"v": 2
 },
 "https://ba.ncku.edu.tw/p/406-1177-307691,r2800.php?Lang=zh-tw": {
 "lecture": true,
@@ -25263,7 +24094,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://ba.ncku.edu.tw/p/406-1177-307691,r2798.php?Lang=zh-tw": {
 "lecture": true,
@@ -25287,7 +24120,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://pehl.ncku.edu.tw/p/406-1136-307680,r3115.php?Lang=zh-tw": {
 "lecture": false
@@ -25324,7 +24159,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1841&index=2": {
 "lecture": true,
@@ -25348,7 +24185,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-10-15",
+"v": 2
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1829&index=3": {
 "lecture": true,
@@ -25372,7 +24211,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-10-07",
+"v": 2
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1821&index=4": {
 "lecture": true,
@@ -25396,7 +24237,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-09-29",
+"v": 2
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1793&index=5": {
 "lecture": true,
@@ -25420,7 +24263,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-09-14",
+"v": 2
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1791&index=6": {
 "lecture": true,
@@ -25444,7 +24289,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-09-14",
+"v": 2
 },
 "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1773&index=7": {
 "lecture": true,
@@ -25468,7 +24315,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-09-02",
+"v": 2
 },
 "https://css.ncku.edu.tw/p/406-1227-307650,r3972.php?Lang=zh-tw": {
 "lecture": false
@@ -25498,7 +24347,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://www.up.ncku.edu.tw/115-11-05-01/": {
 "lecture": true,
@@ -25516,7 +24367,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-05"
+"found": "2026-11-05",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://ais2m.ncku.edu.tw/?action=news&id=2594": {
 "lecture": false
@@ -25567,31 +24420,8 @@
 "lecture": false
 },
 "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4117&index=3": {
-"lecture": true,
-"unit": "會計學系暨財務金融研究所",
-"url": "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4117&index=3",
-"title": "【活動】本系舉辦2026會計永續發展趨勢論壇暨《會計審計論叢》專刊研討會(報名截止日為11/1)",
-"topic": null,
-"speaker": null,
-"place": "國立成功大學光復校區會計學系系館二樓63210、63211教室(GoogleMap)",
-"time_raw": "115年11月13日(五)10:00-17:00",
-"date": "2026-11-13",
-"start": [
-10,
-0
-],
-"end": [
-17,
-0
-],
-"tags": [
-"開放",
-"需報名"
-],
-"notes": [
-"報名：…勢論壇暨《會計審計論叢》專刊研討會(報名截止日為11/1) ::: 系辦公告 學…"
-],
-"found": "2026-11-06"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4116&index=4": {
 "lecture": false
@@ -25606,24 +24436,8 @@
 "lecture": false
 },
 "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4099&index=8": {
-"lecture": true,
-"unit": "會計學系暨財務金融研究所",
-"url": "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4099&index=8",
-"title": "【演講】10/2教育部國家講座：公司理財實證研究, 歡迎本校師生踴躍參加",
-"topic": null,
-"speaker": null,
-"place": "701台南市東區大學路1號 (光復校區會計學系)",
-"time_raw": null,
-"date": "2026-10-02",
-"start": null,
-"end": null,
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…理學院地下一樓62X05演講廳 講座報名連結請點選報名網址 本活動備有午餐，敬請…"
-],
-"found": "2026-11-06"
+"lecture": false,
+"reason": "stale"
 },
 "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4089&index=9": {
 "lecture": false
@@ -25662,7 +24476,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-06"
+"found": "2026-11-06",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://civil.ncku.edu.tw/p/406-1232-296643,r4074.php?Lang=zh-tw": {
 "lecture": false
@@ -25705,7 +24521,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-06"
+"found": "2026-11-06",
+"pub": "2026-11-05",
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-307395,r11.php?Lang=zh-tw": {
 "lecture": true,
@@ -25729,7 +24547,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-06"
+"found": "2026-11-06",
+"pub": "2026-10-30",
+"v": 2
 },
 "https://medicine.ncku.edu.tw/p/406-1152-307714,r3225.php?Lang=zh-tw": {
 "lecture": false
@@ -25807,7 +24627,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-06"
+"found": "2026-11-06",
+"pub": "2026-11-06",
+"v": 2
 },
 "https://math.ncku.edu.tw/p/406-1221-307777,r3765.php?Lang=zh-tw": {
 "lecture": false
@@ -25873,7 +24695,9 @@
 "notes": [
 "報名：…勢論壇暨《會計審計論叢》專刊研討會(報名截止日為11/1) ::: 系辦公告 學…"
 ],
-"found": "2026-11-06"
+"found": "2026-11-06",
+"pub": "2026-10-10",
+"v": 2
 },
 "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4116&index=5": {
 "lecture": false
@@ -25905,7 +24729,9 @@
 "notes": [
 "報名：…理學院地下一樓62X05演講廳 講座報名連結請點選報名網址 本活動備有午餐，敬請…"
 ],
-"found": "2026-11-06"
+"found": "2026-11-06",
+"pub": "2026-09-10",
+"v": 2
 },
 "https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4089&index=10": {
 "lecture": false
@@ -25926,7 +24752,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-06"
+"found": "2026-11-06",
+"pub": "2026-11-06",
+"v": 2
 },
 "https://bme.ncku.edu.tw/p/406-1101-307772,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -26033,30 +24861,6 @@
 "https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4507": {
 "lecture": false
 },
-"https://behmed.ncku.edu.tw/p/406-1167-297011,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "行為醫學研究所",
-"url": "https://behmed.ncku.edu.tw/p/406-1167-297011,r11.php?Lang=zh-tw",
-"title": "【專討演講】5/8(五)13:10-15:00 張正辰醫師 Neurostimulation in Mental Disorders",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2027-05-08",
-"start": [
-13,
-10
-],
-"end": [
-15,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-07"
-},
 "https://www.up.ncku.edu.tw/114-04-29-01/": {
 "lecture": false
 },
@@ -26115,7 +24919,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-08"
+"found": "2026-11-08",
+"pub": null,
+"v": 2
 },
 "https://mp.ncku.edu.tw/%e5%ad%b8%e8%a1%93%e6%bc%94%e8%ac%9b%e3%80%91dr-qingyun-duan-hohai-university-11-12-thu-1520/": {
 "lecture": true,
@@ -26139,7 +24945,9 @@
 "未註明"
 ],
 "notes": [],
-"found": "2026-11-08"
+"found": "2026-11-08",
+"pub": "2026-11-07",
+"v": 2
 },
 "https://geomatics.ncku.edu.tw/p/406-1225-307803,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -26192,7 +25000,9 @@
 "notes": [
 "報名：…動產業之師生、校友及相關從業人員踴躍報名參與。…"
 ],
-"found": "2026-11-09"
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
 },
 "https://pehl.ncku.edu.tw/p/406-1136-307812,r1045.php?Lang=zh-tw": {
 "lecture": true,
@@ -26215,7 +25025,9 @@
 "notes": [
 "報名：…動產業之師生、校友及相關從業人員踴躍報名參與。…"
 ],
-"found": "2026-11-09"
+"found": "2026-11-09",
+"pub": null,
+"v": 2
 },
 "https://mse.ncku.edu.tw/p/406-1234-307807,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -26245,6 +25057,537 @@
 "lecture": false
 },
 "https://www.up.ncku.edu.tw/114-03-26-02/": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-307871,r3765.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-307819,r3765.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://science.ncku.edu.tw/p/406-1016-307827,r668.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "理學院",
+"url": "https://science.ncku.edu.tw/p/406-1016-307827,r668.php?Lang=zh-tw",
+"title": "【理學論壇暨物理系專題演講】麻省理工學院Prof. Seth Lloyd-Quantum Algorithms: Past, Present, and Future (11/12 15:10)",
+"topic": "Quantum Algorithms: Past, Present, and Future",
+"speaker": "Prof. Seth Lloyd",
+"place": "Room 36102, Science Building, NCKU",
+"time_raw": "15:10, Thursday, Nov. 12, 2026",
+"date": "2026-11-12",
+"start": [
+15,
+10
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://math.ncku.edu.tw/p/406-1221-307822,r3765.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://science.ncku.edu.tw/p/406-1016-307826,r668.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-307821,r3765.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-307871,r3749.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://science.ncku.edu.tw/p/406-1016-307827,r2342.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "理學院",
+"url": "https://science.ncku.edu.tw/p/406-1016-307827,r2342.php?Lang=zh-tw",
+"title": "【理學論壇暨物理系專題演講】麻省理工學院Prof. Seth Lloyd-Quantum Algorithms: Past, Present, and Future (11/12 15:10)",
+"topic": "Quantum Algorithms: Past, Present, and Future",
+"speaker": "Prof. Seth Lloyd",
+"place": "Room 36102, Science Building, NCKU",
+"time_raw": "15:10, Thursday, Nov. 12, 2026",
+"date": "2026-11-12",
+"start": [
+15,
+10
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://math.ncku.edu.tw/p/406-1221-307822,r3750.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://science.ncku.edu.tw/p/406-1016-307826,r2342.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-307821,r3750.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-307871,r3751.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://earth.ncku.edu.tw/p/406-1134-307863,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://earth.ncku.edu.tw/p/406-1134-307863,r3290.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://tcm.ncku.edu.tw/p/406-1172-307818,r2850.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=4130&index=2": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=3964&index=3": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=2965&index=5": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=2862&index=6": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=2363&index=7": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=1629&index=8": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=977&index=9": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=238&index=10": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=615&index=11": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=716&index=12": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=715&index=13": {
+"lecture": false
+},
+"https://me.ncku.edu.tw/news_detail.php?news_rkey=0M4CAG7ML7": {
+"lecture": false
+},
+"https://me.ncku.edu.tw/news_detail.php?news_rkey=8POE52K7VA": {
+"lecture": false
+},
+"https://eng.ncku.edu.tw/p/406-1014-236875,r1785.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://civil.ncku.edu.tw/p/406-1232-307852,r4075.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1851&index=1": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1851&index=1",
+"title": "【活動分享】11月14日(六)中研院南部院區開放活動-科普演講-成大統資系協辦 new",
+"topic": null,
+"speaker": null,
+"place": "南部院區研究大樓1F大廳",
+"time_raw": "11/14(六) 09:00-12:00",
+"date": "2026-11-14",
+"start": [
+9,
+0
+],
+"end": [
+12,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1847&index=2": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1638&index=3": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1846&index=4": {
+"lecture": false,
+"reason": "no date"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1836&index=5": {
+"lecture": false,
+"reason": "no date"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1845&index=6": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1843&index=7": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1842&index=8": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1840&index=9": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1660&index=10": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=4162&index=1": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=4146&index=2": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=showlist&id=4135&index=3": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1837&index=11": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1830&index=12": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1823&index=13": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1818&index=14": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1538&index=15": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1746&index=16": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1622&index=17": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1772&index=18": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1771&index=19": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1770&index=20": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307868,r4151.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-307868,r4151.php?Lang=zh-tw",
+"title": "115學年材料系-第十週 專題研討課程 演講公告 (115年11月12日)",
+"topic": "Design of Lattice Structures Strategies for Tunable Performance in Additively Manufactured Components",
+"speaker": "Chinmai Bhat 助理教授",
+"place": "成功大學成功校區三系館鋼構區(3F)共同教室 A1302演講廳",
+"time_raw": "民國 115年 11月 12日(四)",
+"date": "2026-11-12",
+"start": [
+15,
+20
+],
+"end": [
+16,
+10
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4508": {
+"lecture": true,
+"unit": "電機工程學系",
+"url": "https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4508",
+"title": "[演講公告] 11/12 (四) 13:30~15:00 黃意婷 副教授 專題演講",
+"topic": "以攻促防：從攻擊資料生成到進階威脅偵測資訊安全",
+"speaker": "黃意婷, 國立台灣科技大學電機工程系/副教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/12 (四) 13:30~15:00",
+"date": "2026-11-12",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://mse.ncku.edu.tw/p/406-1234-307868,r4147.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-307868,r4147.php?Lang=zh-tw",
+"title": "115學年材料系-第十週 專題研討課程 演講公告 (115年11月12日)",
+"topic": "Design of Lattice Structures Strategies for Tunable Performance in Additively Manufactured Components",
+"speaker": "Chinmai Bhat 助理教授",
+"place": "成功大學成功校區三系館鋼構區(3F)共同教室 A1302演講廳",
+"time_raw": "民國 115年 11月 12日(四)",
+"date": "2026-11-12",
+"start": [
+15,
+20
+],
+"end": [
+16,
+10
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://mse.ncku.edu.tw/p/406-1234-300961,r4099.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4508": {
+"lecture": true,
+"unit": "微電子工程研究所",
+"url": "https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4508",
+"title": "[演講公告] 11/12 (四) 13:30~15:00 黃意婷 副教授 專題演講",
+"topic": "以攻促防：從攻擊資料生成到進階威脅偵測資訊安全",
+"speaker": "黃意婷, 國立台灣科技大學電機工程系/副教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/12 (四) 13:30~15:00",
+"date": "2026-11-12",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://mse.ncku.edu.tw/p/406-1234-300964,r4099.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4508": {
+"lecture": true,
+"unit": "智慧資訊安全碩士學位學程",
+"url": "https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4508",
+"title": "[演講公告] 11/12 (四) 13:30~15:00 黃意婷 副教授 專題演講",
+"topic": "以攻促防：從攻擊資料生成到進階威脅偵測資訊安全",
+"speaker": "黃意婷, 國立台灣科技大學電機工程系/副教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/12 (四) 13:30~15:00",
+"date": "2026-11-12",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4508": {
+"lecture": true,
+"unit": "奈米積體電路工程碩士學位學程",
+"url": "https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4508",
+"title": "[演講公告] 11/12 (四) 13:30~15:00 黃意婷 副教授 專題演講",
+"topic": "以攻促防：從攻擊資料生成到進階威脅偵測資訊安全",
+"speaker": "黃意婷, 國立台灣科技大學電機工程系/副教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/12 (四) 13:30~15:00",
+"date": "2026-11-12",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4508": {
+"lecture": true,
+"unit": "通訊工程研究所",
+"url": "https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4508",
+"title": "[演講公告] 11/12 (四) 13:30~15:00 黃意婷 副教授 專題演講",
+"topic": "以攻促防：從攻擊資料生成到進階威脅偵測資訊安全",
+"speaker": "黃意婷, 國立台灣科技大學電機工程系/副教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/12 (四) 13:30~15:00",
+"date": "2026-11-12",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://imis.ncku.edu.tw/p/450-1156-281045,c0.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.polsci.ncku.edu.tw/news_detail.asp?nid=755": {
+"lecture": true,
+"unit": "政治學系",
+"url": "https://www.polsci.ncku.edu.tw/news_detail.asp?nid=755",
+"title": ">公告本系115年12月7日演講活動訊息",
+"topic": "畢業後，我靠「研究大家在想什麼」吃飯！從輿情分析、民意調查到公關策略的真實世界",
+"speaker": "林育呈總監（影響力數據顧問股份有限公司數據分析暨專案總監）",
+"place": "政治學系會議室（社會科學院大樓南棟6樓）",
+"time_raw": "115年12月7日（星期一）上午11：00到下午1：00",
+"date": "2026-12-07",
+"start": [
+11,
+0
+],
+"end": [
+13,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…日(星期五)下午2點前至下列連結完成報名，以利餐點之準備。謝謝! 演講報名…"
+],
+"found": "2026-11-09",
+"pub": null,
+"v": 2
+},
+"https://www.law.ncku.edu.tw/album_detail.asp?nid=21": {
+"lecture": false
+},
+"https://www.law.ncku.edu.tw/album_detail.asp?nid=20": {
+"lecture": true,
+"unit": "法律學系",
+"url": "https://www.law.ncku.edu.tw/album_detail.asp?nid=20",
+"title": "2026-11-07 成法30｜系友回娘家活動【下午新秀論壇】",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-07",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": null,
+"v": 2
+},
+"https://www.law.ncku.edu.tw/album_detail.asp?nid=19": {
+"lecture": false
+},
+"https://www.arch.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=2103&index=1": {
+"lecture": false
+},
+"https://www.arch.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=2107&index=1": {
+"lecture": true,
+"unit": "建築學系",
+"url": "https://www.arch.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=2107&index=1",
+"title": "成大建築講堂ARCH Talks 秋－11月",
+"topic": "法國分享會",
+"speaker": "成大建築在法國（NCKU ARCH FRANCE）",
+"place": null,
+"time_raw": "2026-11-09",
+"date": "2026-11-09",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-09",
+"pub": null,
+"v": 2
+},
+"https://psychology.ncku.edu.tw/p/406-1235-307813,r4187.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=18862": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=18869": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=18858": {
+"lecture": false
+},
+"https://psychology.ncku.edu.tw/p/406-1235-307813,r4190.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://dbbs.ncku.edu.tw/p/406-1153-307845,r1757.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://psychology.ncku.edu.tw/p/405-1235-307813,c32500.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://itps.ncku.edu.tw/p/406-1148-277856,r2761.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-297237,r2039.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://nursing.ncku.edu.tw/p/406-1106-307867,r988.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pt.ncku.edu.tw/p/406-1178-307864,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pt.ncku.edu.tw/p/406-1178-307864,r2868.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-03-26-01/": {
 "lecture": false
 }
 }
