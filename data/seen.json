@@ -25589,5 +25589,192 @@
 },
 "https://www.up.ncku.edu.tw/114-03-26-01/": {
 "lecture": false
+},
+"https://flld.ncku.edu.tw/p/412-1165-22487.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://flld.ncku.edu.tw/p/405-1165-307237,c22487.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://flld.ncku.edu.tw/p/405-1165-307103,c22487.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://flld.ncku.edu.tw/p/405-1165-302224,c22487.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://flld.ncku.edu.tw/p/405-1165-301609,c22487.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://flld.ncku.edu.tw/p/405-1165-301436,c22487.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://flld.ncku.edu.tw/p/405-1165-295783,c22487.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/406-1143-307888,r668.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "臺灣文學系",
+"url": "https://twl.ncku.edu.tw/p/406-1143-307888,r668.php?Lang=zh-tw",
+"title": "【台語文學講座】選擇了海，2026年11月23日(一)下午2:20",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-23",
+"start": [
+14,
+20
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-10",
+"pub": null,
+"v": 2
+},
+"https://twl.ncku.edu.tw/p/406-1143-307888,r3545.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "臺灣文學系",
+"url": "https://twl.ncku.edu.tw/p/406-1143-307888,r3545.php?Lang=zh-tw",
+"title": "【台語文學講座】選擇了海，2026年11月23日(一)下午2:20",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-23",
+"start": [
+14,
+20
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-10",
+"pub": null,
+"v": 2
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4509": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307872,r4151.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-307872,r4151.php?Lang=zh-tw",
+"title": "115學年材料系 第十週 專題研討課程 演講公告 (115年11月12日)",
+"topic": "From 3D Hierarchical Structures to Multi-material Functions",
+"speaker": "張尹 助理教授",
+"place": "成功大學成功校區三系館鋼構區(3F)共同教室 A1302演講廳",
+"time_raw": "民國 115年 11月 12日(四)",
+"date": "2026-11-12",
+"start": [
+16,
+10
+],
+"end": [
+17,
+10
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-10",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4509": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4509": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4509": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4509": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/412-1156-18053.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307872,r4147.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-307872,r4147.php?Lang=zh-tw",
+"title": "115學年材料系 第十週 專題研討課程 演講公告 (115年11月12日)",
+"topic": "From 3D Hierarchical Structures to Multi-material Functions",
+"speaker": "張尹 助理教授",
+"place": "成功大學成功校區三系館鋼構區(3F)共同教室 A1302演講廳",
+"time_raw": "民國 115年 11月 12日(四)",
+"date": "2026-11-12",
+"start": [
+16,
+10
+],
+"end": [
+17,
+10
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-10",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://imis.ncku.edu.tw/p/412-1156-18810.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/450-1156-282317,c0.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/450-1156-282318,c0.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/450-1156-307581,c0.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/450-1156-307572,c0.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/405-1156-307228,c18810.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://dbbs.ncku.edu.tw/p/406-1153-307886,r1753.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=18873": {
+"lecture": true,
+"unit": "水利及海洋工程學系",
+"url": "https://web.hyd.ncku.edu.tw/?p=18873",
+"title": "2026-11-09 海洋工程設計(專題演講)",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-09",
+"start": [
+18,
+38
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-10",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://nursing.ncku.edu.tw/p/406-1106-307883,r988.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/114-03-24-02/": {
+"lecture": false
 }
 }
