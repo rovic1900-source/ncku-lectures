@@ -21,6 +21,7 @@ SEEN_FILE = ROOT / "data" / "seen.json"
 ICS_FILE = ROOT / "docs" / "lectures.ics"
 HTML_FILE = ROOT / "docs" / "index.html"
 TZ = timezone(timedelta(hours=8))
+VERSION = 2
 TODAY = datetime.now(TZ).date()
 
 UA = "Mozilla/5.0 (compatible; ncku-lectures-bot; personal calendar)"
@@ -108,7 +109,23 @@ def find_articles(page_url, soup):
             continue
         if href.lower().endswith((".pdf", ".doc", ".docx", ".jpg", ".png")):
             continue
-        out.append((href, text))
+        # 列表上同一列的日期（通常是發布日）
+        ldate, node = None, a
+        for _ in range(4):
+            node = node.parent
+            if node is None:
+                break
+            row = node.get_text(" ", strip=True)
+            if len(row) > len(text) + 120:
+                break
+            m = re.search(r"(20\d\d)[-/.](\d{1,2})[-/.](\d{1,2})", row.replace(text, ""))
+            if m:
+                try:
+                    ldate = date(*map(int, m.groups()))
+                except ValueError:
+                    pass
+                break
+        out.append((href, text, ldate))
     return out
 
 
@@ -119,7 +136,7 @@ TALK_TITLE = re.compile(
     r"seminar|colloquium|lecture|talk|forum|workshop|symposium|webinar",
     re.I,
 )
-NOT_TALK = re.compile(r"餐敘|親師|徵稿|徵件|徵才|招生|錄取|名單|榜單|獎學金|補助|成果|花絮|回顧|紀實|側記|報導")
+NOT_TALK = re.compile(r"徵聘|聘任|教師啟事|賀[!！]|榮獲|恭賀|得獎|餐敘|親師|徵稿|徵件|徵才|招生|錄取|名單|榜單|獎學金|補助|成果|花絮|回顧|紀實|側記|報導")
 
 LABELS = {
     "speaker": {"講者", "主講人", "主講者", "演講者", "主講", "講師", "主持人暨講者", "speaker", "speakers", "lecturer", "presenter"},
@@ -147,19 +164,59 @@ def labeled_fields(lines):
 
 # ---------- 日期時間 ----------
 
-def _year_guess(m, d, ref):
-    best = None
+WEEKDAY = {"一": 0, "二": 1, "三": 2, "四": 3, "五": 4, "六": 5, "日": 6, "天": 6,
+           "mon": 0, "tue": 1, "wed": 2, "thu": 3, "fri": 4, "sat": 5, "sun": 6}
+
+
+def find_weekday(after):
+    """日期後面緊接的星期，例如 5/8(五)、11月9日（星期一）、3/12 Thu"""
+    m = re.match(r"\s*[（(]?\s*(?:星期|週|周|禮拜)?\s*([一二三四五六日天])\s*[)）]?", after) or \
+        re.match(r"\s*[（(,]?\s*(mon|tue|wed|thu|fri|sat|sun)", after, re.I)
+    return WEEKDAY.get(m.group(1).lower()) if m else None
+
+
+def term_year(ctx, month):
+    """從「114-2」「115學年度第1學期」推年份"""
+    m = re.search(r"(1[01]\d)\s*(?:學年度?)?\s*(?:-|第)\s*([12一二])\s*(?:學期)?", ctx or "")
+    if not m:
+        return None
+    ay, term = int(m.group(1)), m.group(2) in ("1", "一")
+    if term:
+        return ay + 1911 if month >= 8 else ay + 1912
+    return ay + 1912
+
+
+def _year_guess(m, d, ref, wd=None, ctx="", pub=None):
+    cands = []
     for y in (ref.year - 1, ref.year, ref.year + 1):
         try:
-            c = date(y, m, d)
+            cands.append(date(y, m, d))
         except ValueError:
-            continue
-        if best is None or abs((c - ref).days) < abs((best - ref).days):
-            best = c
-    return best
+            pass
+    if not cands:
+        return None
+    ty = term_year(ctx, m)
+    if ty and any(c.year == ty for c in cands):
+        return next(c for c in cands if c.year == ty)
+    if wd is not None:
+        hit = [c for c in cands if c.weekday() == wd]
+        if len(hit) == 1:
+            return hit[0]
+        if hit:
+            cands = hit
+    if pub:
+        # 活動通常在公告發布後才舉行：取發布日（前兩週）之後最早的那天
+        after = [c for c in cands if c >= pub - timedelta(days=14)]
+        if after:
+            return min(after)
+    # 不知道發布日：未來超過 4 個月的不太可能，偏向過去
+    def cost(c):
+        diff = (c - ref).days
+        return diff * 2.5 if diff > 0 else -diff
+    return min(cands, key=cost)
 
 
-def parse_date(text, ref=TODAY):
+def parse_date(text, ref=TODAY, ctx="", pub=None):
     t = text.replace("／", "/").replace("．", ".")
     pats = [
         (r"(1[01]\d)\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日", lambda g: (int(g[0]) + 1911, int(g[1]), int(g[2]))),
@@ -173,14 +230,14 @@ def parse_date(text, ref=TODAY):
         for m in re.finditer(pat, t):
             y, mo, d = conv(m.groups())
             try:
-                return date(y, mo, d) if y else _year_guess(mo, d, ref)
+                return date(y, mo, d) if y else _year_guess(mo, d, ref, find_weekday(t[m.end():m.end() + 8]), ctx, pub)
             except (ValueError, TypeError):
                 continue
     m = re.search(r"(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?,?\s*(20\d\d)?", t, re.I)
     if m:
         mo, d = months[m.group(1).lower()], int(m.group(2))
         try:
-            return date(int(m.group(3)), mo, d) if m.group(3) else _year_guess(mo, d, ref)
+            return date(int(m.group(3)), mo, d) if m.group(3) else _year_guess(mo, d, ref, None, ctx, pub)
         except ValueError:
             pass
     return None
@@ -263,10 +320,29 @@ def classify_access(text):
 CONTENT_SEL = [".mpgdetail", ".module-detail", ".mcont", ".newsdetail", ".news-content", "article", "main", "#content", ".content"]
 
 
-def parse_article(url, list_title, unit):
+PUB_PATS = [
+    r'(?:published_time|datePublished|pubdate)["\']?\s*(?:content=|:)\s*["\']?(20\d\d)-(\d\d)-(\d\d)',
+    r"(?:發布|發佈|公告|張貼|刊登|上架|建立)(?:日期|時間|日)?\s*[:：]\s*(20\d\d)[-/.](\d{1,2})[-/.](\d{1,2})",
+    r"(?:Post(?:ed)?|Publish(?:ed)?)\s*(?:Date|on)?\s*[:：]?\s*(20\d\d)[-/.](\d{1,2})[-/.](\d{1,2})",
+]
+
+
+def publish_date(page):
+    for pat in PUB_PATS:
+        m = re.search(pat, page, re.I)
+        if m:
+            try:
+                return date(*map(int, m.groups()))
+            except ValueError:
+                pass
+    return None
+
+
+def parse_article(url, list_title, unit, list_date=None):
     page = fetch(url)
     if not page:
         return None
+    pub = list_date or publish_date(page)
     soup = BeautifulSoup(page, "html.parser")
     for tag in soup(["script", "style", "nav", "header", "footer", "noscript", "form"]):
         tag.decompose()
@@ -294,7 +370,9 @@ def parse_article(url, list_title, unit):
         return {"lecture": False}
 
     when_src = " ".join(filter(None, [f.get("time"), title, body[:1500]]))
-    d = parse_date(f.get("time", "")) or parse_date(title) or parse_date(body[:1500])
+    ctx = title + " " + body[:400]
+    d = (parse_date(f.get("time", ""), ctx=ctx, pub=pub) or parse_date(title, ctx=ctx, pub=pub)
+         or parse_date(body[:1500], ctx=ctx, pub=pub))
     if not d:
         return {"lecture": False, "reason": "no date"}
     start, end = parse_times(f.get("time", "")) if f.get("time") else (None, None)
@@ -317,6 +395,8 @@ def parse_article(url, list_title, unit):
         "tags": tags,
         "notes": notes,
         "found": TODAY.isoformat(),
+        "pub": pub.isoformat() if pub else None,
+        "v": VERSION,
     }
 
 
@@ -336,16 +416,22 @@ def crawl_unit(unit, home, seen):
         if lpage:
             candidates += find_articles(lp, BeautifulSoup(lpage, "html.parser"))
     uniq, results = {}, []
-    for href, text in candidates:
-        uniq.setdefault(href, text)
-    new = [(h, t) for h, t in uniq.items() if h not in seen][:80]
-    for href, text in new:
+    for href, text, ldate in candidates:
+        if href not in uniq or (ldate and not uniq[href][1]):
+            uniq[href] = (text, ldate)
+    # 新公告，加上用舊版程式判斷過、要重新判斷日期的演講
+    redo = [h for h in uniq if seen.get(h, {}).get("lecture") and seen[h].get("v") != VERSION]
+    new = [h for h in uniq if h not in seen][:80] + redo
+    for href in new:
+        text, ldate = uniq[href]
         # 非 RPage 網站的連結很雜，標題沒有演講字眼就跳過以免爬太多
         if "/p/406-" not in href and not TALK_TITLE.search(text):
             seen[href] = {"lecture": False}
             continue
-        info = parse_article(href, text, unit)
+        info = parse_article(href, text, unit, ldate)
         if info is not None:
+            if seen.get(href, {}).get("found"):
+                info["found"] = seen[href]["found"]
             seen[href] = info
         time.sleep(0.3)
     if not uniq:
@@ -593,6 +679,9 @@ def main():
     with ThreadPoolExecutor(max_workers=12) as pool:
         list(pool.map(lambda u: crawl_unit(u[0], u[1], seen), UNITS))
     # 清掉太舊的紀錄以免檔案越來越大（非演講的保留 URL 以免重抓）
+    # 舊版判斷、這次沒重讀到的演講（已不在列表上），日期可能猜錯，不放進日曆
+    seen = {k: (v if not v.get("lecture") or v.get("v") == VERSION else {"lecture": False, "reason": "stale"})
+            for k, v in seen.items()}
     cutoff = (TODAY - timedelta(days=120)).isoformat()
     seen = {k: v for k, v in seen.items() if not v.get("lecture") or v["date"] >= cutoff}
     SEEN_FILE.parent.mkdir(exist_ok=True)
