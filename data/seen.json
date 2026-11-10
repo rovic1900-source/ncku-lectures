@@ -25776,5 +25776,202 @@
 },
 "https://www.up.ncku.edu.tw/114-03-24-02/": {
 "lecture": false
+},
+"https://twl.ncku.edu.tw/p/406-1143-307895,r668.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ba.ncku.edu.tw/p/406-1177-306209,r4291.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ba.ncku.edu.tw/p/406-1177-306208,r4291.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ba.ncku.edu.tw/p/406-1177-307184,r4291.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-307932,r3115.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-307907,r3115.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-307932,r2097.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-307907,r2097.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://bme.ncku.edu.tw/p/406-1101-307935,r2350.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://bme.ncku.edu.tw/p/406-1101-307935,r668.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307901,r4141.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4510": {
+"lecture": true,
+"unit": "電機工程學系",
+"url": "https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4510",
+"title": "【講座報名】NCKU EE 電機系交換生分享講座（11/27）",
+"topic": null,
+"speaker": null,
+"place": "電機系館 1 樓 靄雲廳",
+"time_raw": "115 年 11 月 27 日（五） 12:00 – 13:00",
+"date": "2026-11-27",
+"start": [
+12,
+0
+],
+"end": [
+13,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…報名並全程參與者，提供餐盒一份 • 報名截止時間：11 月 23 日（一） •…"
+],
+"found": "2026-11-10",
+"pub": "2026-11-10",
+"v": 2
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4511": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-307901,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4510": {
+"lecture": true,
+"unit": "通訊工程研究所",
+"url": "https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4510",
+"title": "【講座報名】NCKU EE 電機系交換生分享講座（11/27）",
+"topic": null,
+"speaker": null,
+"place": "電機系館 1 樓 靄雲廳",
+"time_raw": "115 年 11 月 27 日（五） 12:00 – 13:00",
+"date": "2026-11-27",
+"start": [
+12,
+0
+],
+"end": [
+13,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…報名並全程參與者，提供餐盒一份 • 報名截止時間：11 月 23 日（一） •…"
+],
+"found": "2026-11-10",
+"pub": "2026-11-10",
+"v": 2
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4510": {
+"lecture": true,
+"unit": "奈米積體電路工程碩士學位學程",
+"url": "https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4510",
+"title": "【講座報名】NCKU EE 電機系交換生分享講座（11/27）",
+"topic": null,
+"speaker": null,
+"place": "電機系館 1 樓 靄雲廳",
+"time_raw": "115 年 11 月 27 日（五） 12:00 – 13:00",
+"date": "2026-11-27",
+"start": [
+12,
+0
+],
+"end": [
+13,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…報名並全程參與者，提供餐盒一份 • 報名截止時間：11 月 23 日（一） •…"
+],
+"found": "2026-11-10",
+"pub": "2026-11-10",
+"v": 2
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4511": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4511": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4510": {
+"lecture": true,
+"unit": "微電子工程研究所",
+"url": "https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4510",
+"title": "【講座報名】NCKU EE 電機系交換生分享講座（11/27）",
+"topic": null,
+"speaker": null,
+"place": "電機系館 1 樓 靄雲廳",
+"time_raw": "115 年 11 月 27 日（五） 12:00 – 13:00",
+"date": "2026-11-27",
+"start": [
+12,
+0
+],
+"end": [
+13,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…報名並全程參與者，提供餐盒一份 • 報名截止時間：11 月 23 日（一） •…"
+],
+"found": "2026-11-10",
+"pub": "2026-11-10",
+"v": 2
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4511": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4510": {
+"lecture": true,
+"unit": "智慧資訊安全碩士學位學程",
+"url": "https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4510",
+"title": "【講座報名】NCKU EE 電機系交換生分享講座（11/27）",
+"topic": null,
+"speaker": null,
+"place": "電機系館 1 樓 靄雲廳",
+"time_raw": "115 年 11 月 27 日（五） 12:00 – 13:00",
+"date": "2026-11-27",
+"start": [
+12,
+0
+],
+"end": [
+13,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…報名並全程參與者，提供餐盒一份 • 報名截止時間：11 月 23 日（一） •…"
+],
+"found": "2026-11-10",
+"pub": "2026-11-10",
+"v": 2
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4511": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-11-10-01/": {
+"lecture": false
+},
+"https://neuro-med.ncku.edu.tw/p/406-1131-307894,r2003.php?Lang=zh-tw": {
+"lecture": false
 }
 }
