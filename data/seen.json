@@ -25973,5 +25973,131 @@
 },
 "https://neuro-med.ncku.edu.tw/p/406-1131-307894,r2003.php?Lang=zh-tw": {
 "lecture": false
+},
+"https://flld.ncku.edu.tw/p/406-1165-307947,r2588.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/406-1143-307956,r668.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/406-1143-307956,r3545.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=3248&index=1": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4127&index=2": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4126&index=3": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4125&index=4": {
+"lecture": false
+},
+"https://geomatics.ncku.edu.tw/p/406-1225-307977,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://geomatics.ncku.edu.tw/p/406-1225-307977,r3946.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13619": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13618": {
+"lecture": true,
+"unit": "資訊工程學系",
+"url": "https://www.csie.ncku.edu.tw/zh-hant/news/13618",
+"title": "【大師級專題演講】波蘭波茲南工業大學計算科學研究所 Jacek Błażewicz 教授專題演講，機會難得，敬請踴躍參加！",
+"topic": "Scheduling Problems with Late Work Criteria",
+"speaker": null,
+"place": "新館 65105",
+"time_raw": "11/13（五）上午 11:00",
+"date": "2026-11-13",
+"start": [
+11,
+0
+],
+"end": null,
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-10",
+"pub": "2026-11-10",
+"v": 2
+},
+"https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=935": {
+"lecture": false
+},
+"https://icid.ncku.edu.tw/highlights": {
+"lecture": false
+},
+"https://icid.ncku.edu.tw/news/2026-integrating-design-literary-creation-taipei-intl-book-exhibit": {
+"lecture": false
+},
+"https://icid.ncku.edu.tw/news/2025-course-capstone-exhibit-through-cocreation": {
+"lecture": false
+},
+"https://icid.ncku.edu.tw/news/2026-longqi-light-exhibit-tainan-culture-bureau": {
+"lecture": false
+},
+"https://icid.ncku.edu.tw/news/2025-icid-students-join-hayashi-participatory-observation": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307975,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-307975,r3230.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ais2m.ncku.edu.tw/?action=news&id=2600": {
+"lecture": false
+},
+"https://ais2m.ncku.edu.tw/?action=news&id=2598": {
+"lecture": false
+},
+"https://pt.ncku.edu.tw/p/406-1178-307950,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "物理治療學系",
+"url": "https://pt.ncku.edu.tw/p/406-1178-307950,r11.php?Lang=zh-tw",
+"title": "116/11/16(一)物治系新聘教師候選人公開演講",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2027-11-16",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-10",
+"pub": "2026-11-10",
+"v": 2
+},
+"https://pt.ncku.edu.tw/p/406-1178-307950,r2869.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "物理治療學系",
+"url": "https://pt.ncku.edu.tw/p/406-1178-307950,r2869.php?Lang=zh-tw",
+"title": "116/11/16(一)物治系新聘教師候選人公開演講",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2027-11-16",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-10",
+"pub": "2026-11-10",
+"v": 2
+},
+"https://ibms.ncku.edu.tw/p/406-1196-307884,r3189.php?Lang=zh-tw": {
+"lecture": false
 }
 }
