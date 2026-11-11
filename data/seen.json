@@ -6806,34 +6806,6 @@
 "pub": "2026-09-23",
 "v": 2
 },
-"https://ide.ncku.edu.tw/p/406-1160-295723,r2406.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "工業設計學系",
-"url": "https://ide.ncku.edu.tw/p/406-1160-295723,r2406.php?Lang=zh-tw",
-"title": "【活動資訊】 九典聯合建築師事務所 | 2026木循環工作坊甄選開跑",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-07-13",
-"start": [
-9,
-0
-],
-"end": [
-17,
-30
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…幣 5,000 元 (完課後返還) 報名截止日：2026 年 5 月 12 日（…"
-],
-"found": "2026-11-03",
-"pub": null,
-"v": 2
-},
 "https://cpd.ncku.edu.tw/p/412-1021-28375.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -18317,32 +18289,6 @@
 "https://phys-med.ncku.edu.tw/p/450-1132-28905,c1.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://itps.ncku.edu.tw/p/406-1148-295671,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "熱帶植物與微生物科學研究所",
-"url": "https://itps.ncku.edu.tw/p/406-1148-295671,r11.php?Lang=zh-tw",
-"title": "【演講】林致成博士：淹不死的智慧：水稻應對洪水的「伸與縮」策略",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-07-13",
-"start": [
-13,
-30
-],
-"end": [
-15,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03",
-"pub": null,
-"v": 2
-},
 "https://phys-med.ncku.edu.tw/p/412-1132-17841.php?Lang=zh-tw": {
 "lecture": false,
 "reason": "no date"
@@ -18427,32 +18373,6 @@
 },
 "https://ide.ncku.edu.tw/p/406-1160-301931,r2402.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://itps.ncku.edu.tw/p/406-1148-295124,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "熱帶植物與微生物科學研究所",
-"url": "https://itps.ncku.edu.tw/p/406-1148-295124,r11.php?Lang=zh-tw",
-"title": "【演講】林亞平博士：Omics-driven decision-making approaches for vegetable  breeding",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-07-13",
-"start": [
-13,
-30
-],
-"end": [
-15,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03",
-"pub": null,
-"v": 2
 },
 "https://cpd.ncku.edu.tw/p/406-1021-302358,r11.php?Lang=zh-tw": {
 "lecture": false
@@ -19399,34 +19319,6 @@
 },
 "https://pharma.ncku.edu.tw/p/406-1233-301326,r4088.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://ide.ncku.edu.tw/p/406-1160-295723,r2401.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "工業設計學系",
-"url": "https://ide.ncku.edu.tw/p/406-1160-295723,r2401.php?Lang=zh-tw",
-"title": "【活動資訊】 九典聯合建築師事務所 | 2026木循環工作坊甄選開跑",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-07-13",
-"start": [
-9,
-0
-],
-"end": [
-17,
-30
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…幣 5,000 元 (完課後返還) 報名截止日：2026 年 5 月 12 日（…"
-],
-"found": "2026-11-03",
-"pub": null,
-"v": 2
 },
 "https://ot.ncku.edu.tw/p/406-1115-288513,r668.php?Lang=zh-tw": {
 "lecture": false
@@ -26098,6 +25990,61 @@
 "v": 2
 },
 "https://ibms.ncku.edu.tw/p/406-1196-307884,r3189.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://dps.ncku.edu.tw/p/406-1174-307985,r2977.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "光電科學與工程學系",
+"url": "https://dps.ncku.edu.tw/p/406-1174-307985,r2977.php?Lang=zh-tw",
+"title": "115/11/13 專題演講公告",
+"topic": "次世代運算中的矽光子技術：從實驗室研發到晶圓廠量產、大規模整合與可靠度驗證",
+"speaker": null,
+"place": "綜合大樓4F 48424室",
+"time_raw": null,
+"date": "2026-11-13",
+"start": [
+14,
+10
+],
+"end": [
+16,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-11",
+"pub": null,
+"v": 2
+},
+"https://www.phys.ncku.edu.tw/colloquia-detail/972/": {
+"lecture": true,
+"unit": "物理學系",
+"url": "https://www.phys.ncku.edu.tw/colloquia-detail/972/",
+"title": "凝態物理seminar Moiré-of-Moiré Ferroelectricity in Twisted Trilayer TMDs 演講者 : Samyung (尹師名)  -   (NCKU Physics) 演講地點 : 理學教學新大樓物理系 5F 多功能交誼廳 2026 / 11 / 11 16:15",
+"topic": null,
+"speaker": "Samyung (尹師名) - (NCKU Physics)",
+"place": "理學教學新大樓物理系 5F 多功能交誼廳",
+"time_raw": "2026 / 11 / 11",
+"date": "2026-11-11",
+"start": [
+16,
+15
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-11",
+"pub": null,
+"v": 2
+},
+"https://me.ncku.edu.tw/news_detail.php?news_rkey=9W66MP60B4": {
+"lecture": false
+},
+"https://iaa.ncku.edu.tw/p/406-1104-307987,r2156.php?Lang=zh-tw": {
 "lecture": false
 }
 }
