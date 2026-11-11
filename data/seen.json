@@ -26046,5 +26046,321 @@
 },
 "https://iaa.ncku.edu.tw/p/406-1104-307987,r2156.php?Lang=zh-tw": {
 "lecture": false
+},
+"https://flld.ncku.edu.tw/p/406-1165-308039,r2587.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://flld.ncku.edu.tw/p/450-1165-307993,c0.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://me.ncku.edu.tw/news_detail.php?news_rkey=87L4814OZF": {
+"lecture": false
+},
+"https://www.phys.ncku.edu.tw/colloquia-detail/974/": {
+"lecture": true,
+"unit": "物理學系",
+"url": "https://www.phys.ncku.edu.tw/colloquia-detail/974/",
+"title": "凝態物理seminar Lattice regularization method for twisted TMDs 演講者 : Dr. Aitor Garcia-Ruiz  -   (NCKU Physics) 演講地點 : 理學教學新大樓物理系 5F 多功能交誼廳 2026 / 11 / 11 16:15",
+"topic": null,
+"speaker": "Dr. Aitor Garcia-Ruiz - (NCKU Physics)",
+"place": "理學教學新大樓物理系 5F 多功能交誼廳",
+"time_raw": "2026 / 11 / 11",
+"date": "2026-11-11",
+"start": [
+16,
+15
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-11",
+"pub": null,
+"v": 2
+},
+"https://www.phys.ncku.edu.tw/colloquia-detail/976/": {
+"lecture": true,
+"unit": "物理學系",
+"url": "https://www.phys.ncku.edu.tw/colloquia-detail/976/",
+"title": "凝態物理seminar Persistent Spin Helix and Superconducting Diode Effect 演講者 : Sayak, PhD syudent, NCKU  -   (-) 演講地點 : 理學教學新大樓物理系 5F 多功能交誼廳 2026 / 11 / 18 16:15",
+"topic": null,
+"speaker": "Sayak, PhD syudent, NCKU - (-)",
+"place": "理學教學新大樓物理系 5F 多功能交誼廳",
+"time_raw": "2026 / 11 / 18",
+"date": "2026-11-18",
+"start": [
+16,
+15
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-11",
+"pub": null,
+"v": 2
+},
+"https://che.ncku.edu.tw/p/406-1220-308007,r3717.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://che.ncku.edu.tw/p/406-1220-308007,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1853&index=1": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1851&index=2": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1851&index=2",
+"title": "【活動分享】11月14日(六)中研院南部院區開放活動-科普演講-成大統資系協辦 new",
+"topic": null,
+"speaker": null,
+"place": "南部院區研究大樓1F大廳",
+"time_raw": "11/14(六) 09:00-12:00",
+"date": "2026-11-14",
+"start": [
+9,
+0
+],
+"end": [
+12,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-11",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1847&index=3": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1638&index=4": {
+"lecture": false
+},
+"https://ev.ncku.edu.tw/p/406-1184-308108,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1846&index=5": {
+"lecture": false,
+"reason": "no date"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1836&index=6": {
+"lecture": false,
+"reason": "no date"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1845&index=7": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1843&index=8": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1842&index=9": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1840&index=10": {
+"lecture": false
+},
+"https://geomatics.ncku.edu.tw/p/406-1225-308071,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://geomatics.ncku.edu.tw/p/406-1225-308071,r3936.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1660&index=11": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1837&index=12": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1830&index=13": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1823&index=14": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1818&index=15": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1538&index=16": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1746&index=17": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1622&index=18": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1772&index=19": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1771&index=20": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4513": {
+"lecture": false,
+"reason": "no date"
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4513": {
+"lecture": false,
+"reason": "no date"
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4513": {
+"lecture": false,
+"reason": "no date"
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4513": {
+"lecture": false,
+"reason": "no date"
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4513": {
+"lecture": false,
+"reason": "no date"
+},
+"https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=936": {
+"lecture": true,
+"unit": "法律學系",
+"url": "https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=936",
+"title": "【國際學術講座｜斯洛伐克法學教育及司法制度】",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-18",
+"start": [
+14,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…｜ 全程英文並安排翻譯同步解說 🔗 報名連結｜ https://forms.gl…"
+],
+"found": "2026-11-11",
+"pub": null,
+"v": 2
+},
+"https://www.econ.ncku.edu.tw/album_list.asp?PSID=20261111142129706": {
+"lecture": true,
+"unit": "經濟學系",
+"url": "https://www.econ.ncku.edu.tw/album_list.asp?PSID=20261111142129706",
+"title": "115/09/22新生心理講座 描述：",
+"topic": "109/06/09 陳宜廷 研究員(中央研究院經濟所)",
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-09-22",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-11",
+"pub": null,
+"v": 2
+},
+"https://www.econ.ncku.edu.tw/album_list.asp?PSID=20261111151716706": {
+"lecture": true,
+"unit": "經濟學系",
+"url": "https://www.econ.ncku.edu.tw/album_list.asp?PSID=20261111151716706",
+"title": "115/09/22新生心理講座 描述：",
+"topic": "109/06/09 陳宜廷 研究員(中央研究院經濟所)",
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-09-22",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-11",
+"pub": null,
+"v": 2
+},
+"https://www.law.ncku.edu.tw/news_detail.asp?nid=936": {
+"lecture": true,
+"unit": "法律學系",
+"url": "https://www.law.ncku.edu.tw/news_detail.asp?nid=936",
+"title": "【國際學術講座｜斯洛伐克法學教育及司法制度】",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-18",
+"start": [
+14,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…｜ 全程英文並安排翻譯同步解說 🔗 報名連結｜ https://forms.gl…"
+],
+"found": "2026-11-11",
+"pub": null,
+"v": 2
+},
+"https://www.up.ncku.edu.tw/115-11-11-01/": {
+"lecture": false
+},
+"https://itps.ncku.edu.tw/p/406-1148-308046,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "熱帶植物與微生物科學研究所",
+"url": "https://itps.ncku.edu.tw/p/406-1148-308046,r11.php?Lang=zh-tw",
+"title": "【EMI Workshop】葉綠體蛋白質交互作用研討工作坊",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-11",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-11",
+"pub": null,
+"v": 2
+},
+"https://itps.ncku.edu.tw/p/405-1148-308046,c82.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://med.ncku.edu.tw/p/406-1015-308109,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308109,r2837.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308052,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308052,r3230.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=18938": {
+"lecture": false
+},
+"https://cge.ncku.edu.tw/p/406-1007-308017,r3941.php?Lang=zh-tw": {
+"lecture": false
 }
 }
