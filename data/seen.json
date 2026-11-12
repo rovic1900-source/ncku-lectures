@@ -26386,5 +26386,226 @@
 },
 "https://nursing.ncku.edu.tw/p/406-1106-308132,r1168.php?Lang=zh-tw": {
 "lecture": false
+},
+"https://archaeology.ncku.edu.tw/p/406-1208-308163,r3925.php?Lang=zh-tw": {
+"lecture": false,
+"reason": "no date"
+},
+"https://chinese.ncku.edu.tw/p/406-1142-308171,r2076.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://chinese.ncku.edu.tw/p/450-1142-308174,c0.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://chinese.ncku.edu.tw/p/405-1142-308171,c10333.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://dps.ncku.edu.tw/p/406-1174-308167,r3693.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://tcm.ncku.edu.tw/p/406-1172-308173,r2874.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-308165,r3115.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-308165,r1045.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1854&index=1": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1853&index=2": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1851&index=3": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1851&index=3",
+"title": "【活動分享】11月14日(六)中研院南部院區開放活動-科普演講-成大統資系協辦 new",
+"topic": null,
+"speaker": null,
+"place": "南部院區研究大樓1F大廳",
+"time_raw": "11/14(六) 09:00-12:00",
+"date": "2026-11-14",
+"start": [
+9,
+0
+],
+"end": [
+12,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-12",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1847&index=4": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1638&index=5": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1846&index=6": {
+"lecture": false,
+"reason": "no date"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1836&index=7": {
+"lecture": false,
+"reason": "no date"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1845&index=8": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1843&index=9": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1842&index=10": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1840&index=11": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1660&index=12": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1837&index=13": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1830&index=14": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1823&index=15": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1818&index=16": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1538&index=17": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1746&index=18": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1622&index=19": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1772&index=20": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-308160,r4141.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4514": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-308160,r4149.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4514": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-308160,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4514": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13621": {
+"lecture": true,
+"unit": "資訊工程學系",
+"url": "https://www.csie.ncku.edu.tw/zh-hant/news/13621",
+"title": "(出席可計seminar一次)敬邀參與115 年 11 月 17 日(二)下午13:30專題演講，歡迎系所師生踴躍參加",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-17",
+"start": [
+13,
+30
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-12",
+"pub": "2026-11-12",
+"v": 2
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13620": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4514": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4514": {
+"lecture": false
+},
+"https://www.econ.ncku.edu.tw/ActNews.asp?newsid=941": {
+"lecture": false
+},
+"https://www.econ.ncku.edu.tw/album_list.asp?PSID=20261112225433706": {
+"lecture": false
+},
+"https://itps.ncku.edu.tw/p/406-1148-308159,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "熱帶植物與微生物科學研究所",
+"url": "https://itps.ncku.edu.tw/p/406-1148-308159,r11.php?Lang=zh-tw",
+"title": "【演講】日本岡山大學小澤真一郎博士：Structural Basis of Photosynthetic Electron Transfer Regulation",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-17",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-12",
+"pub": null,
+"v": 2
+},
+"https://itps.ncku.edu.tw/p/405-1148-308159,c82.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "熱帶植物與微生物科學研究所",
+"url": "https://itps.ncku.edu.tw/p/405-1148-308159,c82.php?Lang=zh-tw",
+"title": "【演講】日本岡山大學小澤真一郎博士：Structural Basis of Photosynthetic Electron Transfer Regulation",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-17",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-12",
+"pub": null,
+"v": 2
+},
+"https://web.hyd.ncku.edu.tw/?p=18943": {
+"lecture": false
 }
 }
