@@ -9050,32 +9050,6 @@
 "https://neuro-med.ncku.edu.tw/p/406-1131-296121,r11.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://psy-med.ncku.edu.tw/p/406-1128-298717,r1888.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "精神學科",
-"url": "https://psy-med.ncku.edu.tw/p/406-1128-298717,r1888.php?Lang=zh-tw",
-"title": "2026/07/14 丘彥南醫師專題演講:兒童青少年司法精神鑑定實務",
-"topic": "兒童青少年司法精神鑑定實務",
-"speaker": "丘彥南 醫師/ 國立臺灣大學醫學院附設醫院 精神醫學部",
-"place": "住院大樓12樓B區精神部會議室",
-"time_raw": "2026年07月14日 13:00~15:00",
-"date": "2026-07-14",
-"start": [
-13,
-0
-],
-"end": [
-15,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03",
-"pub": null,
-"v": 2
-},
 "https://mse.ncku.edu.tw/p/406-1234-303726,r4148.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -18176,32 +18150,6 @@
 "https://ide.ncku.edu.tw/p/406-1160-305593,r2402.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://itps.ncku.edu.tw/p/406-1148-296004,r11.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "熱帶植物與微生物科學研究所",
-"url": "https://itps.ncku.edu.tw/p/406-1148-296004,r11.php?Lang=zh-tw",
-"title": "【演講】福島 健児博士：Macroevolution, convergence, and plants that eat",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-07-14",
-"start": [
-13,
-30
-],
-"end": [
-15,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03",
-"pub": null,
-"v": 2
-},
 "https://dbbs.ncku.edu.tw/p/406-1153-297709,r1753.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -26361,6 +26309,82 @@
 "lecture": false
 },
 "https://cge.ncku.edu.tw/p/406-1007-308017,r3941.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.phys.ncku.edu.tw/news-detail/1234/": {
+"lecture": false
+},
+"https://chinese.ncku.edu.tw/p/406-1142-308118,r2076.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "中國文學系",
+"url": "https://chinese.ncku.edu.tw/p/406-1142-308118,r2076.php?Lang=zh-tw",
+"title": "115年教育部文藝創作獎之講者心得分享會",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-18",
+"start": [
+13,
+0
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-12",
+"pub": "2026-11-12",
+"v": 2
+},
+"https://science.ncku.edu.tw/p/406-1016-308114,r668.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://science.ncku.edu.tw/p/406-1016-308114,r2343.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/406-1156-308150,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/406-1156-308150,r2186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/405-1156-308150,c18810.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://bb.ncku.edu.tw/p/406-1019-308147,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "生物科學與科技學院",
+"url": "https://bb.ncku.edu.tw/p/406-1019-308147,r11.php?Lang=zh-tw",
+"title": "【活動】社會行為與氣候韌性工作坊海報",
+"topic": null,
+"speaker": null,
+"place": "國立成功大學力行校區 生命科學大樓 1F 郭士德講堂（891S3）",
+"time_raw": "2026 年 11 月 17 日（二）",
+"date": "2026-11-17",
+"start": [
+9,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-12",
+"pub": "2026-11-12",
+"v": 2
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308128,r3728.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://nursing.ncku.edu.tw/p/406-1106-308132,r1168.php?Lang=zh-tw": {
 "lecture": false
 }
 }
