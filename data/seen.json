@@ -8616,26 +8616,6 @@
 "https://surgery.ncku.edu.tw/p/406-1126-270522,r11.php?Lang=zh-tw": {
 "lecture": false
 },
-"https://www.up.ncku.edu.tw/115-07-15-02/": {
-"lecture": true,
-"unit": "都市計劃學系",
-"url": "https://www.up.ncku.edu.tw/115-07-15-02/",
-"title": "【工作坊】2026 NCKU ✕ Ryukyus國際工作坊",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-07-15",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03",
-"pub": "2026-07-15",
-"v": 2
-},
 "https://neuro-med.ncku.edu.tw/p/406-1131-307176,r2003.php?Lang=zh-tw": {
 "lecture": false
 },
@@ -22382,34 +22362,6 @@
 "pub": null,
 "v": 2
 },
-"https://eng.ncku.edu.tw/p/406-1014-301570,r1877.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "工學院",
-"url": "https://eng.ncku.edu.tw/p/406-1014-301570,r1877.php?Lang=zh-tw",
-"title": "【活動訊息】王康隆 院士舉辦講座 : 漫談半導體及光電科研的經驗 (115.7.15 14:00 - 15:30)",
-"topic": "漫談半導體及光電科研的經驗",
-"speaker": null,
-"place": "理學大樓一樓36102",
-"time_raw": "7/15(三)14:00~15:30",
-"date": "2026-07-15",
-"start": [
-14,
-0
-],
-"end": [
-15,
-30
-],
-"tags": [
-"需報名"
-],
-"notes": [
-"報名：…美國麻省理工學院 電機系助理教授 報名網頁…"
-],
-"found": "2026-11-03",
-"pub": null,
-"v": 2
-},
 "https://eng.ncku.edu.tw/p/406-1014-291459,r3617.php?Lang=zh-tw": {
 "lecture": false,
 "reason": "no date"
@@ -23210,26 +23162,6 @@
 },
 "https://ahs.ncku.edu.tw/p/406-1129-172451,r1771.php?Lang=zh-tw": {
 "lecture": false
-},
-"https://www.up.ncku.edu.tw/115-07-15-01/": {
-"lecture": true,
-"unit": "都市計劃學系",
-"url": "https://www.up.ncku.edu.tw/115-07-15-01/",
-"title": "【國際課程與教學】2026 NCKU ✕ Ryukyus國際工作坊",
-"topic": null,
-"speaker": null,
-"place": null,
-"time_raw": null,
-"date": "2026-07-15",
-"start": null,
-"end": null,
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-04",
-"pub": "2026-07-15",
-"v": 2
 },
 "https://ahs.ncku.edu.tw/p/406-1129-163732,r1771.php?Lang=zh-tw": {
 "lecture": false
@@ -26607,5 +26539,417 @@
 },
 "https://web.hyd.ncku.edu.tw/?p=18943": {
 "lecture": false
+},
+"https://me.ncku.edu.tw/news_detail.php?news_rkey=PB9TT7W217": {
+"lecture": false
+},
+"https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=939": {
+"lecture": true,
+"unit": "法律學系",
+"url": "https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=939",
+"title": "2026臺日健康法制論壇 活動資訊",
+"topic": null,
+"speaker": null,
+"place": "國立成功大學力行校區 社會科學大樓南棟3樓 Epple教室",
+"time_raw": "2026年11月18日（星期三）",
+"date": "2026-11-18",
+"start": [
+14,
+0
+],
+"end": null,
+"tags": [
+"開放",
+"需報名"
+],
+"notes": [
+"報名：…進行深度探討，議程十分豐富，歡迎踴躍報名參加！ 【論壇資訊】 名稱：2026…"
+],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=938": {
+"lecture": false
+},
+"https://www.law.ncku.edu.tw/news_detail.asp?pid=&nid=937": {
+"lecture": false
+},
+"https://cpd.ncku.edu.tw/p/406-1021-308176,r3277.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "規劃與設計學院",
+"url": "https://cpd.ncku.edu.tw/p/406-1021-308176,r3277.php?Lang=zh-tw",
+"title": "【學院研究日特別講座】11/6 國科會蘇振綱副主委《科技政策與空間規劃影響發展》",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-06",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://www.law.ncku.edu.tw/news_detail.asp?nid=939": {
+"lecture": true,
+"unit": "法律學系",
+"url": "https://www.law.ncku.edu.tw/news_detail.asp?nid=939",
+"title": "2026臺日健康法制論壇 活動資訊",
+"topic": null,
+"speaker": null,
+"place": "國立成功大學力行校區 社會科學大樓南棟3樓 Epple教室",
+"time_raw": "2026年11月18日（星期三）",
+"date": "2026-11-18",
+"start": [
+14,
+0
+],
+"end": null,
+"tags": [
+"開放",
+"需報名"
+],
+"notes": [
+"報名：…進行深度探討，議程十分豐富，歡迎踴躍報名參加！ 【論壇資訊】 名稱：2026…"
+],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://www.law.ncku.edu.tw/news_detail.asp?nid=937": {
+"lecture": false
+},
+"https://cpd.ncku.edu.tw/p/406-1021-308176,r3272.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "規劃與設計學院",
+"url": "https://cpd.ncku.edu.tw/p/406-1021-308176,r3272.php?Lang=zh-tw",
+"title": "【學院研究日特別講座】11/6 國科會蘇振綱副主委《科技政策與空間規劃影響發展》",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-06",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://cpd.ncku.edu.tw/p/405-1021-308176,c28374.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "規劃與設計學院",
+"url": "https://cpd.ncku.edu.tw/p/405-1021-308176,c28374.php?Lang=zh-tw",
+"title": "【學院研究日特別講座】11/6 國科會蘇振綱副主委《科技政策與空間規劃影響發展》",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-06",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": "2026-11-06",
+"v": 2
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308180,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308180,r3230.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308188,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308188,r11.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.11.30 (一)  Dominique Durand - When Brain Waves Travel Without Synapses: Ephaptic Coupling and the Control of Neural Activity",
+"topic": null,
+"speaker": null,
+"place": "醫學院四樓大會議室",
+"time_raw": "115.11.30（一）",
+"date": "2026-11-30",
+"start": [
+13,
+30
+],
+"end": [
+14,
+30
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": "2026-11-13",
+"v": 2
+},
+"https://med.ncku.edu.tw/p/406-1015-308185,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308185,r11.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.11.24 (二) Song Tan - Structural recognition of the nucleosome by chromatin enzymes and factors",
+"topic": null,
+"speaker": null,
+"place": "醫學院601教室",
+"time_raw": "115.11.24（二）",
+"date": "2026-11-24",
+"start": [
+13,
+30
+],
+"end": [
+14,
+30
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": "2026-11-13",
+"v": 2
+},
+"https://med.ncku.edu.tw/p/406-1015-308188,r2837.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308188,r2837.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.11.30 (一)  Dominique Durand - When Brain Waves Travel Without Synapses: Ephaptic Coupling and the Control of Neural Activity",
+"topic": null,
+"speaker": null,
+"place": "醫學院四樓大會議室",
+"time_raw": "115.11.30（一）",
+"date": "2026-11-30",
+"start": [
+13,
+30
+],
+"end": [
+14,
+30
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": "2026-11-13",
+"v": 2
+},
+"https://med.ncku.edu.tw/p/406-1015-308185,r2837.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308185,r2837.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.11.24 (二) Song Tan - Structural recognition of the nucleosome by chromatin enzymes and factors",
+"topic": null,
+"speaker": null,
+"place": "醫學院601教室",
+"time_raw": "115.11.24（二）",
+"date": "2026-11-24",
+"start": [
+13,
+30
+],
+"end": [
+14,
+30
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": "2026-11-13",
+"v": 2
+},
+"https://med.ncku.edu.tw/p/406-1015-308188,r2042.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308188,r2042.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.11.30 (一)  Dominique Durand - When Brain Waves Travel Without Synapses: Ephaptic Coupling and the Control of Neural Activity",
+"topic": null,
+"speaker": null,
+"place": "醫學院四樓大會議室",
+"time_raw": "115.11.30（一）",
+"date": "2026-11-30",
+"start": [
+13,
+30
+],
+"end": [
+14,
+30
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": "2026-11-13",
+"v": 2
+},
+"https://hsm.ncku.edu.tw/p/406-1199-308186,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "人文暨社會醫學科",
+"url": "https://hsm.ncku.edu.tw/p/406-1199-308186,r11.php?Lang=zh-tw",
+"title": "【系列活動】2026.11.27 人文系列講座 - 「對話、計畫與單位：追問人文暨社會醫學科的搖籃」於醫學院四樓大會議室",
+"topic": null,
+"speaker": "王秀雲老師",
+"place": "醫學院四樓大會議室",
+"time_raw": "2026年11月27日(五)",
+"date": "2026-11-27",
+"start": null,
+"end": null,
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…索，也歡迎未來的開創者來想像線索。 報名：https://forms.gle…"
+],
+"found": "2026-11-13",
+"pub": "2026-11-13",
+"v": 2
+},
+"https://med.ncku.edu.tw/p/406-1015-308188,r2041.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308188,r2041.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.11.30 (一)  Dominique Durand - When Brain Waves Travel Without Synapses: Ephaptic Coupling and the Control of Neural Activity",
+"topic": null,
+"speaker": null,
+"place": "醫學院四樓大會議室",
+"time_raw": "115.11.30（一）",
+"date": "2026-11-30",
+"start": [
+13,
+30
+],
+"end": [
+14,
+30
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": "2026-11-13",
+"v": 2
+},
+"https://hsm.ncku.edu.tw/p/406-1199-308187,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "人文暨社會醫學科",
+"url": "https://hsm.ncku.edu.tw/p/406-1199-308187,r11.php?Lang=zh-tw",
+"title": "【系列活動】2026/11/13 (五) 15:00-17:00 什麼是臨床？從家的蜃樓談起。於崑巖故居辦理",
+"topic": null,
+"speaker": "彭仁郁副研究員_中央研究院民族研究所",
+"place": "崑巖故居",
+"time_raw": null,
+"date": "2026-11-13",
+"start": [
+15,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…:00-17:00 地點：崑巖故居 報名：https://forms.gle…"
+],
+"found": "2026-11-13",
+"pub": "2026-11-11",
+"v": 2
+},
+"https://med.ncku.edu.tw/p/406-1015-308185,r2041.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308185,r2041.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.11.24 (二) Song Tan - Structural recognition of the nucleosome by chromatin enzymes and factors",
+"topic": null,
+"speaker": null,
+"place": "醫學院601教室",
+"time_raw": "115.11.24（二）",
+"date": "2026-11-24",
+"start": [
+13,
+30
+],
+"end": [
+14,
+30
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": "2026-11-13",
+"v": 2
+},
+"https://hsm.ncku.edu.tw/p/406-1199-308186,r4239.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "人文暨社會醫學科",
+"url": "https://hsm.ncku.edu.tw/p/406-1199-308186,r4239.php?Lang=zh-tw",
+"title": "【系列活動】2026.11.27 人文系列講座 - 「對話、計畫與單位：追問人文暨社會醫學科的搖籃」於醫學院四樓大會議室",
+"topic": null,
+"speaker": "王秀雲老師",
+"place": "醫學院四樓大會議室",
+"time_raw": "2026年11月27日(五)",
+"date": "2026-11-27",
+"start": null,
+"end": null,
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…索，也歡迎未來的開創者來想像線索。 報名：https://forms.gle…"
+],
+"found": "2026-11-13",
+"pub": "2026-11-13",
+"v": 2
+},
+"https://hsm.ncku.edu.tw/p/406-1199-308187,r4239.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "人文暨社會醫學科",
+"url": "https://hsm.ncku.edu.tw/p/406-1199-308187,r4239.php?Lang=zh-tw",
+"title": "【系列活動】2026/11/13 (五) 15:00-17:00 什麼是臨床？從家的蜃樓談起。於崑巖故居辦理",
+"topic": null,
+"speaker": "彭仁郁副研究員_中央研究院民族研究所",
+"place": "崑巖故居",
+"time_raw": null,
+"date": "2026-11-13",
+"start": [
+15,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…:00-17:00 地點：崑巖故居 報名：https://forms.gle…"
+],
+"found": "2026-11-13",
+"pub": "2026-11-11",
+"v": 2
 }
 }
