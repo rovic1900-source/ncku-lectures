@@ -26951,5 +26951,323 @@
 "found": "2026-11-13",
 "pub": "2026-11-11",
 "v": 2
+},
+"https://chinese.ncku.edu.tw/p/406-1142-308193,r2076.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://chinese.ncku.edu.tw/p/405-1142-308193,c10333.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/406-1143-308216,r668.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "臺灣文學系",
+"url": "https://twl.ncku.edu.tw/p/406-1143-308216,r668.php?Lang=zh-tw",
+"title": "【台語文學講座】美麗的「五爪的佮我」，2026年11月17日(二)下午2:20",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-17",
+"start": [
+14,
+20
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://twl.ncku.edu.tw/p/406-1143-308216,r3545.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "臺灣文學系",
+"url": "https://twl.ncku.edu.tw/p/406-1143-308216,r3545.php?Lang=zh-tw",
+"title": "【台語文學講座】美麗的「五爪的佮我」，2026年11月17日(二)下午2:20",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-17",
+"start": [
+14,
+20
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://twl.ncku.edu.tw/p/412-1143-10439.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/405-1143-308216,c10439.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "臺灣文學系",
+"url": "https://twl.ncku.edu.tw/p/405-1143-308216,c10439.php?Lang=zh-tw",
+"title": "【台語文學講座】美麗的「五爪的佮我」，2026年11月17日(二)下午2:20",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-17",
+"start": [
+14,
+20
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://twl.ncku.edu.tw/p/405-1143-307956,c10439.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/405-1143-307895,c10439.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/405-1143-307888,c10439.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "臺灣文學系",
+"url": "https://twl.ncku.edu.tw/p/405-1143-307888,c10439.php?Lang=zh-tw",
+"title": "【台語文學講座】選擇了海，2026年11月23日(一)下午2:20",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-23",
+"start": [
+14,
+20
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://twl.ncku.edu.tw/p/405-1143-307369,c10439.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/405-1143-307283,c10439.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/405-1143-307102,c10439.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://twl.ncku.edu.tw/p/405-1143-306796,c10439.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "臺灣文學系",
+"url": "https://twl.ncku.edu.tw/p/405-1143-306796,c10439.php?Lang=zh-tw",
+"title": "【專題演講】11月9日，講題：歐洲大學漢學專業的語言課程設置及台語文課程可扮演的角色",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-09",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://twl.ncku.edu.tw/p/405-1143-306795,c10439.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "臺灣文學系",
+"url": "https://twl.ncku.edu.tw/p/405-1143-306795,c10439.php?Lang=zh-tw",
+"title": "【專題演講】11月9日，講題：台日關係——過去與未來",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-09",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://www.phys.ncku.edu.tw/colloquia-detail/978/": {
+"lecture": true,
+"unit": "物理學系",
+"url": "https://www.phys.ncku.edu.tw/colloquia-detail/978/",
+"title": "其他演講 【專題演講】Single Molecules to Living Cells: Atomic Force Microscopy Meets Cell Biology 演講者 : Prof. Shige H. Yoshimura  -   (Department of Biology, Faculty of Science, Kyushu University, Japan) 演講地點 : 理學教學新大樓物理系 5F 36567會議室 2026 / 11 / 20 11:10",
+"topic": null,
+"speaker": "Prof. Shige H. Yoshimura - (Department of Biology, Faculty of Science, Kyushu University, Japan)",
+"place": "理學教學新大樓物理系 5F 36567會議室",
+"time_raw": "2026 / 11 / 20",
+"date": "2026-11-20",
+"start": [
+11,
+10
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=771&index=1": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=654&index=2": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=764&index=3": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=770&index=2": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=766&index=3": {
+"lecture": true,
+"unit": "IMBA",
+"url": "https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=766&index=3",
+"title": "【專題演講公告】: Complex and Critical: AI Delegation in Supplier Selection",
+"topic": "Complex and Critical: AI Delegation in Supplier Selection",
+"speaker": null,
+"place": "62201教室",
+"time_raw": "2026年10月16日（星期五）14:00–16:00",
+"date": "2026-10-16",
+"start": [
+14,
+0
+],
+"end": [
+16,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": "2026-10-06",
+"v": 2
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=654&index=4": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=764&index=5": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=763&index=6": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=758&index=7": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=709&index=8": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=707&index=9": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=706&index=10": {
+"lecture": false
+},
+"https://mp.ncku.edu.tw/%e8%83%bd%e6%ba%90%e7%b6%93%e6%bf%9f%e5%ad%b8%e6%9c%83115%e5%b9%b4%e5%84%aa%e7%a7%80%e5%8d%9a%e7%a2%a9%e5%a3%ab%e8%ab%96%e6%96%87%e7%8d%8e%e5%85%ac%e5%b8%83%e8%b3%87%e6%ba%90%e5%b7%a5%e7%a8%8b/": {
+"lecture": false
+},
+"https://www.es.ncku.edu.tw/esncku/zh/honor/867": {
+"lecture": false
+},
+"https://www.es.ncku.edu.tw/esncku/zh/news": {
+"lecture": false
+},
+"https://www.es.ncku.edu.tw/esncku/zh/activity": {
+"lecture": true,
+"unit": "工程科學系",
+"url": "https://www.es.ncku.edu.tw/esncku/zh/activity",
+"title": "活動及演講 (...more)",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-13",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-13",
+"pub": null,
+"v": 2
+},
+"https://www.es.ncku.edu.tw/esncku/zh/honor": {
+"lecture": false
+},
+"https://www.es.ncku.edu.tw/esncku/zh/recruit": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13622": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13623": {
+"lecture": false
+},
+"https://www.imi.ncku.edu.tw/zh-hant/news/391": {
+"lecture": false
+},
+"https://www.polsci.ncku.edu.tw/news_detail.asp?pid=2&nid=756": {
+"lecture": false
+},
+"https://www.polsci.ncku.edu.tw/news_detail.asp?nid=756": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/406-1156-307572,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/406-1156-307572,r2186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/450-1156-308222,c0.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308194,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308194,r2837.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308194,r2041.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308212,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308212,r3229.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=18955": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-11-13-01/": {
+"lecture": false
 }
 }
