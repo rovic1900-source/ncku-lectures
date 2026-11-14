@@ -22336,32 +22336,6 @@
 "pub": null,
 "v": 2
 },
-"https://eng.ncku.edu.tw/p/406-1014-301721,r1877.php?Lang=zh-tw": {
-"lecture": true,
-"unit": "工學院",
-"url": "https://eng.ncku.edu.tw/p/406-1014-301721,r1877.php?Lang=zh-tw",
-"title": "【活動訊息】郭正山 院士舉辦講座 :工程實踐經驗分享 (115.7.16 15:30-17:00)",
-"topic": "工程實踐經驗分享",
-"speaker": "中央研究院郭正山院士",
-"place": "俊銘講堂 (自強校區機械系1F)",
-"time_raw": "115年7月16日(星期四)15:30-17:00",
-"date": "2026-07-16",
-"start": [
-15,
-30
-],
-"end": [
-17,
-0
-],
-"tags": [
-"未註明"
-],
-"notes": [],
-"found": "2026-11-03",
-"pub": null,
-"v": 2
-},
 "https://eng.ncku.edu.tw/p/406-1014-291459,r3617.php?Lang=zh-tw": {
 "lecture": false,
 "reason": "no date"
@@ -27269,5 +27243,57 @@
 },
 "https://www.up.ncku.edu.tw/115-11-13-01/": {
 "lecture": false
+},
+"https://dfsr.ncku.edu.tw/p/406-1228-296396,r4249.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/406-1228-296396,r4249.php?Lang=zh-tw",
+"title": "演講公告：未來的機會：尋找下一個跨領域的獨角獸 / Future Opportunities: Hunting for the Next Cross-Domain Unicorn",
+"topic": "Future Opportunities: Hunting for the Next Cross-Domain Unicorn",
+"speaker": "陳顯侯 董事長 與 林玟妤 執行長",
+"place": "生醫卓群大樓1樓鳯杯講堂",
+"time_raw": "2/26 – 3：10 PM～5：00 PM",
+"date": "2027-02-26",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-14",
+"pub": null,
+"v": 2
+},
+"https://dfsr.ncku.edu.tw/p/405-1228-296396,c32291.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/405-1228-296396,c32291.php?Lang=zh-tw",
+"title": "演講公告：未來的機會：尋找下一個跨領域的獨角獸 / Future Opportunities: Hunting for the Next Cross-Domain Unicorn",
+"topic": "Future Opportunities: Hunting for the Next Cross-Domain Unicorn",
+"speaker": "陳顯侯 董事長 與 林玟妤 執行長",
+"place": "生醫卓群大樓1樓鳯杯講堂",
+"time_raw": "2/26 – 3：10 PM～5：00 PM",
+"date": "2027-02-26",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-14",
+"pub": null,
+"v": 2
 }
 }
