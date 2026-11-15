@@ -27295,5 +27295,239 @@
 "found": "2026-11-14",
 "pub": null,
 "v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1856&index=1": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1856&index=1",
+"title": "【專題演講】115/11/19(四) 15:30-16:30 陳彥霖 博士候選人",
+"topic": "Targeted maximum likelihood estimation for mediation analysis with multiple time-varying mediators",
+"speaker": "陳彥霖 博士候選人",
+"place": "線上形式",
+"time_raw": null,
+"date": "2026-11-19",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-15",
+"pub": "2026-11-15",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1848&index=2": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1848&index=2",
+"title": "【專題演講】115/11/12(四) 15:30-16:30 殷壽鏞 副教授",
+"topic": "Partial Least Squares with Non-stationary Series: Application to Forecasting",
+"speaker": "殷壽鏞 副教授",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-11-12",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-15",
+"pub": "2026-11-05",
+"v": 2
+},
+"https://mse.ncku.edu.tw/p/406-1234-308237,r4151.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-308237,r4151.php?Lang=zh-tw",
+"title": "115學年材料系-第十一週 專題研討課程 演講公告 (115年11月16日)",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-16",
+"start": [
+15,
+20
+],
+"end": [
+17,
+10
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-15",
+"pub": "2026-11-15",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1841&index=3": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1841&index=3",
+"title": "【專題演講】115/10/22(四) 15:30-16:30 楊昊紘 博士後研究員",
+"topic": "Finite-Sample Inference for Adaptive Testing: Confidence Sequences and No-Regret Item Selection",
+"speaker": "楊昊紘 博士後研究員",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-10-22",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-15",
+"pub": "2026-10-15",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1829&index=4": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1829&index=4",
+"title": "【專題演講】115/10/15(四) 15:30-16:30 吳宜珊 博士後研究員",
+"topic": "What Makes a Generalization Bound Useful for Learning?",
+"speaker": "吳宜珊 博士後研究員",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-10-15",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-15",
+"pub": "2026-10-07",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1821&index=5": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1821&index=5",
+"title": "【專題演講】115/10/08(四) 15:30-16:30 施嘉翰 助理教授",
+"topic": "Regression Association and Its Measurement",
+"speaker": "施嘉翰助理教授",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-10-08",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-15",
+"pub": "2026-09-29",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1793&index=6": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1793&index=6",
+"title": "【專題演講】115/9/22(二) 11:10-12:00  Prof. Masao Ueki",
+"topic": "Regression modeling combined with unsupervised clustering",
+"speaker": "Prof. Masao Ueki",
+"place": "統計與資料科學學系二樓教室 (62227)",
+"time_raw": null,
+"date": "2026-09-22",
+"start": [
+11,
+10
+],
+"end": [
+12,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-15",
+"pub": "2026-09-14",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1791&index=7": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1791&index=7",
+"title": "【專題演講】115/9/17(四) 15:30-16:30 吳柔瑾 助理教授",
+"topic": "Transfer Learning for Complex Models and High-Dimensional Error-Prone Variables",
+"speaker": "吳柔瑾助理教授",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-09-17",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-15",
+"pub": "2026-09-14",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1773&index=8": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1773&index=8",
+"title": "【專題演講】115/9/10(四) 15:30-16:30 李百靈 副教授",
+"topic": "Modeling curves and derivatives as predictors for traffic breakdown probabilities",
+"speaker": "李百靈副教授",
+"place": "統計與資料科學學系三樓視聽教室 (62331)",
+"time_raw": null,
+"date": "2026-09-10",
+"start": [
+15,
+30
+],
+"end": [
+16,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-15",
+"pub": "2026-09-02",
+"v": 2
 }
 }
