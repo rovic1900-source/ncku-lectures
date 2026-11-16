@@ -27529,5 +27529,134 @@
 "found": "2026-11-15",
 "pub": "2026-09-02",
 "v": 2
+},
+"https://math.ncku.edu.tw/p/406-1221-308242,r3765.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://archaeology.ncku.edu.tw/p/406-1208-308246,r3925.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "考古學研究所",
+"url": "https://archaeology.ncku.edu.tw/p/406-1208-308246,r3925.php?Lang=zh-tw",
+"title": "【演講】「南島文化與研究」課程-Suliljaw Lusausatj(葉一飛)博士專題講座",
+"topic": "刺一條原住民族的大洋洲外交途徑",
+"speaker": "Suliljaw Lusausatj (葉一飛) / 中央研究院民族學研究所 博士後研究員",
+"place": "成功大學力行校區考古學研究所R102教室",
+"time_raw": "2026年11月19日(星期四) 上午 10:00-12:00",
+"date": "2026-11-19",
+"start": [
+10,
+0
+],
+"end": [
+12,
+0
+],
+"tags": [
+"限定"
+],
+"notes": [
+"限定依據：…115-1 「南島文化與研究」課程講座 日期：2026年11月19日(星期…"
+],
+"found": "2026-11-16",
+"pub": "2026-11-16",
+"v": 2
+},
+"https://math.ncku.edu.tw/p/406-1221-308241,r3765.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-308242,r3750.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-308241,r3750.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ba.ncku.edu.tw/p/406-1177-308245,r2800.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "企業管理學系",
+"url": "https://ba.ncku.edu.tw/p/406-1177-308245,r2800.php?Lang=zh-tw",
+"title": "演講主題：From curiosity to research question, and beyond 演講者：溫丹瑋 博士 台南大學經管系助理教授 演講日期：2026-11-16(四) 19：00-22：00 演講地點：企管系 62453教室",
+"topic": "From curiosity to research question, and beyond",
+"speaker": "溫丹瑋 博士 台南大學經管系助理教授",
+"place": "企管系 62453教室",
+"time_raw": null,
+"date": "2026-11-16",
+"start": [
+19,
+0
+],
+"end": [
+22,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-16",
+"pub": "2026-11-16",
+"v": 2
+},
+"https://ba.ncku.edu.tw/p/406-1177-308245,r2798.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "企業管理學系",
+"url": "https://ba.ncku.edu.tw/p/406-1177-308245,r2798.php?Lang=zh-tw",
+"title": "演講主題：From curiosity to research question, and beyond 演講者：溫丹瑋 博士 台南大學經管系助理教授 演講日期：2026-11-16(四) 19：00-22：00 演講地點：企管系 62453教室",
+"topic": "From curiosity to research question, and beyond",
+"speaker": "溫丹瑋 博士 台南大學經管系助理教授",
+"place": "企管系 62453教室",
+"time_raw": null,
+"date": "2026-11-16",
+"start": [
+19,
+0
+],
+"end": [
+22,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-16",
+"pub": "2026-11-16",
+"v": 2
+},
+"https://www.polsci.ncku.edu.tw/news_detail.asp?nid=757": {
+"lecture": true,
+"unit": "政治學系",
+"url": "https://www.polsci.ncku.edu.tw/news_detail.asp?nid=757",
+"title": ">「決戰地方之後：2026臺灣地方選舉的政治變局與治理挑戰」論壇",
+"topic": null,
+"speaker": null,
+"place": "國立成功大學力行校區魔法學校第1會議B1",
+"time_raw": "2026年12月4日（星期五）下午1點到3點",
+"date": "2026-12-04",
+"start": [
+13,
+0
+],
+"end": null,
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…可列入國立成功大學「通識講座」認證 報名連結 回上一頁…"
+],
+"found": "2026-11-16",
+"pub": null,
+"v": 2
+},
+"https://imis.ncku.edu.tw/p/406-1156-308240,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/406-1156-308240,r2186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/405-1156-308240,c18810.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://neuro-med.ncku.edu.tw/p/406-1131-308243,r2003.php?Lang=zh-tw": {
+"lecture": false
 }
 }
