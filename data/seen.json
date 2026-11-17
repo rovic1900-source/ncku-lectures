@@ -28167,5 +28167,377 @@
 },
 "https://imm-med.ncku.edu.tw/p/406-1173-308364,r2692.php?Lang=zh-tw": {
 "lecture": false
+},
+"https://dps.ncku.edu.tw/p/406-1174-308368,r2978.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://management.ncku.edu.tw/p/406-1017-308373,r2378.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4183&index=1": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4122&index=2": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4115&index=3": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4106&index=4": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4046&index=5": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4034&index=6": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4030&index=7": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4184&index=1": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=3248&index=2": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4127&index=3": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4126&index=4": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4125&index=5": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4120&index=6": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4119&index=7": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4114&index=8": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4112&index=9": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4109&index=10": {
+"lecture": false
+},
+"https://management.ncku.edu.tw/p/406-1017-308373,r2382.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://emba.ncku.edu.tw/p/406-1140-308388,r2373.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://emba.ncku.edu.tw/p/406-1140-308389,r2373.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://emba.ncku.edu.tw/p/406-1140-308388,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://emba.ncku.edu.tw/p/406-1140-308389,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://sname.ncku.edu.tw/115-1%e7%b3%bb%e7%b5%b1%e7%b3%bb%e9%ab%98%e6%95%99%e6%b7%b1%e8%80%95%e8%a8%88%e7%95%ab%e7%8d%8e%e5%ad%b8%e9%87%91%e5%90%8d%e9%a1%8d2%e5%90%8d%ef%bc%8c%e6%94%b6%e4%bb%b6%e6%88%aa%e6%ad%a2%e8%87%b311/": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=773&index=1": {
+"lecture": true,
+"unit": "IMBA",
+"url": "https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=773&index=1",
+"title": "【專題演講公告】:Trade Sanctions and the Margins of International Trade",
+"topic": null,
+"speaker": null,
+"place": "Building of Management, Room 62201 (2nd Floor)",
+"time_raw": null,
+"date": "2026-11-17",
+"start": [
+14,
+0
+],
+"end": [
+16,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-18",
+"pub": "2026-11-17",
+"v": 2
+},
+"https://emba.ncku.edu.tw/p/406-1140-308388,r2374.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=771&index=2": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=770&index=3": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=766&index=4": {
+"lecture": true,
+"unit": "IMBA",
+"url": "https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=766&index=4",
+"title": "【專題演講公告】: Complex and Critical: AI Delegation in Supplier Selection",
+"topic": "Complex and Critical: AI Delegation in Supplier Selection",
+"speaker": null,
+"place": "62201教室",
+"time_raw": "2026年10月16日（星期五）14:00–16:00",
+"date": "2026-10-16",
+"start": [
+14,
+0
+],
+"end": [
+16,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-18",
+"pub": "2026-10-06",
+"v": 2
+},
+"https://emba.ncku.edu.tw/p/406-1140-308389,r2374.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=654&index=5": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=764&index=6": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=763&index=7": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=758&index=8": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=709&index=9": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=707&index=10": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1857&index=1": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1854&index=2": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1853&index=3": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1851&index=4": {
+"lecture": true,
+"unit": "統計與資料科學學系",
+"url": "https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1851&index=4",
+"title": "【活動分享】11月14日(六)中研院南部院區開放活動-科普演講-成大統資系協辦 new",
+"topic": null,
+"speaker": null,
+"place": "南部院區研究大樓1F大廳",
+"time_raw": "11/14(六) 09:00-12:00",
+"date": "2026-11-14",
+"start": [
+9,
+0
+],
+"end": [
+12,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-18",
+"pub": "2026-11-09",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1847&index=5": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1638&index=6": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1846&index=7": {
+"lecture": false,
+"reason": "no date"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1836&index=8": {
+"lecture": false,
+"reason": "no date"
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1845&index=9": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1843&index=10": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-308330,r4151.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-308330,r4151.php?Lang=zh-tw",
+"title": "115學年材料系 第十一週 專題研討課程 演講公告 (115年11月19日)",
+"topic": "Advancing Battery Performance through Sustainable Pectin-Based Binders",
+"speaker": "林懷恩 副教授",
+"place": "成功大學成功校區三系館鋼構區(3F)共同教室 A1302演講廳",
+"time_raw": "民國 115年 11月 19日(四)",
+"date": "2026-11-19",
+"start": [
+15,
+20
+],
+"end": [
+17,
+10
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-18",
+"pub": "2026-11-17",
+"v": 2
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1842&index=11": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1840&index=12": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1660&index=13": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1837&index=14": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1830&index=15": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1823&index=16": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1818&index=17": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1538&index=18": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1746&index=19": {
+"lecture": false
+},
+"https://stat.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=1622&index=20": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-308330,r4147.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-308330,r4147.php?Lang=zh-tw",
+"title": "115學年材料系 第十一週 專題研討課程 演講公告 (115年11月19日)",
+"topic": "Advancing Battery Performance through Sustainable Pectin-Based Binders",
+"speaker": "林懷恩 副教授",
+"place": "成功大學成功校區三系館鋼構區(3F)共同教室 A1302演講廳",
+"time_raw": "民國 115年 11月 19日(四)",
+"date": "2026-11-19",
+"start": [
+15,
+20
+],
+"end": [
+17,
+10
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-18",
+"pub": "2026-11-17",
+"v": 2
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13626": {
+"lecture": true,
+"unit": "資訊工程學系",
+"url": "https://www.csie.ncku.edu.tw/zh-hant/news/13626",
+"title": "(出席可計seminar一次) 2026/11/25（三）下午 1:30 演講訊息",
+"topic": null,
+"speaker": "江沂璇（UIUC 電腦科學系博士候選人，研究 HCI 與 Usable security & privacy）",
+"place": "成大資訊系 4204（階梯教室）",
+"time_raw": "2026/11/25（三）下午 1:30",
+"date": "2026-11-25",
+"start": [
+13,
+30
+],
+"end": null,
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…簽退，缺一次不計次數， 要參加的同學請先報名，謝謝! 在AI服務越來越普及的年代…"
+],
+"found": "2026-11-18",
+"pub": "2026-11-17",
+"v": 2
+},
+"https://mse.ncku.edu.tw/p/406-1234-308391,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/406-1156-308392,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/406-1156-308392,r2186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.econ.ncku.edu.tw/album_list.asp?PSID=20261117091230706": {
+"lecture": true,
+"unit": "經濟學系",
+"url": "https://www.econ.ncku.edu.tw/album_list.asp?PSID=20261117091230706",
+"title": "115/09/22新生心理講座 描述：",
+"topic": "109/06/09 陳宜廷 研究員(中央研究院經濟所)",
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-09-22",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-18",
+"pub": null,
+"v": 2
+},
+"https://imis.ncku.edu.tw/p/405-1156-308392,c18810.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308383,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308383,r3227.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ais2m.ncku.edu.tw/?action=news&id=2620": {
+"lecture": false
+},
+"https://ibms.ncku.edu.tw/p/406-1196-308382,r3186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ibms.ncku.edu.tw/p/406-1196-308378,r3186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ibms.ncku.edu.tw/p/406-1196-308377,r3186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ibms.ncku.edu.tw/p/406-1196-308367,r3186.php?Lang=zh-tw": {
+"lecture": false
 }
 }
