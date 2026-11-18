@@ -28566,5 +28566,58 @@
 },
 "https://medicine.ncku.edu.tw/p/406-1152-308390,r3228.php?Lang=zh-tw": {
 "lecture": false
+},
+"https://chinese.ncku.edu.tw/p/406-1142-308429,r1186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://dps.ncku.edu.tw/p/406-1174-308439,r2980.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://emba.ncku.edu.tw/p/406-1140-308425,r2373.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://emba.ncku.edu.tw/p/406-1140-308425,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://emba.ncku.edu.tw/p/406-1140-308425,r2374.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ev.ncku.edu.tw/p/406-1184-308441,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ev.ncku.edu.tw/p/406-1184-308437,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13627": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/450-1156-33158,c1.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308390,r3728.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=18991": {
+"lecture": true,
+"unit": "水利及海洋工程學系",
+"url": "https://web.hyd.ncku.edu.tw/?p=18991",
+"title": "2026-11-17 郭玉樹老師_專題討論(一) (三) (專題演講)",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-17",
+"start": [
+16,
+47
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-18",
+"pub": "2026-11-18",
+"v": 2
 }
 }
