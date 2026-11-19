@@ -28697,5 +28697,82 @@
 },
 "https://www.up.ncku.edu.tw/115-11-19-01/": {
 "lecture": false
+},
+"https://dps.ncku.edu.tw/p/406-1174-308515,r2882.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.phys.ncku.edu.tw/news-detail/1235/": {
+"lecture": false
+},
+"https://www.phys.ncku.edu.tw/news-detail/1099/": {
+"lecture": false
+},
+"https://bme.ncku.edu.tw/p/406-1101-308474,r2350.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://bme.ncku.edu.tw/p/406-1101-308474,r2323.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4520": {
+"lecture": false
+},
+"https://emgp.ncku.edu.tw/p/403-1164-4293.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4520": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4520": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4520": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4520": {
+"lecture": false
+},
+"https://icid.ncku.edu.tw/news/one-character-one-fruit-calligraphy-exhibition": {
+"lecture": false
+},
+"https://technoart.ncku.edu.tw/p/406-1157-308509,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-11-19-05/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-11-19-04/": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-11-19-03/": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=19009": {
+"lecture": false
+},
+"https://nursing.ncku.edu.tw/p/406-1106-308517,r988.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=18998": {
+"lecture": true,
+"unit": "水利及海洋工程學系",
+"url": "https://web.hyd.ncku.edu.tw/?p=18998",
+"title": "2026-11-19 水中聲學(專題演講)",
+"topic": null,
+"speaker": "玉山學者 Prof. Zoran Vojinovic",
+"place": null,
+"time_raw": null,
+"date": "2026-11-19",
+"start": [
+17,
+42
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-19",
+"pub": "2026-11-19",
+"v": 2
 }
 }
