@@ -28977,5 +28977,319 @@
 },
 "https://computing.ncku.edu.tw/p/406-1138-219497,r302.php?Lang=zh-tw": {
 "lecture": false
+},
+"https://mapd.ncku.edu.tw/p/406-1145-308566,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://chinese.ncku.edu.tw/p/406-1142-308572,r1185.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://art.ncku.edu.tw/p/406-1146-308564,r3454.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ba.ncku.edu.tw/p/406-1177-308553,r2800.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ba.ncku.edu.tw/p/406-1177-308553,r2808.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.phys.ncku.edu.tw/colloquia-detail/976__2/": {
+"lecture": true,
+"unit": "物理學系",
+"url": "https://www.phys.ncku.edu.tw/colloquia-detail/976__2/",
+"title": "凝態物理seminar Spin Hall Conductivity: A Quantum-Geometric Connection beyond Spin Conservation 演講者 : 李嘉恩, Master student, NCKU  -   (-) 演講地點 : 理學教學新大樓物理系 5F 多功能交誼廳 2026 / 11 / 25 16:15",
+"topic": null,
+"speaker": "李嘉恩, Master student, NCKU - (-)",
+"place": "理學教學新大樓物理系 5F 多功能交誼廳",
+"time_raw": "2026 / 11 / 25",
+"date": "2026-11-25",
+"start": [
+16,
+15
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": null,
+"v": 2
+},
+"https://www.phys.ncku.edu.tw/colloquia-detail/976__1/": {
+"lecture": true,
+"unit": "物理學系",
+"url": "https://www.phys.ncku.edu.tw/colloquia-detail/976__1/",
+"title": "凝態物理seminar Quantum Transport Simulations for Folded Graphene 演講者 : 高寧, Master student, NCKU  -   (-) 演講地點 : 理學教學新大樓物理系 5F 多功能交誼廳 2026 / 12 / 02 16:15",
+"topic": null,
+"speaker": "高寧, Master student, NCKU - (-)",
+"place": "理學教學新大樓物理系 5F 多功能交誼廳",
+"time_raw": "2026 / 12 / 02",
+"date": "2026-12-02",
+"start": [
+16,
+15
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": null,
+"v": 2
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4186&index=1": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4128&index=2": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4113&index=3": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4110&index=4": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4074&index=5": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4063&index=6": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4061&index=7": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4026&index=8": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=4007&index=9": {
+"lecture": false
+},
+"https://www.acc.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=3999&index=10": {
+"lecture": false
+},
+"https://www.es.ncku.edu.tw/esncku/zh/news/2509": {
+"lecture": false
+},
+"https://civil.ncku.edu.tw/p/406-1232-308554,r4076.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4521": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4521": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4521": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4521": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4521": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13630": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13629": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13631": {
+"lecture": false
+},
+"https://itps.ncku.edu.tw/p/406-1148-308573,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "熱帶植物與微生物科學研究所",
+"url": "https://itps.ncku.edu.tw/p/406-1148-308573,r11.php?Lang=zh-tw",
+"title": "【演講】日本埼玉大學西山佳孝教授：Stress Responses of Photosynthesis: From Basic Mechanisms to the Enhancement of Stress Tolerance",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-24",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": null,
+"v": 2
+},
+"https://itps.ncku.edu.tw/p/405-1148-308573,c82.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "熱帶植物與微生物科學研究所",
+"url": "https://itps.ncku.edu.tw/p/405-1148-308573,c82.php?Lang=zh-tw",
+"title": "【演講】日本埼玉大學西山佳孝教授：Stress Responses of Photosynthesis: From Basic Mechanisms to the Enhancement of Stress Tolerance",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-24",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": null,
+"v": 2
+},
+"https://www.up.ncku.edu.tw/115-11-02-02/": {
+"lecture": true,
+"unit": "都市計劃學系",
+"url": "https://www.up.ncku.edu.tw/115-11-02-02/",
+"title": "【氣候變遷教育推廣】綠領人才與永續職涯發展企業座談會：拓展都市計畫跨領域職涯",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-02",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": "2026-11-02",
+"v": 2
+},
+"https://www.up.ncku.edu.tw/115-11-02-01/": {
+"lecture": true,
+"unit": "都市計劃學系",
+"url": "https://www.up.ncku.edu.tw/115-11-02-01/",
+"title": "【氣候變遷教育推廣】重返七股跨領域增能工作坊：從漁電共生觀察能源轉型與地方韌性",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-02",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": "2026-11-02",
+"v": 2
+},
+"https://ahs.ncku.edu.tw/p/406-1129-308550,r1793.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "健康照護科學研究所",
+"url": "https://ahs.ncku.edu.tw/p/406-1129-308550,r1793.php?Lang=zh-tw",
+"title": "【演講】2026.11.25(三) 09:10–10:30 心理學系「腦與認知專題講座」",
+"topic": "The impact of midlife social isolation on executive function.",
+"speaker": "Nu-Chu Liang, Ph.D.（美國伊利諾大學香檳分校 University of Illinois Urbana-Champaign 心理學系副教授）",
+"place": "成大社會科學院北棟2樓心理學系階梯教室",
+"time_raw": "2026年11月25日（星期三）​09:10–10:30",
+"date": "2026-11-25",
+"start": [
+9,
+10
+],
+"end": [
+10,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": null,
+"v": 2
+},
+"https://ahs.ncku.edu.tw/p/406-1129-308550,r2310.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "健康照護科學研究所",
+"url": "https://ahs.ncku.edu.tw/p/406-1129-308550,r2310.php?Lang=zh-tw",
+"title": "【演講】2026.11.25(三) 09:10–10:30 心理學系「腦與認知專題講座」",
+"topic": "The impact of midlife social isolation on executive function.",
+"speaker": "Nu-Chu Liang, Ph.D.（美國伊利諾大學香檳分校 University of Illinois Urbana-Champaign 心理學系副教授）",
+"place": "成大社會科學院北棟2樓心理學系階梯教室",
+"time_raw": "2026年11月25日（星期三）​09:10–10:30",
+"date": "2026-11-25",
+"start": [
+9,
+10
+],
+"end": [
+10,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": null,
+"v": 2
+},
+"https://ais2m.ncku.edu.tw/?action=news&id=2628": {
+"lecture": false
+},
+"https://ahs.ncku.edu.tw/p/406-1129-308550,r2320.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "健康照護科學研究所",
+"url": "https://ahs.ncku.edu.tw/p/406-1129-308550,r2320.php?Lang=zh-tw",
+"title": "【演講】2026.11.25(三) 09:10–10:30 心理學系「腦與認知專題講座」",
+"topic": "The impact of midlife social isolation on executive function.",
+"speaker": "Nu-Chu Liang, Ph.D.（美國伊利諾大學香檳分校 University of Illinois Urbana-Champaign 心理學系副教授）",
+"place": "成大社會科學院北棟2樓心理學系階梯教室",
+"time_raw": "2026年11月25日（星期三）​09:10–10:30",
+"date": "2026-11-25",
+"start": [
+9,
+10
+],
+"end": [
+10,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": null,
+"v": 2
+},
+"https://www.up.ncku.edu.tw/115-11-12-01/": {
+"lecture": true,
+"unit": "都市計劃學系",
+"url": "https://www.up.ncku.edu.tw/115-11-12-01/",
+"title": "【國際學術交流】大阪大學 × 成大都計｜臺南都市萎縮與鄉村永續發展研究工作坊",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-12",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-20",
+"pub": "2026-11-12",
+"v": 2
 }
 }
