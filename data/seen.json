@@ -30814,5 +30814,179 @@
 },
 "https://mt.ncku.edu.tw/p/406-1151-308718,r11.php?Lang=zh-tw": {
 "lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-308747,r3115.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://pehl.ncku.edu.tw/p/406-1136-308747,r1045.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4529": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13635": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-308731,r4151.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "材料科學及工程學系",
+"url": "https://mse.ncku.edu.tw/p/406-1234-308731,r4151.php?Lang=zh-tw",
+"title": "115學年材料所-第十一週 專題研討課程 演講公告 (115年11月26日)",
+"topic": "探索二維材料的隱藏世界：從原子層到電子態的奧祕",
+"speaker": "鄭澄懋",
+"place": "成功大學成功校區三系館鋼構區(3F)共同教室 A1302演講廳",
+"time_raw": "民國 115年 11月 26日(四)",
+"date": "2026-11-26",
+"start": [
+15,
+20
+],
+"end": [
+17,
+10
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-25",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4529": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4529": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4529": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4529": {
+"lecture": false
+},
+"https://dbbs.ncku.edu.tw/p/406-1153-308736,r1757.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308735,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308750,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308750,r11.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.12.8 (二) Johannes Yeh - Engineered Biomolecules for Discovery Research and Therapeutic Target Validation",
+"topic": "Engineered Biomolecules for Discovery Research and Therapeutic Target Validation",
+"speaker": null,
+"place": "醫學院4F大會議室",
+"time_raw": "115.12.8",
+"date": "2026-12-08",
+"start": [
+12,
+30
+],
+"end": [
+14,
+0
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-25",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308735,r3230.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308750,r2837.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308750,r2837.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.12.8 (二) Johannes Yeh - Engineered Biomolecules for Discovery Research and Therapeutic Target Validation",
+"topic": "Engineered Biomolecules for Discovery Research and Therapeutic Target Validation",
+"speaker": null,
+"place": "醫學院4F大會議室",
+"time_raw": "115.12.8",
+"date": "2026-12-08",
+"start": [
+12,
+30
+],
+"end": [
+14,
+0
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-25",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://med.ncku.edu.tw/p/406-1015-308750,r2041.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "醫學院",
+"url": "https://med.ncku.edu.tw/p/406-1015-308750,r2041.php?Lang=zh-tw",
+"title": "【醫學院聯合演講】115.12.8 (二) Johannes Yeh - Engineered Biomolecules for Discovery Research and Therapeutic Target Validation",
+"topic": "Engineered Biomolecules for Discovery Research and Therapeutic Target Validation",
+"speaker": null,
+"place": "醫學院4F大會議室",
+"time_raw": "115.12.8",
+"date": "2026-12-08",
+"start": [
+12,
+30
+],
+"end": [
+14,
+0
+],
+"tags": [
+"開放"
+],
+"notes": [],
+"found": "2026-11-25",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://web.hyd.ncku.edu.tw/?p=19037": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=19034": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?p=19019": {
+"lecture": false
+},
+"https://ccep.ncku.edu.tw/p/406-1236-308748,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "不分系學士學位學程",
+"url": "https://ccep.ncku.edu.tw/p/406-1236-308748,r11.php?Lang=zh-tw",
+"title": "【演講】晶片能護國嗎？半導體產業、地緣政治與我們的未來─國科會「晶片之外」專題研究計畫特別對談",
+"topic": null,
+"speaker": "吳介民（中央研究院社會學研究所特聘研究員）",
+"place": "國立成功大學電機系繁城講堂",
+"time_raw": "2026年12月17日（四）13:10-15:00",
+"date": "2026-12-17",
+"start": [
+13,
+10
+],
+"end": [
+15,
+0
+],
+"tags": [
+"需報名"
+],
+"notes": [
+"報名：…學電機系繁城講堂 報名人數：40人 報名表單：https://docs.goog…"
+],
+"found": "2026-11-25",
+"pub": "2026-11-24",
+"v": 2
 }
 }
