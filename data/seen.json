@@ -30240,5 +30240,579 @@
 },
 "https://pharma.ncku.edu.tw/p/406-1233-308671,r11.php?Lang=zh-tw": {
 "lecture": false
+},
+"https://his.ncku.edu.tw/p/406-1226-308727,r4046.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "歷史學系",
+"url": "https://his.ncku.edu.tw/p/406-1226-308727,r4046.php?Lang=zh-tw",
+"title": "【系列講座】動物史的冥觀轉向：從史學反身性到研究主體的轉化",
+"topic": null,
+"speaker": "張嘉如,美國紐約市立大學布魯克林學院(Brooklyn College, CUNY)全球語言、文學與文化系教授,創立「中國與禪宗冥觀研究輔修學程」(Chinese and Zen Contemplative Studies Program)及「冥觀人文教育學院」。曾任聯合國世界冥想日「人文、藝術與倫理委員會」主席。",
+"place": "成大光復校區歷史系館25131教室",
+"time_raw": "2026/12/1 14:00-17:00",
+"date": "2026-12-01",
+"start": [
+14,
+0
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://his.ncku.edu.tw/p/406-1226-308726,r4046.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "歷史學系",
+"url": "https://his.ncku.edu.tw/p/406-1226-308726,r4046.php?Lang=zh-tw",
+"title": "【系列講座】誰在使用AI？冥觀人文學與AI時代歷史研究主體的形成",
+"topic": null,
+"speaker": "張嘉如,美國紐約市立大學布魯克林學院(Brooklyn College, CUNY)全球語言、文學與文化系教授,創立「中國與禪宗冥觀研究輔修學程」(Chinese and Zen Contemplative Studies Program)及「冥觀人文教育學院」。曾任聯合國世界冥想日「人文、藝術與倫理委員會」主席。",
+"place": "成大光復校區文學院學術演講廳(中文系館1樓)",
+"time_raw": "2026/12/1 9:00-12:00",
+"date": "2026-12-01",
+"start": [
+9,
+0
+],
+"end": [
+12,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://flld.ncku.edu.tw/p/406-1165-308725,r2588.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://dps.ncku.edu.tw/p/406-1174-308716,r2977.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "光電科學與工程學系",
+"url": "https://dps.ncku.edu.tw/p/406-1174-308716,r2977.php?Lang=zh-tw",
+"title": "115/11/27 專題演講公告",
+"topic": "當AI開始做晶片-實體設計工程師會被取代，還是迎來角色升級？",
+"speaker": null,
+"place": "綜合大樓4F 48424室",
+"time_raw": null,
+"date": "2026-11-27",
+"start": [
+14,
+10
+],
+"end": [
+16,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": null,
+"v": 2
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=775&index=1": {
+"lecture": true,
+"unit": "IMBA",
+"url": "https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=775&index=1",
+"title": "演講活動｜林欽和副教授專題演講",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-24",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=773&index=2": {
+"lecture": true,
+"unit": "IMBA",
+"url": "https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=773&index=2",
+"title": "【專題演講公告】:Trade Sanctions and the Margins of International Trade",
+"topic": null,
+"speaker": null,
+"place": "Building of Management, Room 62201 (2nd Floor)",
+"time_raw": null,
+"date": "2026-11-17",
+"start": [
+14,
+0
+],
+"end": [
+16,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-17",
+"v": 2
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=771&index=3": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=770&index=4": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=766&index=5": {
+"lecture": true,
+"unit": "IMBA",
+"url": "https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=766&index=5",
+"title": "【專題演講公告】: Complex and Critical: AI Delegation in Supplier Selection",
+"topic": "Complex and Critical: AI Delegation in Supplier Selection",
+"speaker": null,
+"place": "62201教室",
+"time_raw": "2026年10月16日（星期五）14:00–16:00",
+"date": "2026-10-16",
+"start": [
+14,
+0
+],
+"end": [
+16,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-10-06",
+"v": 2
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=654&index=6": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=764&index=7": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=763&index=8": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=758&index=9": {
+"lecture": false
+},
+"https://imba.ncku.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=709&index=10": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13502": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/php/csie_project/": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4528": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4527": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4528": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4527": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4526": {
+"lecture": true,
+"unit": "微電子工程研究所",
+"url": "https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4526",
+"title": "[演講公告] 11/26 (四) 13:30~15:00 李文玄助理教授 專題演講",
+"topic": "基於一位元回授之異質分散式最快變點檢測",
+"speaker": "李文玄, 國立臺北大學/助理教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/26 (四) 13:30~15:00",
+"date": "2026-11-26",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4526": {
+"lecture": true,
+"unit": "電機工程學系",
+"url": "https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4526",
+"title": "[演講公告] 11/26 (四) 13:30~15:00 李文玄助理教授 專題演講",
+"topic": "基於一位元回授之異質分散式最快變點檢測",
+"speaker": "李文玄, 國立臺北大學/助理教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/26 (四) 13:30~15:00",
+"date": "2026-11-26",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://mse.ncku.edu.tw/p/406-1234-308715,r4141.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4525": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4524": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4525": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4524": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4523": {
+"lecture": true,
+"unit": "微電子工程研究所",
+"url": "https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4523",
+"title": "[演講公告] 12/08 (二) 14:00~15:30 Jianming She, Ph.D. 專題演講",
+"topic": "From WAAS to SouthPAN: Integrity Lessons from Operational SBAS",
+"speaker": "Jianming She, Ph.D., Principal Systems Architect, MITRE",
+"place": "電機系館B1 令洋廳",
+"time_raw": "12/08 (二) 14:00~15:30",
+"date": "2026-12-08",
+"start": [
+14,
+0
+],
+"end": [
+15,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4523": {
+"lecture": true,
+"unit": "電機工程學系",
+"url": "https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4523",
+"title": "[演講公告] 12/08 (二) 14:00~15:30 Jianming She, Ph.D. 專題演講",
+"topic": "From WAAS to SouthPAN: Integrity Lessons from Operational SBAS",
+"speaker": "Jianming She, Ph.D., Principal Systems Architect, MITRE",
+"place": "電機系館B1 令洋廳",
+"time_raw": "12/08 (二) 14:00~15:30",
+"date": "2026-12-08",
+"start": [
+14,
+0
+],
+"end": [
+15,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4528": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4527": {
+"lecture": false
+},
+"https://mse.ncku.edu.tw/p/406-1234-308715,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4526": {
+"lecture": true,
+"unit": "通訊工程研究所",
+"url": "https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4526",
+"title": "[演講公告] 11/26 (四) 13:30~15:00 李文玄助理教授 專題演講",
+"topic": "基於一位元回授之異質分散式最快變點檢測",
+"speaker": "李文玄, 國立臺北大學/助理教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/26 (四) 13:30~15:00",
+"date": "2026-11-26",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4525": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4524": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4523": {
+"lecture": true,
+"unit": "通訊工程研究所",
+"url": "https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4523",
+"title": "[演講公告] 12/08 (二) 14:00~15:30 Jianming She, Ph.D. 專題演講",
+"topic": "From WAAS to SouthPAN: Integrity Lessons from Operational SBAS",
+"speaker": "Jianming She, Ph.D., Principal Systems Architect, MITRE",
+"place": "電機系館B1 令洋廳",
+"time_raw": "12/08 (二) 14:00~15:30",
+"date": "2026-12-08",
+"start": [
+14,
+0
+],
+"end": [
+15,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4528": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4527": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4526": {
+"lecture": true,
+"unit": "奈米積體電路工程碩士學位學程",
+"url": "https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4526",
+"title": "[演講公告] 11/26 (四) 13:30~15:00 李文玄助理教授 專題演講",
+"topic": "基於一位元回授之異質分散式最快變點檢測",
+"speaker": "李文玄, 國立臺北大學/助理教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/26 (四) 13:30~15:00",
+"date": "2026-11-26",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4525": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4524": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4528": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4527": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4523": {
+"lecture": true,
+"unit": "奈米積體電路工程碩士學位學程",
+"url": "https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4523",
+"title": "[演講公告] 12/08 (二) 14:00~15:30 Jianming She, Ph.D. 專題演講",
+"topic": "From WAAS to SouthPAN: Integrity Lessons from Operational SBAS",
+"speaker": "Jianming She, Ph.D., Principal Systems Architect, MITRE",
+"place": "電機系館B1 令洋廳",
+"time_raw": "12/08 (二) 14:00~15:30",
+"date": "2026-12-08",
+"start": [
+14,
+0
+],
+"end": [
+15,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4526": {
+"lecture": true,
+"unit": "智慧資訊安全碩士學位學程",
+"url": "https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4526",
+"title": "[演講公告] 11/26 (四) 13:30~15:00 李文玄助理教授 專題演講",
+"topic": "基於一位元回授之異質分散式最快變點檢測",
+"speaker": "李文玄, 國立臺北大學/助理教授",
+"place": "電機系館B1 迅慧講堂",
+"time_raw": "11/26 (四) 13:30~15:00",
+"date": "2026-11-26",
+"start": [
+13,
+30
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4525": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4524": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4523": {
+"lecture": true,
+"unit": "智慧資訊安全碩士學位學程",
+"url": "https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4523",
+"title": "[演講公告] 12/08 (二) 14:00~15:30 Jianming She, Ph.D. 專題演講",
+"topic": "From WAAS to SouthPAN: Integrity Lessons from Operational SBAS",
+"speaker": "Jianming She, Ph.D., Principal Systems Architect, MITRE",
+"place": "電機系館B1 令洋廳",
+"time_raw": "12/08 (二) 14:00~15:30",
+"date": "2026-12-08",
+"start": [
+14,
+0
+],
+"end": [
+15,
+30
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": "2026-11-24",
+"v": 2
+},
+"https://www.polsci.ncku.edu.tw/news_detail.asp?nid=761": {
+"lecture": true,
+"unit": "政治學系",
+"url": "https://www.polsci.ncku.edu.tw/news_detail.asp?nid=761",
+"title": ">「APEC美中俄三方會晤後的台海戰略走向」社科院論壇",
+"topic": null,
+"speaker": null,
+"place": "國立成功大學社會科學院 政治系階梯教室",
+"time_raw": "2026年11月26日（星期四）上午10時到中午12時",
+"date": "2026-11-26",
+"start": [
+10,
+0
+],
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-24",
+"pub": null,
+"v": 2
+},
+"https://imis.ncku.edu.tw/p/423-1156-2523.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ide.ncku.edu.tw/p/406-1160-308717,r2406.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ide.ncku.edu.tw/p/406-1160-308717,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ide.ncku.edu.tw/p/406-1160-308717,r2402.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ide.ncku.edu.tw/p/406-1160-308717,r2403.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308724,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308724,r2837.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308724,r2042.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ide.ncku.edu.tw/p/406-1160-308717,r2401.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308706,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308724,r2041.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308706,r3230.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://med.ncku.edu.tw/p/406-1015-308724,r2039.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://mt.ncku.edu.tw/p/406-1151-308718,r1705.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://mt.ncku.edu.tw/p/406-1151-308718,r11.php?Lang=zh-tw": {
+"lecture": false
 }
 }
