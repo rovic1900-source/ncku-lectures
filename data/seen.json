@@ -31170,5 +31170,149 @@
 "found": "2026-11-25",
 "pub": "2026-11-25",
 "v": 2
+},
+"https://math.ncku.edu.tw/p/406-1221-305419,r3749.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://math.ncku.edu.tw/p/406-1221-295098,r3749.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://dps.ncku.edu.tw/p/406-1174-308778,r2978.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://mp.ncku.edu.tw/%e3%80%90%e7%a2%a9%e7%94%84%e3%80%91%e8%b3%87%e6%ba%90%e7%b3%bb116%e5%ad%b8%e5%b9%b4%e5%ba%a6%e7%a2%a9%e5%a3%ab%e7%8f%ad%e7%94%84%e8%a9%a6%e9%8c%84%e5%8f%96%e7%94%9f%e7%b7%9a%e4%b8%8a%e5%a0%b1/": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4531": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4531": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4531": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4531": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4531": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/406-1156-308811,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/406-1156-308811,r2186.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/405-1156-308811,c18810.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://imis.ncku.edu.tw/p/405-1156-308469,c18810.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://psychology.ncku.edu.tw/p/406-1235-308802,r4189.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "心理學系",
+"url": "https://psychology.ncku.edu.tw/p/406-1235-308802,r4189.php?Lang=zh-tw",
+"title": "【專題演講】11/27(五) 輔導教師職業經歷分享",
+"topic": "輔導教師職業經歷分享",
+"speaker": "蔡嘉昇（國立嘉義大學輔導與諮商研究所）",
+"place": "成大社會科學院北棟2樓心理學系階梯教室",
+"time_raw": "2026年11月27日（星期五）13:00–15:00",
+"date": "2026-11-27",
+"start": [
+13,
+0
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-26",
+"pub": null,
+"v": 2
+},
+"https://micimmun.ncku.edu.tw/p/406-1119-308791,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://micimmun.ncku.edu.tw/p/405-1119-308791,c83.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://psychology.ncku.edu.tw/p/405-1235-308802,c32496.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "心理學系",
+"url": "https://psychology.ncku.edu.tw/p/405-1235-308802,c32496.php?Lang=zh-tw",
+"title": "【專題演講】11/27(五) 輔導教師職業經歷分享",
+"topic": "輔導教師職業經歷分享",
+"speaker": "蔡嘉昇（國立嘉義大學輔導與諮商研究所）",
+"place": "成大社會科學院北棟2樓心理學系階梯教室",
+"time_raw": "2026年11月27日（星期五）13:00–15:00",
+"date": "2026-11-27",
+"start": [
+13,
+0
+],
+"end": [
+15,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-26",
+"pub": "2026-11-25",
+"v": 2
+},
+"https://www.up.ncku.edu.tw/115-10-16-01/": {
+"lecture": true,
+"unit": "都市計劃學系",
+"url": "https://www.up.ncku.edu.tw/115-10-16-01/",
+"title": "【演講紀錄】專業講座—從防災視角透析國土計畫之整合機制",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-10-16",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-26",
+"pub": "2026-10-16",
+"v": 2
+},
+"https://web.hyd.ncku.edu.tw/": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?page_id=1797": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?page_id=1853": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?page_id=1934": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?page_id=6720": {
+"lecture": false
+},
+"https://web.hyd.ncku.edu.tw/?page_id=2338": {
+"lecture": false
+},
+"https://computing.ncku.edu.tw/p/406-1138-219572,r272.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://computing.ncku.edu.tw/p/406-1138-219572,r268.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://computing.ncku.edu.tw/p/406-1138-219572,r293.php?Lang=zh-tw": {
+"lecture": false
 }
 }
