@@ -32034,5 +32034,395 @@
 },
 "https://medicine.ncku.edu.tw/p/406-1152-308950,r3225.php?Lang=zh-tw": {
 "lecture": false
+},
+"https://science.ncku.edu.tw/p/406-1016-309011,r668.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://science.ncku.edu.tw/p/406-1016-309011,r2343.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.phys.ncku.edu.tw/news-detail/1237/": {
+"lecture": false
+},
+"https://www.phys.ncku.edu.tw/news-detail/1238/": {
+"lecture": false
+},
+"https://bme.ncku.edu.tw/p/406-1101-309002,r2350.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://bme.ncku.edu.tw/p/406-1101-309002,r2323.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://bme.ncku.edu.tw/p/406-1101-309021,r668.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://bme.ncku.edu.tw/p/406-1101-309016,r668.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://geomatics.ncku.edu.tw/p/406-1225-309001,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://geomatics.ncku.edu.tw/p/406-1225-309001,r3936.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4535": {
+"lecture": false
+},
+"https://www.ee.ncku.edu.tw/announcement_content.php?ann_id=4536": {
+"lecture": false
+},
+"https://www.csie.ncku.edu.tw/zh-hant/news/13636": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4535": {
+"lecture": false
+},
+"https://ime.ee.ncku.edu.tw/announcement_content.php?ann_id=4536": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4535": {
+"lecture": false
+},
+"https://ice.ee.ncku.edu.tw/announcement_content.php?ann_id=4536": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4535": {
+"lecture": false
+},
+"https://csi.ee.ncku.edu.tw/announcement_content.php?ann_id=4536": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4535": {
+"lecture": false
+},
+"https://nice.ee.ncku.edu.tw/announcement_content.php?ann_id=4536": {
+"lecture": false
+},
+"https://cpd.ncku.edu.tw/p/406-1021-309018,r3277.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "規劃與設計學院",
+"url": "https://cpd.ncku.edu.tw/p/406-1021-309018,r3277.php?Lang=zh-tw",
+"title": "【學院研究日】《設計未來・跨域創新》系列講座｜《AI與產業的創新發展與應用》",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-19",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://ide.ncku.edu.tw/p/406-1160-309010,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://cpd.ncku.edu.tw/p/406-1021-309018,r3272.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "規劃與設計學院",
+"url": "https://cpd.ncku.edu.tw/p/406-1021-309018,r3272.php?Lang=zh-tw",
+"title": "【學院研究日】《設計未來・跨域創新》系列講座｜《AI與產業的創新發展與應用》",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-19",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://cpd.ncku.edu.tw/p/405-1021-309018,c28374.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "規劃與設計學院",
+"url": "https://cpd.ncku.edu.tw/p/405-1021-309018,c28374.php?Lang=zh-tw",
+"title": "【學院研究日】《設計未來・跨域創新》系列講座｜《AI與產業的創新發展與應用》",
+"topic": null,
+"speaker": null,
+"place": null,
+"time_raw": null,
+"date": "2026-11-19",
+"start": null,
+"end": null,
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": "2026-11-19",
+"v": 2
+},
+"https://ide.ncku.edu.tw/p/406-1160-309010,r2403.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://itps.ncku.edu.tw/p/406-1148-309003,r11.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ide.ncku.edu.tw/p/406-1160-309010,r2401.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://itps.ncku.edu.tw/p/405-1148-309003,c82.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://ide.ncku.edu.tw/p/406-1160-309010,r2405.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://www.up.ncku.edu.tw/115-11-27-01/": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308989,r3225.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308989,r3728.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308819,r3728.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://medicine.ncku.edu.tw/p/406-1152-308989,r3228.php?Lang=zh-tw": {
+"lecture": false
+},
+"https://dfsr.ncku.edu.tw/p/406-1228-305569,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/406-1228-305569,r11.php?Lang=zh-tw",
+"title": "演講公告：What’s Really in Your Boba Tea? A Journey from Sugar to Artificial Sweeteners",
+"topic": "What’s Really in Your Boba Tea? A Journey from Sugar to Artificial Sweeteners",
+"speaker": "羅宇軒 副教授",
+"place": "醫學院鳯杯講堂",
+"time_raw": "3/12 – 3：10 PM～5：00 PM",
+"date": "2027-03-12",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://ais2m.ncku.edu.tw/?action=news&id=2638": {
+"lecture": true,
+"unit": "智慧半導體及永續製造學院",
+"url": "https://ais2m.ncku.edu.tw/?action=news&id=2638",
+"title": "【轉知演講資訊】Advanced Photonic Materials and 2D Material-Integrated Plasmonic Photodetectors for Next-Generation Optoelectronic Technologies",
+"topic": null,
+"speaker": "Professor Dr. Rozalina Zakaria, Photonics Research Centre,Faculty of Science, University Malaya(UM)",
+"place": "成功校區材料系館1樓半導體講堂",
+"time_raw": "2026年12月3日(四)13:10-14:00",
+"date": "2026-12-03",
+"start": [
+13,
+10
+],
+"end": [
+14,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://dfsr.ncku.edu.tw/p/406-1228-304930,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/406-1228-304930,r11.php?Lang=zh-tw",
+"title": "演講公告：Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
+"topic": "Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
+"speaker": "楊玉良 副主任",
+"place": "醫學院鳯杯講堂",
+"time_raw": "3/12 – 3：10 PM～5：00 PM",
+"date": "2027-03-12",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://dfsr.ncku.edu.tw/p/406-1228-304930,r4249.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/406-1228-304930,r4249.php?Lang=zh-tw",
+"title": "演講公告：Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
+"topic": "Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
+"speaker": "楊玉良 副主任",
+"place": "醫學院鳯杯講堂",
+"time_raw": "3/12 – 3：10 PM～5：00 PM",
+"date": "2027-03-12",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://dfsr.ncku.edu.tw/p/406-1228-296398,r4249.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/406-1228-296398,r4249.php?Lang=zh-tw",
+"title": "演講公告：從實驗室到餐桌，從基礎化學研究到食品安全管理 / From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
+"topic": "From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
+"speaker": "洪偉毅 首席合規經理",
+"place": "生醫卓群大樓1樓鳯杯講堂",
+"time_raw": "3/12 – 3：10 PM～5：00 PM",
+"date": "2027-03-12",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://dfsr.ncku.edu.tw/p/406-1228-296398,r11.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/406-1228-296398,r11.php?Lang=zh-tw",
+"title": "演講公告：從實驗室到餐桌，從基礎化學研究到食品安全管理 / From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
+"topic": "From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
+"speaker": "洪偉毅 首席合規經理",
+"place": "生醫卓群大樓1樓鳯杯講堂",
+"time_raw": "3/12 – 3：10 PM～5：00 PM",
+"date": "2027-03-12",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://dfsr.ncku.edu.tw/p/405-1228-305569,c32291.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/405-1228-305569,c32291.php?Lang=zh-tw",
+"title": "演講公告：What’s Really in Your Boba Tea? A Journey from Sugar to Artificial Sweeteners",
+"topic": "What’s Really in Your Boba Tea? A Journey from Sugar to Artificial Sweeteners",
+"speaker": "羅宇軒 副教授",
+"place": "醫學院鳯杯講堂",
+"time_raw": "3/12 – 3：10 PM～5：00 PM",
+"date": "2027-03-12",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://dfsr.ncku.edu.tw/p/405-1228-304930,c32291.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/405-1228-304930,c32291.php?Lang=zh-tw",
+"title": "演講公告：Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
+"topic": "Unveiling Microbial \"Small Talk\" via Mass Spectrometry",
+"speaker": "楊玉良 副主任",
+"place": "醫學院鳯杯講堂",
+"time_raw": "3/12 – 3：10 PM～5：00 PM",
+"date": "2027-03-12",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
+},
+"https://dfsr.ncku.edu.tw/p/405-1228-296398,c32291.php?Lang=zh-tw": {
+"lecture": true,
+"unit": "食品安全衛生暨風險管理研究所",
+"url": "https://dfsr.ncku.edu.tw/p/405-1228-296398,c32291.php?Lang=zh-tw",
+"title": "演講公告：從實驗室到餐桌，從基礎化學研究到食品安全管理 / From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
+"topic": "From the Lab to the Table, From Fundamental Chemistry Research to Food Safety Management",
+"speaker": "洪偉毅 首席合規經理",
+"place": "生醫卓群大樓1樓鳯杯講堂",
+"time_raw": "3/12 – 3：10 PM～5：00 PM",
+"date": "2027-03-12",
+"start": [
+15,
+10
+],
+"end": [
+17,
+0
+],
+"tags": [
+"未註明"
+],
+"notes": [],
+"found": "2026-11-28",
+"pub": null,
+"v": 2
 }
 }
